@@ -2,12 +2,12 @@ id,property_id,label,bedrooms,bathrooms,has_dsq,has_study,size_sqm,size_measure,
 ut-pandora-3br-study-dsq,prop-pandora-residences,3BR+study+DSQ,3,,true,true,152.68,unknown,,,true,false,5,Brochure floor plans pp.18–19 canonical
 ut-pandora-4br-dsq,prop-pandora-residences,4BR+DSQ,4,,true,false,194.32,unknown,,,true,false,5,Brochure canonical
 ut-pandora-5br-dsq,prop-pandora-residences,5BR+DSQ,5,,true,false,291.21,unknown,,,true,false,5,Brochure p.19; unit mix official conflict with 2/3/4 BR site claim
-ut-pandora-2br-agent,prop-pandora-residences,2BR (agent bands),2,,false,false,,unknown,,,false,true,3,Size bands 85.34–108.8; inventory sold-out contested
+ut-pandora-2br-agent,prop-pandora-residences,,2,,false,false,,unknown,,,false,true,3,Size bands 85.34–108.8; inventory sold-out contested | label: 2BR (agent bands)
 ut-astra-superior-studio,prop-astra-bay-residence,Superior Studio,0,,false,false,,gross_and_plinth,25.5,31.5,true,false,5,Flyer PDF canonical
 ut-astra-studio,prop-astra-bay-residence,Studio,0,,false,false,,gross_and_plinth,21,26.1,true,false,5,Flyer + HTML
 ut-astra-1br-l1,prop-astra-bay-residence,1 Bedroom Layout 1,1,,false,false,,gross_and_plinth,42.74,53.2,true,false,5,Flyer + HTML
 ut-astra-1br-l2,prop-astra-bay-residence,1 Bedroom Layout 2,1,,false,false,,gross_and_plinth,42.74,53.2,true,false,5,Flyer + HTML
-ut-astra-2br-agent,prop-astra-bay-residence,2BR (agent-only),2,,false,false,78.3,unknown,63,,false,true,3,Not on developer site; Block ~78.3 gross / Craiova ~63 plinth
+ut-astra-2br-agent,prop-astra-bay-residence,,2,,false,false,78.3,unknown,63,,false,true,3,Not on developer site; Block ~78.3 gross / Craiova ~63 plinth | label: 2BR (agent-only)
 ut-porini-1br,prop-porini-point,1 Bedroom,1,,false,false,54,total_area,,,true,false,5,Brochure/info-pack Total area; gross/plinth unknown
 ut-porini-2br,prop-porini-point,2 Bedroom Type 01/02,2,,false,false,90,total_area,,,true,false,5,Brochure/info-pack
 ut-porini-3br,prop-porini-point,3 Bedroom,3,,false,false,145,total_area,,,true,false,5,Brochure/info-pack
@@ -19,7 +19,7 @@ ut-gemini2-2br,prop-gemini-residency-phase-2,2 Bedroom,2,,,,,unknown,,,true,fals
 ut-diamond-1br,prop-diamond-bay-residences,1 Bedroom,1,,false,false,68,unknown,,,true,false,5,henbon product
 ut-diamond-2br,prop-diamond-bay-residences,2 Bedroom,2,,,false,,unknown,,,true,false,5,115–145 sqm henbon
 ut-diamond-3br-ph,prop-diamond-bay-residences,3-Bedroom Penthouse/duplex,3,,false,false,134,unknown,,,true,false,5,
-ut-diamond-3br-silver-agent,prop-diamond-bay-residences,3 Bedroom Duplex Silver (agent),3,,false,false,127,unknown,,,false,true,2,Not on henbon product pages
+ut-diamond-3br-silver-agent,prop-diamond-bay-residences,,3,,false,false,127,unknown,,,false,true,2,Not on henbon product pages | label: 3 Bedroom Duplex Silver (agent)
 ut-diamond-4br-study,prop-diamond-bay-residences,4-Bedroom Penthouse + Study,4,,false,true,211,unknown,,,true,false,5,
 ut-diamond-4br-dsq,prop-diamond-bay-residences,4-Bedroom Penthouse + Study + DSQ,4,,true,true,253,unknown,,,true,false,5,
 ut-diamond-5br,prop-diamond-bay-residences,5-Bedroom Duplex / Penthouse + DSQ + Study,5,,true,true,265,unknown,,,true,false,5,
@@ -42,8 +42,8 @@ ut-lesonia-2br,prop-lesonia-residences,2 Bedroom,2,,false,false,110,unknown,,,tr
 ut-lesonia-3br,prop-lesonia-residences,3 Bedroom,3,,false,false,150,unknown,,,true,false,5,Homepage 150–155 sqm
 ut-plumeria-2br,prop-plumeria-residency,2 Bedroom,2,,false,false,105,plinth,,,true,false,5,NEMA program 2BR; Own It plinth sizes secondary detail
 ut-plumeria-3br,prop-plumeria-residency,3 Bedroom,3,,false,false,130,plinth,,,true,false,5,NEMA program 3BR
-ut-plumeria-4br-ph-nv,prop-plumeria-residency,4BR Penthouse (agent),4,,false,false,233,unknown,,,false,true,2,Agent-only; absent from NEMA 2/3BR program
-ut-plumeria-5br-ph-nv,prop-plumeria-residency,5BR Penthouse (agent),5,,false,false,260,unknown,,,false,true,2,Agent-only NV
+ut-plumeria-4br-ph-nv,prop-plumeria-residency,,4,,false,false,233,unknown,,,false,true,2,Agent-only; absent from NEMA 2/3BR program | label: 4BR Penthouse (agent)
+ut-plumeria-5br-ph-nv,prop-plumeria-residency,,5,,false,false,260,unknown,,,false,true,2,Agent-only NV | label: 5BR Penthouse (agent)
 ut-polaris-1br,prop-polaris-residency,1 Bedroom,1,,false,false,60,plinth,,,false,true,3,Own It 650 sq.ft plinth ~60 sqm; no developer
 ut-polaris-1br-study,prop-polaris-residency,1 Bedroom + study,1,,false,true,62,plinth,,,false,true,3,Own It 670/750 plinth bands
 ut-polaris-2br,prop-polaris-residency,2 Bedroom,2,,false,false,90,plinth,,,false,true,3,Own It 970/1150 plinth
@@ -137,9 +137,9 @@ ut-dh-4br,prop-donyo-hill-residences,4 Bedroom,4,,false,false,550,unknown,,,true
 ut-48th-4br,prop-48-treehouse,4 Bedroom,4,5,false,false,,unknown,,,true,true,5,Single typology; brochure 5280/5455 sqft; Featured from 5338 NDI; bathrooms=5 agent/portal conf3 NV (Hauzisha/Block) — 2026-10-17 hygiene
 ut-sp2-2br,prop-sunpark-residence-ii,2 Bedroom,2,,false,false,107,unknown,,,true,false,5,Official from 1150 sqft; agents ~1152
 ut-sp2-3br,prop-sunpark-residence-ii,3 Bedroom,3,,false,false,150,unknown,,,true,false,5,Official 2&3BR program
-ut-sp2-1br-nv,prop-sunpark-residence-ii,1 Bedroom (agent),1,,false,false,103,unknown,,,false,true,3,Agent Phase II tables only — not on Elegant II page
-ut-sp2-2br-dsq-nv,prop-sunpark-residence-ii,2 Bedroom + DSQ (agent),2,,true,false,121,unknown,,,false,true,3,Agent only
-ut-sp2-3br-dsq-nv,prop-sunpark-residence-ii,3 Bedroom + DSQ (agent),3,,true,false,169,unknown,,,false,true,3,Agent only
+ut-sp2-1br-nv,prop-sunpark-residence-ii,,1,,false,false,103,unknown,,,false,true,3,Agent Phase II tables only — not on Elegant II page | label: 1 Bedroom (agent)
+ut-sp2-2br-dsq-nv,prop-sunpark-residence-ii,,2,,true,false,121,unknown,,,false,true,3,Agent only | label: 2 Bedroom + DSQ (agent)
+ut-sp2-3br-dsq-nv,prop-sunpark-residence-ii,,3,,true,false,169,unknown,,,false,true,3,Agent only | label: 3 Bedroom + DSQ (agent)
 ut-cit-1br,prop-citrine-heights,1 Bedroom,1,,false,false,68,unknown,,,false,true,3,Agent typed — no official Citrine page
 ut-cit-2br,prop-citrine-heights,2 Bedroom,2,,false,false,105,unknown,,,false,true,3,
 ut-cit-2br-dsq,prop-citrine-heights,2 Bedroom + DSQ,2,,true,false,125,unknown,,,false,true,3,Hauzisha mix omits DSQ
@@ -151,7 +151,7 @@ ut-sm-2br,prop-serene-manor,2 Bedroom,2,,false,false,,unknown,,,true,false,5,
 ut-sm-3br,prop-serene-manor,3 Bedroom,3,,false,false,,unknown,,,true,false,5,
 ut-sm-4br,prop-serene-manor,4 Bedroom,4,,false,false,,unknown,,,true,false,5,
 ut-sm-8br-ph,prop-serene-manor,8 Bedroom duplex penthouse,8,,false,false,,unknown,,,true,false,5,Official exclusive duplex PH
-ut-sm-studio-nv,prop-serene-manor,Studio (Hauzisha),0,,false,false,28,unknown,,,false,true,2,Portal only — not on official mix
+ut-sm-studio-nv,prop-serene-manor,,0,,false,false,28,unknown,,,false,true,2,Portal only — not on official mix | label: Studio (Hauzisha)
 ut-rhapta-1br,prop-rhapta-one,1 Bedroom,1,,false,false,71,unknown,,,false,true,3,Agent consensus
 ut-rhapta-2br,prop-rhapta-one,2 Bedroom all en-suite,2,,false,false,110,unknown,,,false,true,3,Agent
 ut-rhapta-2br-dsq,prop-rhapta-one,2 Bedroom + DSQ,2,,true,false,131,unknown,,,false,true,3,Agent
