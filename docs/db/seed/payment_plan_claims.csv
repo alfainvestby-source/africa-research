@@ -115,3 +115,6 @@ pay-hp336-deposit-20,prop-highpoint-336,DISC-NBO-008,deposit_pct,20% deposit,20,
 pay-jabali-10-36,prop-jabali-towers,DISC-NBO-009,deposit_pct,KES 200k reservation + 10% in 14 days of LOO + 90% ≤36 mo to Dec 2028,10,instalment,5,true,false,false,true,1,true,tatucity.com/about-jabali-towers,Official FAQ canonical
 pay-balkis-20,prop-balkis-residences,DISC-NBO-010,deposit_pct,~20% deposit + instalments to completion,20,instalment,3,false,true,false,true,4,false,A-list|Craiova|Oaklane|Habari,Agent ≥4; not on official site
 pay-hephe-20-100,prop-hephe-palace,DISC-NBO-011,deposit_pct,Deposit options 20/30/50/100% + up to 36 mo,20,instalment,3,false,true,false,true,4,false,Crown|Masterways|Own It|NRE,Agent ≥4; LOO NV
+pay-spectre-reservation-100k,prop-spectre-residences,DISC-NBO-031,reservation_fee,"KES 100,000 reservation",100000,instalment,5,true,false,false,true,3,true,spectre.ke|CPK|Nairobi Realty|Karim LinkedIn,Developer Terms of acquisition
+pay-spectre-deposit-20,prop-spectre-residences,DISC-NBO-031,deposit_pct,20% on sale agreement / signing,20,instalment,5,true,false,false,true,3,true,spectre.ke|CPK|Nairobi Realty,Developer canonical must-have met
+pay-spectre-tenor-36,prop-spectre-residences,DISC-NBO-031,tenor_months,Balance over 36 months monthly,36,instalment,5,true,false,false,true,3,true,spectre.ke|agents,Developer canonical

@@ -1,7 +1,7 @@
 # Seed corpus rollup — full inventory
 
 **Last refreshed:** 2026-10-18  
-**Denominator:** **51** research dossiers ↔ **51** rows in `properties.csv`  
+**Denominator:** **52** research dossiers ↔ **52** rows in `properties.csv`  
 **Locks:** [decisions.md](../../decisions.md) · **Schema:** [schema.md](../schema.md) v0.1.14+ (`inventory_class`) · **Coverage:** [db-coverage-pass-2026-10-18.md](../../../internal/db-coverage-pass-2026-10-18.md)  
 **Prior slice:** [wave-b-rollup.md](wave-b-rollup.md)
 
@@ -11,11 +11,11 @@
 
 | Check | Result |
 |-------|--------|
-| Dossiers seeded | **51** |
-| `properties.csv` rows | **51** |
-| `inventory_class` blank | **0** (39 `building` / 12 `off_plan`) |
+| Dossiers seeded | **52** |
+| `properties.csv` rows | **52** |
+| `inventory_class` blank | **0** (39 `building` / 13 `off_plan`) |
 | Nairobi `NBO-001`…`017` | **17/17** |
-| National / discovery IDs | **NAK-001**, **MSA-001**, **ELD-001**, **KWA-001**, **DIA-001**, **DISC-NBO-001/004/005/006/007–030**, **DISC-CAPRICORN** |
+| National / discovery IDs | **NAK-001**, **MSA-001**, **ELD-001**, **KWA-001**, **DIA-001**, **DISC-NBO-001/004/005/006/007–031**, **DISC-CAPRICORN** |
 | Skipped Ready (not researched) | Sunpark I, Oak & Ivy |
 | Skipped / held | Gemini Hub; Alina Harbour; Ambra (thin) |
 | 70% public gate pass | Identity/geo/IC/map/units/prices/payments/features — see coverage report; bathrooms + exact GPS + progress **FAIL** |
@@ -32,7 +32,7 @@
 | `ELD-*` | Eldoret / Uasin Gishu | **ELD-001** Kings Square Ph2 |
 | `KWA-*` | Kwale / Diani coast | **KWA-001** Kai |
 | `DIA-*` | Diani (project-scoped) | **DIA-001** 108 Residences |
-| `DISC-*` | Discovery (no CSV NBO yet) | DISC-NBO-001 Canto; 004 Ankori; 005 Nouveau; 006 Brookside Oak; **007–011 Block 2028 Tier A**; **012–015 Elegant**; **016–018 Jafu**; **019–023 Wave B**; **024–030 Slice C**; DISC-CAPRICORN |
+| `DISC-*` | Discovery (no CSV NBO yet) | DISC-NBO-001 Canto; 004 Ankori; 005 Nouveau; 006 Brookside Oak; **007–011 Block 2028 Tier A**; **012–015 Elegant**; **016–018 Jafu**; **019–023 Wave B**; **024–030 Slice C**; **031 Spectre**; DISC-CAPRICORN |
 
 ---
 
@@ -98,6 +98,7 @@
 | **DISC-NBO-028** | atreus-brookside | Nairobi / Brookside Grove | **Atreus Ventures Ltd** EIA; Sunmon/Lesto RP | **5** EIA | `off_plan`; EIA GPS; **20%** must-have |
 | **DISC-NBO-029** | grand-premier | Nairobi / Argwings (Lavington) | **Whitehorse** (reuse) | **5** | `off_plan` Coming soon; **Ready lean NDI** |
 | **DISC-NBO-030** | rosewood-park | Nairobi / Rose Ave | **Whitehorse** (reuse) | **5** | `off_plan` Coming soon; **Ready lean + rentals NDI** |
+| **DISC-NBO-031** | spectre-residences | Nairobi / Westlands Rd (AU Close) | **AYA Real Estate** (**new**; ≠ Whitehorse / DISC-NBO-023) | **5** | `off_plan`; spectre.ke **9.7/12.4/18.4M** vs AYA hub **8.8/11.2/16.7M** **NDI** → **POA**; payment **100K/20%/36-mo** canonical; Karim marketing_partner; Maps CID pending |
 
 ---
 
@@ -126,6 +127,8 @@
 | `dev-m-group-developer` | **Marina Bay 2** primary; **Montbleu** marketing_partner RP only |
 | `dev-oasis-development-company` | **Rhapta One** only (conf 2) |
 | `dev-atreus-ventures-ltd` | **Atreus Brookside** EIA primary |
+| `dev-aya-real-estate` (**new**; ≠ Whitehorse) | **DISC-NBO-031** Spectre only — do not merge with `prop-aya-luxury-residence` |
+| `rp-karim-exclusives-spectre` (marketing_partner) | Spectre exclusive sales + concept — **not** `stk-karim-cg` |
 
 ---
 
@@ -138,7 +141,9 @@
 | First **Eldoret** | ELD-001 |
 | First **Kwale/Diani KWA** | KWA-001 Kai |
 | First **DIA** id | DIA-001 108 Residences |
-| Discovery IDs pending NBO allocation | Block 2028 **007–011**; Elegant 012–015; Jafu 016–018; Wave B 019–023; **Slice C 024–030** |
+| Discovery IDs pending NBO allocation | Block 2028 **007–011**; Elegant 012–015; Jafu 016–018; Wave B 019–023; Slice C 024–030; **Spectre 031** |
+| Official vs official typed floors **NDI** → POA | **Spectre** (spectre.ke vs AYA hub); also Lulu / Brookside patterns |
+| New developer brand ≠ name-alike project | **AYA Real Estate** (Spectre) ≠ Whitehorse **AYA Luxury Residence** |
 | Block 2028 Tier A seed | Lulu (Mi Vida POA); Highpoint 336; Jabali (Rendeavour); Balkis (Sunmon NV); Hephé (Sequoia) |
 | Hauzisha Slice C | Rhapta (Oasis); Alina (Wonder); Montbleu (null primary); Marina Bay 2 (M-Group); Atreus (EIA); GP+Rosewood (Whitehorse Ready lean) |
 | Null primary + RP faces | Only You; **Montbleu** (Muthithi Square / M-Group NDI) |

@@ -601,3 +601,19 @@ pf-rw-bore,prop-rosewood-park,borehole,borehole,,5,true,false,false,developer,
 pf-rw-gen,prop-rosewood-park,backup_generator,full backup generator,,5,true,false,false,developer,
 pf-rw-cctv,prop-rosewood-park,cctv,CCTV,,5,true,false,false,developer,
 pf-rw-sec,prop-rosewood-park,gated_security,24hr security / electric fence,,5,true,false,false,developer,
+pf-spectre-lounge,prop-spectre-residences,lounge,Residents Lounge,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-garden-lounge,prop-spectre-residences,lounge,Garden Lounge,garden lounge variant,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-kids,prop-spectre-residences,kids_play,Play Lounge,play lounge / children's play,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-meeting,prop-spectre-residences,conference_room,Meeting Room,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-yoga,prop-spectre-residences,yoga,Yoga & Wellness,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-parking,prop-spectre-residences,parking,Valet Parking,valet,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-dining,prop-spectre-residences,restaurant_cafe,Fine Dining,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-spa,prop-spectre-residences,spa,Spa & Sauna,spa half of pair,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-sauna,prop-spectre-residences,sauna,Spa & Sauna,sauna half of pair,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-gym,prop-spectre-residences,gym,Fitness Gym,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-pool,prop-spectre-residences,swimming_pool,Swimming Pool,also heated infinity / 21st floor,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-concierge,prop-spectre-residences,concierge,Concierge,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-cinema,prop-spectre-residences,cinema,Private Cinema,,5,true,false,false,developer,spectre.ke THE AMENITIES (core)
+pf-spectre-sky-lounge,prop-spectre-residences,lounge,Sky terrace / sky lounge,11th-floor sky terrace / 21st-floor sky lounge,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)
+pf-spectre-cowork,prop-spectre-residences,coworking,Business / co-working,business centre / meeting,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)
+pf-spectre-games,prop-spectre-residences,indoor_gaming,Games room,indoor gaming,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)

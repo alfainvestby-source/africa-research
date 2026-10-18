@@ -200,3 +200,6 @@ ut-hephe-studio,prop-hephe-palace,Studio,0,,,,48,unknown,,,false,true,3,Agent sh
 ut-hephe-1br,prop-hephe-palace,1 Bedroom,1,,,,69,unknown,,,false,true,3,Agent 67–72
 ut-hephe-2br,prop-hephe-palace,2 Bedroom,2,,,,109,unknown,,,false,true,3,Agent
 ut-hephe-3br-dsq,prop-hephe-palace,3 Bedroom + DSQ,3,,true,,158,unknown,,,false,true,3,Agent 158–168
+ut-spectre-1br-50,prop-spectre-residences,1 Bedroom (50 sqm),1,,false,false,50,unknown,,,true,false,5,spectre.ke + AYA hub agree size
+ut-spectre-1br-65,prop-spectre-residences,1 Bedroom (65 sqm),1,,false,false,65,unknown,,,true,false,5,spectre.ke + AYA hub agree size
+ut-spectre-2br-100,prop-spectre-residences,2 Bedroom (100 sqm),2,,false,false,100,unknown,,,true,false,5,spectre.ke + AYA hub agree size

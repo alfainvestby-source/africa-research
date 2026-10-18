@@ -189,3 +189,11 @@ price-jabali-2br-19-4m,prop-jabali-towers,ut-jabali-2br,19400000,KES,typed_from,
 price-jabali-3br-34-36m,prop-jabali-towers,ut-jabali-3br,34360000,KES,typed_from,,,5,true,false,false,developer,Tatu FAQ,2026-10-16
 price-balkis-1br-7-9m,prop-balkis-residences,ut-balkis-1br,7900000,KES,typed_from,,,3,false,true,false,agent,Multi-agent matrix; no official list,2026-10-16
 price-hephe-from-6-2m,prop-hephe-palace,,6200000,KES,from_hero,,,3,false,true,false,agent,Crown/agents floor; no official list,2026-10-16
+price-spectre-ke-1br-50-97,prop-spectre-residences,ut-spectre-1br-50,9700000,KES,list_price,,spectre_ke,5,false,false,true,developer,spectre.ke ROI/summary — NDI vs AYA hub 8.8M,2026-10-18
+price-spectre-ke-1br-65-124,prop-spectre-residences,ut-spectre-1br-65,12400000,KES,list_price,,spectre_ke,5,false,false,true,developer,spectre.ke — NDI vs AYA hub 11.2M,2026-10-18
+price-spectre-ke-2br-100-184,prop-spectre-residences,ut-spectre-2br-100,18400000,KES,list_price,,spectre_ke,5,false,false,true,developer,spectre.ke — NDI vs AYA hub 16.7M,2026-10-18
+price-spectre-aya-1br-50-88,prop-spectre-residences,ut-spectre-1br-50,8800000,KES,list_price,,aya_developments_hub,4,false,false,true,developer,AYA developments typed — NDI vs spectre.ke 9.7M,2026-10-18
+price-spectre-aya-1br-65-112,prop-spectre-residences,ut-spectre-1br-65,11200000,KES,list_price,,aya_developments_hub,4,false,false,true,developer,AYA hub — NDI vs spectre.ke 12.4M,2026-10-18
+price-spectre-aya-2br-100-167,prop-spectre-residences,ut-spectre-2br-100,16700000,KES,list_price,,aya_developments_hub,4,false,false,true,developer,AYA hub — NDI vs spectre.ke 18.4M,2026-10-18
+price-spectre-agent-from-88,prop-spectre-residences,ut-spectre-1br-50,8800000,KES,from_hero,,cpk_nairobi_realty,3,false,true,false,agent,CPK / Nairobi Realty / Karim social echo older ladder,2026-10-18
+price-spectre-agent-2br-from-167,prop-spectre-residences,ut-spectre-2br-100,16700000,KES,from_hero,,nairobi_realty,3,false,true,false,agent,Nairobi Realty 2BR from 16.7M,2026-10-18

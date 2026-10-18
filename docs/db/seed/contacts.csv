@@ -191,3 +191,14 @@ ct-gp-url,url,https://aad.ke/grand-premier/,property,prop-grand-premier,AAD/Whit
 ct-gp-hauzisha,url,https://hauzisha.co.ke/developments/grand-premier/,property,prop-grand-premier,Hauzisha Coming soon (phone ≠ Whitehorse),false
 ct-rw-url,url,https://whitehorserealestate.ke/projects/,property,prop-rosewood-park,Whitehorse projects hub,true
 ct-rw-hauzisha,url,https://hauzisha.co.ke/developments/rosewood-park/,property,prop-rosewood-park,Hauzisha Coming soon (phone ≠ Whitehorse),false
+ct-spectre-dev-phone-140,phone,+254 140 000 444,developer,dev-aya-real-estate,AYA / Spectre sales (user + official),true
+ct-spectre-dev-phone-752,phone,+254 752 000 444,developer,dev-aya-real-estate,AYA corporate (user; on ayarealestateltd.com),false
+ct-spectre-dev-email,email,info@ayarealestateltd.com,developer,dev-aya-real-estate,AYA developer email,true
+ct-spectre-dev-url,url,https://www.ayarealestateltd.com/,developer,dev-aya-real-estate,AYA Real Estate,true
+ct-spectre-prop-url,url,https://spectre.ke/,property,prop-spectre-residences,Official project site,true
+ct-spectre-prop-phone,phone,+254 140 000 444,property,prop-spectre-residences,Project / developer sales strip,true
+ct-spectre-karim-phone,phone,+254 140 000 700,related_party,rp-karim-exclusives-spectre,Karim exclusive sales,true
+ct-spectre-karim-email,email,sales@karimexclusives.com,related_party,rp-karim-exclusives-spectre,Karim exclusive sales,true
+ct-spectre-karim-url,url,https://www.karimexclusives.com,related_party,rp-karim-exclusives-spectre,Karim Exclusives,true
+ct-spectre-cpk-phone,phone,+254 78 444 8888,agent,agent-cpk,CPK Spectre listing (secondary),false
+ct-spectre-nre-phone,phone,+254 700 624 620,agent,agent-nairobi-realty,Nairobi Realty Spectre listing (secondary),false

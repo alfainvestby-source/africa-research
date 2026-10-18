@@ -1,5 +1,33 @@
 # DB model changelog
 
+## 0.1.26 — 2026-10-18 — Spectre Residences seed (DISC-NBO-031)
+
+### Seeded
+| ID | Project | Notes |
+|----|---------|-------|
+| DISC-NBO-031 | Spectre Residences | `inventory_class=off_plan`; Westlands Rd / AU Close |
+
+### Developer / parties
+- **NEW** `dev-aya-real-estate` (trading conf **5**) — **≠** `dev-whitehorse-real-estate` / `prop-aya-luxury-residence` (DISC-NBO-023)
+- RelatedParty `rp-karim-exclusives-spectre` = **marketing_partner** (exclusive sales + concept) — do **not** merge `stk-karim-cg`
+- Stakeholders: Blink Studio (architect); Metrix Integrated (structural / `other`); Miller & Company Advocates (`other`)
+
+### Prices / payment / contacts
+- Multi `price_observations` — spectre.ke **9.7/12.4/18.4M** vs AYA hub **8.8/11.2/16.7M** → **`needs_developer_input`**; public hero **POA**
+- Payment developer-canonical: reservation **100K** + **20%** + **36 mo** (must-have **met**)
+- User-locked developer phones/email/URLs; Karim exclusive contacts; **never** `0730`
+
+### Geo
+- Nominatim Westlands Road pin conf **2** only (`pin-spectre-nominatim-westlands-rd`); Maps CID pending — **no** `properties.lat/lng` promote
+
+### Rollup
+- [`seed/corpus-rollup.md`](seed/corpus-rollup.md) — **52** properties (39 `building` / 13 `off_plan`)
+
+### Docs
+- Dossier [`projects/spectre-residences.md`](../projects/spectre-residences.md) · handoff [`../../internal/spectre-residences-steward-handoff-2026-10-18.md`](../../internal/spectre-residences-steward-handoff-2026-10-18.md) · ingest [`../../internal/spectre-residences-seed-ingest.md`](../../internal/spectre-residences-seed-ingest.md)
+
+---
+
 ## 0.1.25 — 2026-10-18 — Pandora Residences official URL + Maps CID place
 
 ### Official URL (user-provided)

@@ -3,13 +3,13 @@
 **Rule:** rows come only from verified dossier claims. No invented property facts.  
 CSV `/cursor/stores/self/internal/nairobi_off_plan_projects.csv` = **lead index only**.
 
-**Full inventory:** [corpus-rollup.md](corpus-rollup.md) (**51** properties — NBO + NAK/MSA/ELD/KWA/DIA + DISC)  
+**Full inventory:** [corpus-rollup.md](corpus-rollup.md) (**52** properties — NBO + NAK/MSA/ELD/KWA/DIA + DISC)  
 **Coverage pass:** [db-coverage-pass-2026-10-18.md](../../../internal/db-coverage-pass-2026-10-18.md)  
 **Card facets harvest (0.1.21):** [property-card-facets-harvest-report-2026-10-18.md](../../../internal/property-card-facets-harvest-report-2026-10-18.md)  
 **Prior Wave B slice:** [wave-b-rollup.md](wave-b-rollup.md)  
 **Locks:** [decisions.md](../../decisions.md)
 
-## Coverage (51 properties)
+## Coverage (52 properties)
 
 ### National / discovery
 | external_id | Project | Included |
@@ -48,6 +48,7 @@ CSV `/cursor/stores/self/internal/nairobi_off_plan_projects.csv` = **lead index 
 | DISC-NBO-028 | Atreus Brookside | Yes — Atreus Ventures EIA; `off_plan` |
 | DISC-NBO-029 | Grand Premier | Yes — Whitehorse; `off_plan`; Ready lean NDI |
 | DISC-NBO-030 | Rosewood Park | Yes — Whitehorse; `off_plan`; Ready lean NDI |
+| DISC-NBO-031 | Spectre Residences | Yes — **AYA Real Estate** NEW (≠ Whitehorse / AYA Luxury); `off_plan`; price NDI → POA; payment developer canonical |
 
 ### Nairobi (17)
 

@@ -1,7 +1,7 @@
-- [ ] GitHub sync — research still in Agent Store; push interrupted earlier (docs+media ~910MB)
+- [x] [Seed Spectre](bc-1bdc7ab6-93cc-513e-a234-3ba81ab0f03b) — DISC-NBO-031 ingested; corpus **52**; Maps CID pin may still patch
 - [ ] Bathroom harvest — still sparse
 - [ ] Medium Hauzisha matches — Alba / Gemini 2 / Gaia / Alina Valley still unlinked
-- [x] Draft developments page brief — [brief](/cursor/stores/self/docs/product/draft-developments-page-brief.md)
-- [x] Pandora URL + exact pin
-- [x] Hauzisha property_id links — **17** · corpus **51**
+- [x] Spectre Residences dossier — [spectre-residences.md](/cursor/stores/self/docs/projects/spectre-residences.md) (AYA RE ≠ Whitehorse AYA Luxury)
+- [x] GitHub mirror — https://github.com/alfainvestby-source/africa-research
+- [x] Corpus **52**
 - [x] Product checklist #1–8 **LOCKED**
