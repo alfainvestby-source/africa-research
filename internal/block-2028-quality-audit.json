@@ -1,0 +1,388 @@
+{
+  "conclusion": "Block.ke treated as low-trust / likely AI-generated aggregation. Use for development name discovery only. Do not import apartment/house listings. Project hubs and tagged listings are NOT authoritative.",
+  "flagged_projects": [
+    {
+      "project": "Jabali Towers",
+      "n": 5,
+      "areas": {
+        "Tatu City": 5
+      },
+      "cities": {
+        "Kiambu": 5
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "42336",
+          200000.0,
+          "3-Bedroom Apartments for Sale in Tatu City | Jabali Towers"
+        ],
+        [
+          "42327",
+          200000.0,
+          "2-Bedroom Apartments for Sale in Tatu City | Jabali Towers"
+        ],
+        [
+          "32419",
+          200000.0,
+          "1-Bedroom Apartments for Sale in Tatu City | Jabali Towers"
+        ],
+        [
+          "32407",
+          200000.0,
+          "Studio Apartments for Sale in Tatu City | Jabali Towers"
+        ],
+        [
+          "30500",
+          102000.0,
+          "Jabali Towers, Tatu City \u2014 1, 2 & 3 Bedroom Apartments for S"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 5
+    },
+    {
+      "project": "Gaia Brookside",
+      "n": 4,
+      "areas": {
+        "Brookside": 4,
+        "Westlands": 4
+      },
+      "cities": {
+        "Nairobi": 4
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "34235",
+          200000.0,
+          "5 Bedroom Apartments at Gaia Brookside, Westlands"
+        ],
+        [
+          "34234",
+          200000.0,
+          "4 Bedroom Apartments at Gaia Brookside, Westlands"
+        ],
+        [
+          "34233",
+          200000.0,
+          "3 Bedroom Apartments at Gaia Brookside, Westlands"
+        ],
+        [
+          "34223",
+          200000.0,
+          "Gaia Brookside, Westlands | 3, 4 & 5 Bedroom Apartments"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 4
+    },
+    {
+      "project": "Morvara Hotel Style Apartments",
+      "n": 5,
+      "areas": {
+        "Westlands": 5
+      },
+      "cities": {
+        "Nairobi": 5
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "38760",
+          129900.0,
+          "2 Bedroom Apartment for Sale at Morvara, Westlands \u2014 From KE"
+        ],
+        [
+          "38762",
+          128080.0,
+          "3 Bedroom + DSQ Apartment for Sale at Morvara, Westlands \u2014 K"
+        ],
+        [
+          "38759",
+          123000.0,
+          "1 Bedroom Apartment for Sale at Morvara, Westlands \u2014 From KE"
+        ],
+        [
+          "38747",
+          133938.0,
+          "Studio Apartment for Sale at Morvara, Westlands \u2014 From KES 6"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 4
+    },
+    {
+      "project": "Seasons Riverside",
+      "n": 5,
+      "areas": {
+        "Westlands": 5,
+        "Riverside": 1
+      },
+      "cities": {
+        "Nairobi": 5
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "34124",
+          100000.0,
+          "2 Bedroom Duplex at Seasons Riverside | For Sale, Riverside"
+        ],
+        [
+          "33051",
+          200000.0,
+          "4 Bedroom Duplex + DSQ for Sale at Seasons Riverside"
+        ],
+        [
+          "33003",
+          100000.0,
+          "Seasons Riverside | Apartments & Duplexes for Sale, Riversid"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 3
+    },
+    {
+      "project": "Panda Towers 001",
+      "n": 3,
+      "areas": {
+        "Kinoo": 3
+      },
+      "cities": {
+        "Kiambu": 3
+      },
+      "title_token_mismatch": 1,
+      "weird_prices": [
+        [
+          "33457",
+          120000.0,
+          "Panda Towers, 1 Bedroom Apartments for Sale in Kinoo"
+        ],
+        [
+          "33448",
+          120000.0,
+          "Panda Towers 001 Kinoo | 1 Bedroom Apartments for Sale on Wa"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 3
+    },
+    {
+      "project": "Golden Mansion",
+      "n": 3,
+      "areas": {
+        "Industrial Area": 1,
+        "Westlands": 3
+      },
+      "cities": {
+        "Nairobi": 3
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "30705",
+          100000.0,
+          "Golden Mansion, Muthithi Road Westlands \u2014 30-Storey Tower wi"
+        ]
+      ],
+      "suspicious_areas": [
+        "Industrial Area mixed with residential suburb"
+      ],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Pandora Residences",
+      "n": 3,
+      "areas": {
+        "Westlands": 3
+      },
+      "cities": {
+        "Nairobi": 3
+      },
+      "title_token_mismatch": 2,
+      "weird_prices": [],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Bahari Central",
+      "n": 3,
+      "areas": {
+        "Kilimani": 3
+      },
+      "cities": {
+        "Nairobi": 3
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "34966",
+          100000.0,
+          "2 Bedroom Apartment for Sale in Kilimani \u2014 Bahari Central"
+        ],
+        [
+          "34940",
+          100000.0,
+          "Bahari Central, Kilimani \u2014 1 & 2 Bedroom Apartments for Sale"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Amani Residence",
+      "n": 3,
+      "areas": {
+        "Westlands": 3
+      },
+      "cities": {
+        "Nairobi": 3
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "40772",
+          131000.0,
+          "Amani Residence: 4-Bedroom Apartments for Sale in Westlands,"
+        ],
+        [
+          "40770",
+          128000.0,
+          "Amani Residence: 3-Bedroom Apartments for Sale in Westlands,"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Stellar Bay",
+      "n": 2,
+      "areas": {
+        "Westlands": 2
+      },
+      "cities": {
+        "Nairobi": 2
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "34019",
+          100000.0,
+          "2 Bedroom Apartment For Sale in Westlands | Stellar Bay From"
+        ],
+        [
+          "31933",
+          100000.0,
+          "Stellar Bay, Westlands | Studio to 2-Bedroom Apartments for "
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Stellar Bay Apartments",
+      "n": 2,
+      "areas": {
+        "Westlands": 2
+      },
+      "cities": {
+        "Nairobi": 2
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "38921",
+          100000.0,
+          "Studio Apartment For Sale in Westlands | Stellar Bay From KE"
+        ],
+        [
+          "31923",
+          100000.0,
+          "1 Bedroom Apartment at Stellar Bay, Westlands | For Sale"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 2
+    },
+    {
+      "project": "Hephe Palace",
+      "n": 6,
+      "areas": {
+        "Westlands": 6
+      },
+      "cities": {
+        "Nairobi": 6
+      },
+      "title_token_mismatch": 1,
+      "weird_prices": [],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 1
+    },
+    {
+      "project": "San Remo Heights",
+      "n": 2,
+      "areas": {
+        "Westlands": 2
+      },
+      "cities": {
+        "Nairobi": 2
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "34677",
+          300000.0,
+          "San Remo Heights, Westlands \u2014 1 Bed, 1 Bed + Study & 2 Bed A"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 1
+    },
+    {
+      "project": "Expressview Residency",
+      "n": 1,
+      "areas": {
+        "Lavington": 1
+      },
+      "cities": {
+        "Nairobi": 1
+      },
+      "title_token_mismatch": 0,
+      "weird_prices": [
+        [
+          "31468",
+          115385.0,
+          "Expressview Residency \u2014 Apartments for Sale in Lavington, Na"
+        ]
+      ],
+      "suspicious_areas": [],
+      "multi_area": false,
+      "score": 1
+    }
+  ],
+  "boilerplate_counts": {
+    "Verified by Block Real Estate": 84,
+    "Development at a Glance": 51,
+    "confirmed at the point of enquiry": 86,
+    "Mortgage financing is available through": 12,
+    "Request the floor plans": 7,
+    "Prices vary by floor and orientation": 9
+  },
+  "listing_count": 219,
+  "product_scope": "developments_only \u2014 apartment/house listings out of scope",
+  "unit_data_policy": "only if multi-source reliable; Block alone never sufficient"
+}

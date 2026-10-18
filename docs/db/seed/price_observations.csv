@@ -1,0 +1,191 @@
+id,property_id,unit_type_id,amount,currency,price_basis,plan_tenor_months,availability_context,confidence,is_canonical,needs_verification,needs_developer_input,publisher_class,notes,observed_at
+price-pandora-12-91m,prop-pandora-residences,ut-pandora-2br-agent,12910000,KES,from_hero,,sold_out_2br_claimed,2,false,true,false,agent_portal,Block FAQ + CSV — tied to uncorroborated sold-out,2026-10-15
+price-pandora-19-17m,prop-pandora-residences,,19170000,KES,from_hero,,available_from,3,false,false,false,agent,Block/Ravi available-from band,2026-10-15
+price-pandora-24-61m,prop-pandora-residences,,24610000,KES,from_hero,,available_from,3,false,false,false,agent,Ladva/NRE,2026-10-15
+price-pandora-14m-hauzisha,prop-pandora-residences,,14000000,KES,from_hero,,available_from,2,false,true,false,portal,Hauzisha outlier,2026-10-15
+price-astra-1-87m,prop-astra-bay-residence,,1870000,KES,from_hero,,from_studio_band,3,false,false,false,agent_portal,CSV/Block/Vorsa/A-list — no developer price list,2026-10-15
+price-astra-1-96m,prop-astra-bay-residence,ut-astra-studio,1960000,KES,from_hero,,studio,3,false,false,false,agent,Craiova studio,2026-10-15
+price-astra-7-14m-2br,prop-astra-bay-residence,ut-astra-2br-agent,7140000,KES,from_hero,,agent_2br_ceiling,2,false,true,false,agent,Ceiling tied to non-canonical 2BR typology,2026-10-15
+price-porini-hero-761,prop-porini-point,,7610000,KES,from_hero,,live_site_hero,5,false,false,true,developer,Official live site from — conflicts with press 7.5M; no public price_from; NDI,2026-10-15
+price-porini-press-75,prop-porini-point,,7500000,KES,from_hero,,launch_news,5,false,false,true,developer,Official launch news — conflicts with live 7.61M; NDI,2026-10-15
+price-porini-pack-59,prop-porini-point,,5900000,KES,from_hero,,property_pack_early,4,false,true,false,developer,USD 46k / KES 5.9M pack — possibly stale early-bird,2026-10-15
+price-porini-info-1br-cash,prop-porini-point,ut-porini-1br,7180000,KES,cash,,info_pack,4,false,false,true,developer_attributed,Info-pack cash,2026-10-15
+price-porini-info-1br-2yr,prop-porini-point,ut-porini-1br,8700000,KES,instalment,24,info_pack,4,false,false,true,developer_attributed,Info-pack 2-yr,2026-10-15
+price-porini-info-2br-cash,prop-porini-point,ut-porini-2br,11070000,KES,cash,,info_pack,4,false,false,true,developer_attributed,,2026-10-15
+price-porini-info-2br-2yr,prop-porini-point,ut-porini-2br,13200000,KES,instalment,24,info_pack,4,false,false,true,developer_attributed,,2026-10-15
+price-porini-info-3br-cash,prop-porini-point,ut-porini-3br,17600000,KES,cash,,info_pack,4,false,false,true,developer_attributed,,2026-10-15
+price-porini-info-3br-2yr,prop-porini-point,ut-porini-3br,21000000,KES,instalment,24,info_pack,4,false,false,true,developer_attributed,,2026-10-15
+price-porini-vorsa-1br,prop-porini-point,ut-porini-1br,5990000,KES,from_hero,,agent_low,2,false,true,false,agent,Vorsa low outlier,2026-10-15
+price-porini-craiova-1br-cash,prop-porini-point,ut-porini-1br,6400000,KES,cash,,agent,2,false,true,false,agent,,2026-10-15
+price-porini-ladva-1br,prop-porini-point,ut-porini-1br,6710000,KES,from_hero,,agent,2,false,true,false,agent,,2026-10-15
+price-galaxy-lionston-1br,prop-galaxy-one,ut-galaxy-1br,8000000,KES,from_hero,,lionston_product,3,false,false,true,developer,Official claim A — conflicts with microsite; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-lionston-2br,prop-galaxy-one,ut-galaxy-2br,12000000,KES,from_hero,,lionston_product,3,false,false,true,developer,Official claim A; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-lionston-3br,prop-galaxy-one,ut-galaxy-3br,18000000,KES,from_hero,,lionston_product,3,false,false,true,developer,Official claim A; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-faq-1br-cash,prop-galaxy-one,ut-galaxy-1br,5200000,KES,cash,,galaxyone_faq,3,false,false,true,developer,Official claim B — CONFLICT with A; no canonical price,2026-10-15
+price-galaxy-faq-1br-inst,prop-galaxy-one,ut-galaxy-1br,6100000,KES,instalment,,galaxyone_faq,3,false,false,true,developer,Official claim B; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-faq-3br-cash,prop-galaxy-one,ut-galaxy-3br,13900000,KES,cash,,galaxyone_faq,3,false,false,true,developer,Official claim B; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-faq-3br-inst,prop-galaxy-one,ut-galaxy-3br,16500000,KES,instalment,,galaxyone_faq,3,false,false,true,developer,Official claim B; official vs official — NDI; no public price_from,2026-10-15
+price-galaxy-nre-561,prop-galaxy-one,,5610000,KES,from_hero,,agent_csv_echo,2,false,true,false,agent,NRE from 5.61M matches CSV — needs_verification vs own FAQ,2026-10-15
+price-gemini2-staroot-10m,prop-gemini-residency-phase-2,ut-gemini2-1br,10000000,KES,from_hero,,developer_starting_from,5,false,false,false,developer,Staroot gemini+gemini2 agree from 10M — conflicts with agent 8.7M; no public scalar,2026-10-16
+price-gemini2-cpk-1br-58,prop-gemini-residency-phase-2,ut-gemini2-1br,8700000,KES,cash,,1br_58sqm,3,false,true,false,agent,CPK Phase 2 typed — NV vs developer 10M,2026-10-16
+price-gemini2-cpk-1br-67,prop-gemini-residency-phase-2,ut-gemini2-1br,9200000,KES,cash,,1br_67sqm,3,false,true,false,agent,CPK,2026-10-16
+price-gemini2-cpk-2br-90,prop-gemini-residency-phase-2,ut-gemini2-2br,13500000,KES,cash,,2br_90sqm,3,false,true,false,agent,CPK,2026-10-16
+price-gemini2-cpk-2br-110,prop-gemini-residency-phase-2,ut-gemini2-2br,15500000,KES,cash,,2br_110sqm,3,false,true,false,agent,CPK,2026-10-16
+price-gemini2-cpk-2br-122,prop-gemini-residency-phase-2,ut-gemini2-2br,17100000,KES,cash,,2br_122sqm,3,false,true,false,agent,CPK,2026-10-16
+price-gemini2-hauzisha-from,prop-gemini-residency-phase-2,,9500000,KES,from_hero,,band_9.5_14.5,3,false,true,false,portal,Hauzisha band from,2026-10-16
+price-gemini2-csv,prop-gemini-residency-phase-2,,9500000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,Unverified CSV lead,2026-10-16
+price-diamond-ongoing-884,prop-diamond-bay-residences,,8840000,KES,from_hero,,henbon_ongoing,5,false,false,true,developer,Official ongoing from 8.84M — NDI vs 1BR product 9.34M; no public price_from,2026-10-16
+price-diamond-1br-934,prop-diamond-bay-residences,ut-diamond-1br,9340000,KES,from_hero,,henbon_1br_product,5,false,false,true,developer,Official 1BR product from 9.34M — NDI vs ongoing 8.84M,2026-10-16
+price-diamond-2br-15375,prop-diamond-bay-residences,ut-diamond-2br,15375000,KES,from_hero,,henbon_2br_product,5,false,false,false,developer,Typed product from,2026-10-16
+price-diamond-3br-1742,prop-diamond-bay-residences,ut-diamond-3br-ph,17420000,KES,from_hero,,henbon_3br_product,5,false,false,false,developer,,2026-10-16
+price-diamond-4br-2743,prop-diamond-bay-residences,ut-diamond-4br-study,27430000,KES,from_hero,,henbon_4br_product,5,false,false,false,developer,,2026-10-16
+price-diamond-4br-dsq-3289,prop-diamond-bay-residences,ut-diamond-4br-dsq,32890000,KES,from_hero,,henbon_4br_dsq,5,false,false,false,developer,,2026-10-16
+price-diamond-5br-3445,prop-diamond-bay-residences,ut-diamond-5br,34450000,KES,from_hero,,henbon_5br,5,false,false,false,developer,,2026-10-16
+price-diamond-csv,prop-diamond-bay-residences,,8840000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-misty-ownit-1br,prop-misty-springs,ut-misty-1br,8000000,KES,from_hero,,own_it_plinth,3,false,true,false,agent,Own It; matches CSV; no developer list,2026-10-16
+price-misty-ownit-2br-90,prop-misty-springs,ut-misty-2br-90,12600000,KES,from_hero,,own_it_plinth,3,false,true,false,agent,,2026-10-16
+price-misty-ownit-2br-99,prop-misty-springs,ut-misty-2br-99,13800000,KES,from_hero,,own_it_plinth,3,false,true,false,agent,,2026-10-16
+price-misty-alist-1br-10m,prop-misty-springs,ut-misty-1br,10000000,KES,from_hero,,a_list_outlier,2,false,true,false,agent,1BR 10M outlier,2026-10-16
+price-golden-block-studio,prop-golden-mansion,ut-golden-studio-a5,6180527,KES,from_hero,,block_sep2026,3,false,true,false,agent,Studio A5 — EIA absent; matches CSV,2026-10-16
+price-golden-nre-1br-from,prop-golden-mansion,ut-golden-1br,6500000,KES,from_hero,,nre_from,3,false,false,false,agent,No developer price list,2026-10-16
+price-longines-studio-from,prop-longines-bay-kilimani,ut-longines-studio,3700000,KES,from_hero,,developer_residences,5,false,false,false,developer,Official studio from; keep multi bands — no portal scalar,2026-10-16
+price-longines-1br-from,prop-longines-bay-kilimani,ut-longines-1br,6700000,KES,from_hero,,developer_residences,5,false,false,false,developer,6.7–7.7M band start,2026-10-16
+price-longines-sirfrancis-35,prop-longines-bay-kilimani,ut-longines-studio,3500000,KES,from_hero,,sir_francis_header,2,false,true,false,agent,Header 3.5M vs official 3.7M,2026-10-16
+price-berkeley-studio-42,prop-berkeley-homes,ut-berkeley-studio,4200000,KES,from_hero,,block_table,3,false,false,false,agent,No developer price list,2026-10-16
+price-berkeley-vorsa-399,prop-berkeley-homes,ut-berkeley-studio,3990000,KES,from_hero,,vorsa_outlier,2,false,true,false,agent,Low outlier,2026-10-16
+price-lesonia-table-1br-from,prop-lesonia-residences,ut-lesonia-1br,5500000,KES,from_hero,,homepage_unit_table,5,false,false,true,developer,Official table from 5.5M — NDI vs prose/mortgage 8.5M,2026-10-16
+price-lesonia-prose-1br-85,prop-lesonia-residences,ut-lesonia-1br,8500000,KES,from_hero,,homepage_prose,5,false,false,true,developer,Official prose from 8.5M — NDI vs table,2026-10-16
+price-lesonia-mortgage-1br,prop-lesonia-residences,ut-lesonia-1br,8500000,KES,from_hero,,mortgage_calculator,5,false,false,true,developer,Mortgage card 8.5M — NDI,2026-10-16
+price-lesonia-blog-2br-85,prop-lesonia-residences,ut-lesonia-2br,8500000,KES,from_hero,,affordable_blog,5,false,false,true,developer,Blog 2BR 8.5M conflicts table 12.5M — NDI,2026-10-16
+price-lesonia-table-2br-from,prop-lesonia-residences,ut-lesonia-2br,12500000,KES,from_hero,,homepage_unit_table,5,false,false,true,developer,Official table 2BR from 12.5M — NDI,2026-10-16
+price-lesonia-table-3br-from,prop-lesonia-residences,ut-lesonia-3br,17100000,KES,from_hero,,homepage_unit_table,5,false,false,true,developer,Official table 3BR from 17.1M — NDI,2026-10-16
+price-lesonia-csv,prop-lesonia-residences,,5500000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-plumeria-ownit-2br-from,prop-plumeria-residency,ut-plumeria-2br,10000000,KES,from_hero,,own_it_from,3,false,true,false,agent,Own It from 10M; matches CSV,2026-10-16
+price-plumeria-modal-105,prop-plumeria-residency,ut-plumeria-2br,10700000,KES,from_hero,,modal_agent_table,3,false,false,false,agent,NRE/GNA/Flamingo modal from 10.7M,2026-10-16
+price-plumeria-urbancore-2br,prop-plumeria-residency,ut-plumeria-2br,12000000,KES,from_hero,,urbancore_outlier,2,false,true,false,agent,Higher outlier,2026-10-16
+price-plumeria-hauzisha-7m,prop-plumeria-residency,,7000000,KES,from_hero,,hauzisha_outlier,1,false,true,false,portal,7M outlier + Golden Apple false lead,2026-10-16
+price-plumeria-ph-283,prop-plumeria-residency,ut-plumeria-5br-ph-nv,28300000,KES,from_hero,,agent_ph,2,false,true,false,agent,PH agent; NEMA program 2/3BR only,2026-10-16
+price-plumeria-csv,prop-plumeria-residency,,10000000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-polaris-ownit-1br,prop-polaris-residency,ut-polaris-1br,6000000,KES,from_hero,,own_it_plinth,3,false,true,false,agent,Own It 6M; matches CSV; no developer,2026-10-16
+price-polaris-ownit-2br-97,prop-polaris-residency,ut-polaris-2br,9700000,KES,from_hero,,own_it_plinth,3,false,true,false,agent,1150 sq.ft band,2026-10-16
+price-polaris-sirfrancis-55,prop-polaris-residency,ut-polaris-1br,5500000,KES,from_hero,,sir_francis_ready,2,false,true,false,agent,5.5M undercuts 6M cluster; ready framing,2026-10-16
+price-polaris-gna-2br-11m,prop-polaris-residency,ut-polaris-2br,11000000,KES,from_hero,,gna_coarse,2,false,true,false,agent,GNA coarse 11M diverges from 9.7M table,2026-10-16
+price-polaris-csv,prop-polaris-residency,,6000000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-golfscape-hero-465,prop-golfscape-residences,,4650000,KES,from_hero,,official_hero,5,false,false,true,developer,Hero from 4.65M — NDI vs list Type E 5.6M,2026-10-16
+price-golfscape-liste-56,prop-golfscape-residences,ut-golfscape-1br-e,5600000,KES,list_price,,official_list_2025-09-03,5,false,false,true,developer,Typed list lowest — NDI vs hero 4.65M; no public price_from,2026-10-16
+price-golfscape-lista-75,prop-golfscape-residences,ut-golfscape-1br-a,7500000,KES,list_price,,official_list_2025-09-03,5,false,false,false,developer,Type A official,2026-10-16
+price-golfscape-2br-125,prop-golfscape-residences,ut-golfscape-2br,12500000,KES,list_price,,official_list_2025-09-03,5,false,false,false,developer,Block 3,2026-10-16
+price-golfscape-3br-135,prop-golfscape-residences,ut-golfscape-3br,13500000,KES,list_price,,official_list_2025-09-03,5,false,false,false,developer,,2026-10-16
+price-golfscape-ph-265,prop-golfscape-residences,ut-golfscape-ph,26500000,KES,list_price,,official_list_2025-09-03,5,false,false,false,developer,A16P2/B16P1,2026-10-16
+price-golfscape-vorsa-46,prop-golfscape-residences,ut-golfscape-1br-e,4600000,KES,from_hero,,vorsa,2,false,true,false,agent,Undercuts official list,2026-10-16
+price-golfscape-csv,prop-golfscape-residences,,4600000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-luna-oak-page-148,prop-luna-oak-residency,,14800000,KES,from_hero,,oakgroup_project_page,5,false,false,true,developer,Live project page from 14.8M — NDI vs listings 11.9M,2026-10-16
+price-luna-oak-listings-119,prop-luna-oak-residency,,11900000,KES,from_hero,,oakgroup_listings,5,false,false,true,developer,Listings/ongoing from 11.9M — NDI vs project page,2026-10-16
+price-luna-oak-nre-2br-115,prop-luna-oak-residency,ut-luna-2br,11500000,KES,from_hero,,nre_table,3,false,false,false,agent,Lower agent band; matches CSV,2026-10-16
+price-luna-oak-cpk-2br-122,prop-luna-oak-residency,ut-luna-2br,12200000,KES,from_hero,,cpk_higher,3,false,false,false,agent,Higher agent band,2026-10-16
+price-luna-oak-csv,prop-luna-oak-residency,,11500000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-alba-studio-19,prop-alba-apartments,ut-alba-studio,1900000,KES,from_hero,,own_it_cash,3,false,true,false,agent,Cash/groundbreaking 1.9M; matches CSV,2026-10-16
+price-alba-studio-23,prop-alba-apartments,ut-alba-studio,2300000,KES,from_hero,,multi_agent_standard,3,false,false,false,agent,Standard from 2.3M consensus,2026-10-16
+price-alba-junior-31,prop-alba-apartments,ut-alba-junior-1br,3100000,KES,from_hero,,multi_agent,3,false,false,false,agent,,2026-10-16
+price-alba-1br-40,prop-alba-apartments,ut-alba-1br,4000000,KES,from_hero,,own_it_plinth,3,false,false,false,agent,,2026-10-16
+price-alba-2br-62,prop-alba-apartments,ut-alba-2br,6200000,KES,from_hero,,multi_agent,3,false,false,false,agent,Upper 2BR band,2026-10-16
+price-alba-hauzisha-to-54,prop-alba-apartments,,5400000,KES,from_hero,,hauzisha_range_max,3,false,true,false,portal,Portal max 5.4M below agent 6.2M,2026-10-16
+price-alba-csv,prop-alba-apartments,,1900000,KES,from_hero,,csv_lead,1,false,true,false,seed_csv,CSV lead,2026-10-16
+price-kings-summit-9m,prop-kings-summit-nakuru,ut-kings-summit-3br,9000000,KES,from_hero,,project_location_hub,5,false,false,true,developer,Official from 9M — NDI vs blog 8M,2026-10-16
+price-kings-summit-8m-blog,prop-kings-summit-nakuru,ut-kings-summit-3br,8000000,KES,from_hero,,developer_blog_guide,5,false,false,true,developer,Official blog guide from 8M — NDI vs project 9M,2026-10-16
+price-kings-summit-agent-9m,prop-kings-summit-nakuru,ut-kings-summit-3br,9000000,KES,from_hero,,craiova_jumuika,3,false,false,false,agent,Aligns with official 9M,2026-10-16
+price-nouveau-65m,prop-nouveau,,6500000,KES,from_hero,,hassconsult_nouveau,5,false,false,true,developer,Official from 6.5M — soft NDI vs LinkedIn 6M,2026-10-16
+price-nouveau-6m-li,prop-nouveau,,6000000,KES,from_hero,,linkedin_hassconsult,5,false,false,true,developer,LinkedIn from 6M — soft NDI vs 6.5M,2026-10-16
+price-nouveau-altra-eur,prop-nouveau,ut-nouveau-1br,48100,EUR,list_price,,altra_example,2,false,true,false,agent,FX-dependent non-KES example — NV,2026-10-16
+price-sensei-24m,prop-sensei-nyali,,24000000,KES,from_hero,,hassconsult_sensei,5,false,false,false,developer,Official from 24M; Investment Collection corroborates,2026-10-16
+price-ksq-eld-2br-4m,prop-kings-square-eldoret-ph2,ut-ksq-eld-2br,4000000,KES,list_price,,phase2_typed,5,false,false,false,developer,Developer typed 2BR 89 sqm; pages agree,2026-10-16
+price-ksq-eld-3br-5m,prop-kings-square-eldoret-ph2,ut-ksq-eld-3br,5000000,KES,list_price,,phase2_typed,5,false,false,false,developer,Developer typed 3BR 101 sqm,2026-10-16
+price-ksq-eld-from-4m,prop-kings-square-eldoret-ph2,,4000000,KES,from_hero,,phase2_from,5,false,false,false,developer,From 4M agrees with 2BR row — still no portal scalar,2026-10-16
+price-capricorn-1br-85,prop-capricorn-kilimani,ut-capricorn-1br,8500000,KES,from_hero,,modal_agent,3,false,false,false,agent,Jimarket/Mascott/CPK modal — no developer unit list,2026-10-16
+price-capricorn-2br-12m,prop-capricorn-kilimani,ut-capricorn-2br,12000000,KES,from_hero,,modal_agent,3,false,false,false,agent,,2026-10-16
+price-capricorn-3br-155,prop-capricorn-kilimani,ut-capricorn-3br,15500000,KES,from_hero,,modal_agent,3,false,false,false,agent,,2026-10-16
+price-capricorn-alist-1br-10m,prop-capricorn-kilimani,ut-capricorn-1br,10000000,KES,from_hero,,a_list,3,false,false,false,agent,Conflicts modal 8.5M,2026-10-16
+price-capricorn-proxima-155,prop-capricorn-kilimani,,15500000,KES,from_hero,,proxima_ongoing,3,false,false,false,agent,Single from card,2026-10-16
+price-capricorn-hauzisha-from,prop-capricorn-kilimani,,13500000,KES,from_hero,,hauzisha_band,3,false,true,false,portal,13.5–15.5M band omits 8.5 entry,2026-10-16
+price-canto-studio-49k,prop-canto,ut-canto-studio,49000,USD,from_hero,,vaal_canto,5,false,false,false,developer,VAAL studio from USD 49k — hub+card agree,2026-10-16
+price-canto-1br-68k,prop-canto,ut-canto-1br,68000,USD,from_hero,,vaal_canto,5,false,false,false,developer,VAAL 1BR from USD 68k,2026-10-16
+price-canto-austine-60k,prop-canto,ut-canto-studio,60000,USD,from_hero,,austine,2,false,true,false,agent,Higher from vs developer — NV,2026-10-16
+price-ankori-65m,prop-ankori,,6500000,KES,from_hero,,hassconsult_ankori,5,false,false,false,developer,Hass from 6.5M — project+IC agree,2026-10-16
+price-ankori-tmk-1br-eur,prop-ankori,ut-ankori-1br,42000,EUR,from_hero,,tmk,2,false,true,false,agent,EUR bands NV vs KES from,2026-10-16
+price-brook-microsite-99,prop-brookside-oak,ut-brook-1br-65,9900000,KES,from_hero,,brooksideoak_microsite,5,false,false,true,developer,Classic 1BR from 9.9M — NDI vs Oak Group 8.2M,2026-10-16
+price-brook-oakgroup-82,prop-brookside-oak,,8200000,KES,from_hero,,oakgroup_card,5,false,false,true,developer,Oak Group marketing from 8.2M — NDI vs microsite 9.9M,2026-10-16
+price-brook-agent-80,prop-brookside-oak,,8000000,KES,from_hero,,agent_entry,3,false,false,false,agent,Agent entry 8.0–8.8M band,2026-10-16
+price-kai-hass-105,prop-kai-diani,,10500000,KES,from_hero,,hassconsult_kai,4,false,true,false,agent,Exclusive agent from 10.5M; brochure silent — NV vs developer schedule,2026-10-16
+price-108-enin-from,prop-108-residences-diani,,8000000,KES,from_hero,,enin_band,3,false,false,false,agent,Enin from 8M–29M; no official list,2026-10-16
+price-108-homes-studio-95,prop-108-residences-diani,ut-108-studio,9500000,KES,list_price,,homesinkenya,3,false,false,false,agent,Typed densest agent table,2026-10-16
+price-108-homes-3br-29m,prop-108-residences-diani,ut-108-3br,29000000,KES,list_price,,homesinkenya,3,false,true,false,agent,Sold-out claim HomesInKenya; conflicts BuyRent 30M,2026-10-16
+price-108-buyrent-3br-30m,prop-108-residences-diani,ut-108-3br,30000000,KES,from_hero,,buyrent,2,false,true,false,agent,3BR 30M vs 29M,2026-10-16
+price-fv-from-295,prop-forestview-residences,,29500000,KES,from_hero,,elegant_featured,5,false,false,false,developer,Official from 29.5M — hub+Featured agree; no portal scalar,2026-10-16
+price-fv-alist-2br-295,prop-forestview-residences,ut-fv-2br,29500000,KES,from_hero,,a_list,3,false,false,false,agent,Aligns official from,2026-10-16
+price-fv-cpk-2br-271,prop-forestview-residences,ut-fv-2br,27100000,KES,from_hero,,cpk_older,3,false,true,false,agent,Older sheet below official 29.5M,2026-10-16
+price-dh-from-279,prop-donyo-hill-residences,,27900000,KES,from_hero,,elegant_featured,5,false,false,false,developer,Official from 27.9M — hub+Featured agree,2026-10-16
+price-dh-hauzisha-band,prop-donyo-hill-residences,,29900000,KES,from_hero,,hauzisha_band,2,false,true,false,portal,Hauzisha 29.9–70M band floor vs official 27.9M,2026-10-16
+price-dh-cpk-4br-69,prop-donyo-hill-residences,ut-dh-4br,69000000,KES,list_price,,cpk,3,false,true,false,agent,CPK 550 from 69M; alt 67M NV,2026-10-16
+price-48th-from-779,prop-48-treehouse,ut-48th-4br,77900000,KES,from_hero,,elegant_featured,5,false,false,true,developer,Featured from 77.9M; NDI vs Hauzisha 73M for public from,2026-10-16
+price-48th-hauzisha-73,prop-48-treehouse,ut-48th-4br,73000000,KES,from_hero,,hauzisha,2,false,true,true,portal,Conflicts Featured 77.9M,2026-10-16
+price-sp2-from-8m,prop-sunpark-residence-ii,,8000000,KES,from_hero,,elegant_featured,5,false,false,false,developer,Official from 8M — II+Featured agree; ≠ Phase I 6.5M Ready bleed,2026-10-16
+price-sp2-cpk-2br-9m,prop-sunpark-residence-ii,ut-sp2-2br,9000000,KES,list_price,,cpk_complete,3,false,true,false,agent,Agent typed ladder,2026-10-16
+price-sp2-hauzisha-65,prop-sunpark-residence-ii,,6500000,KES,from_hero,,hauzisha_phase1_bleed,2,false,true,false,portal,6.5–10.5M likely Phase I Ready bleed — not II official,2026-10-16
+price-cit-1br-73,prop-citrine-heights,ut-cit-1br,7300000,KES,from_hero,,cpk_habari_villa,3,false,true,false,agent,CPK/Habari/VillaWatch cluster; no official list,2026-10-17
+price-cit-2br-11m,prop-citrine-heights,ut-cit-2br,11000000,KES,from_hero,,cpk_habari,3,false,true,false,agent,,2026-10-17
+price-cit-2br-dsq-129,prop-citrine-heights,ut-cit-2br-dsq,12900000,KES,from_hero,,cpk,3,false,true,false,agent,Craiova higher 14.9M NV,2026-10-17
+price-aur-studio-55,prop-auris-residence,ut-aur-studio,5500000,KES,from_hero,,multi_agent,3,false,true,false,agent,Ace/Craiova/Ladva/Ravi/NRE consensus — no developer list,2026-10-17
+price-aur-1br-93,prop-auris-residence,ut-aur-1br,9300000,KES,from_hero,,multi_agent,3,false,true,false,agent,,2026-10-17
+price-aur-2br-135,prop-auris-residence,ut-aur-2br,13500000,KES,from_hero,,multi_agent,3,false,true,false,agent,Also 14M/110 sqm,2026-10-17
+price-sm-1br-6m,prop-serene-manor,ut-sm-1br,6000000,KES,from_hero,,sir_francis_nre_vorsa,3,false,true,false,agent,Agent typed floor; official silent on prices,2026-10-17
+price-sm-4br-20m,prop-serene-manor,ut-sm-4br,20000000,KES,from_hero,,sir_francis_2talk,3,false,true,false,agent,,2026-10-17
+price-sm-hauzisha-studio-35,prop-serene-manor,ut-sm-studio-nv,3500000,KES,from_hero,,hauzisha,2,false,true,false,portal,Below agent 6M floor; Studio not official,2026-10-17
+price-libra-band-17m,prop-libra-residences,,17000000,KES,from_hero,,glbc_band_floor,5,false,false,false,developer,Official Overview band floor KSh17mil–25mil — prefer until LOO; no typed list,2026-10-17
+price-libra-band-25m,prop-libra-residences,,25000000,KES,from_hero,,glbc_band_ceiling,5,false,false,false,developer,Official Overview band ceiling,2026-10-17
+price-libra-cpk-3br-1776,prop-libra-residences,ut-libra-3br-sq,17760000,KES,list_price,,cpk,3,false,true,false,agent,CPK typed aligns to official floor,2026-10-17
+price-libra-cpk-5br-2576,prop-libra-residences,ut-libra-5br-sq,25760000,KES,list_price,,cpk,3,false,true,false,agent,CPK 5BR 284 sqm / 25.76M,2026-10-17
+price-libra-nre-band-high,prop-libra-residences,,31000000,KES,from_hero,,nre_bellano_cluster,3,false,true,false,agent,NRE/Bellano/Geomara/BRK typed above official 25M band — NV,2026-10-17
+price-oy-agent-floor-28m,prop-only-you,,28000000,KES,from_hero,,multi_agent,3,false,true,false,agent,CPK/Vorsa/Azipa/GNA floor cluster; official silent,2026-10-17
+price-oy-agent-ceiling-dense,prop-only-you,,120000000,KES,list_price,,multi_agent_duplex,3,false,true,false,agent,Dense block cards to ~120M duplex — agent only,2026-10-17
+price-oy-hauzisha-band,prop-only-you,,30600000,KES,from_hero,,hauzisha,2,false,true,false,portal,Hauzisha 30.6–92.4M band floor,2026-10-17
+price-gaia-from-23m,prop-gaia-brookside,,23000000,KES,from_hero,,multi_agent,3,false,true,false,agent,Oaklane/A-Luxe/NRE from ~23M; Wonder HTML silent,2026-10-17
+price-gaia-typed-253,prop-gaia-brookside,ut-gaia-3br,25300000,KES,list_price,,multi_agent,3,false,true,false,agent,Typed ladder entry,2026-10-17
+price-gaia-hauzisha-253,prop-gaia-brookside,,25300000,KES,from_hero,,hauzisha,2,false,true,false,portal,Hauzisha 25.3–45M band,2026-10-17
+price-dip-from-5m,prop-diplomat-residencies,ut-dip-1br-a,5000000,KES,from_hero,,multi_agent,3,false,true,false,agent,Almasi/Vorsa/GNA/Ravi from ~5.0–5.5M; developer silent,2026-10-17
+price-dip-typed-ceiling,prop-diplomat-residencies,ut-dip-2br-f,16700000,KES,list_price,,multi_agent,3,false,true,false,agent,Typed to ~16.7–19.2M,2026-10-17
+price-dip-hauzisha-5m,prop-diplomat-residencies,,5000000,KES,from_hero,,hauzisha,2,false,true,false,portal,Hauzisha 5.0–13.3M,2026-10-17
+price-aya-from-75-linkedin,prop-aya-luxury-residence,,7500000,KES,from_hero,,whitehorse_linkedin,4,false,false,false,developer,Whitehorse LinkedIn Starting Kes 7.5M,2026-10-17
+price-aya-agent-ladder-85,prop-aya-luxury-residence,ut-aya-1br,8500000,KES,from_hero,,gna_nre_ownit,3,false,true,false,agent,Agent ladder ~8.5–98M consensus shape,2026-10-17
+price-aya-site-19m-nv,prop-aya-luxury-residence,,19000000,KES,from_hero,,site_chrome,2,false,true,false,developer,Portfolio-level Starting Ksh 19M chrome — NV vs LinkedIn 7.5M,2026-10-17
+price-aya-hauzisha-7m,prop-aya-luxury-residence,,7000000,KES,from_hero,,hauzisha,2,false,true,false,portal,Hauzisha 7–28M incomplete vs villas,2026-10-17
+price-rhapta-from-78,prop-rhapta-one,ut-rhapta-1br,7800000,KES,from_hero,,multi_agent,3,false,true,false,agent,Sicily/Masterways/Vorsa/Own It ~7.5–7.8M floor; no developer list,2026-10-17
+price-rhapta-hauzisha-95,prop-rhapta-one,,9500000,KES,from_hero,,hauzisha,2,false,true,false,portal,Hauzisha 9.5–14M band,2026-10-17
+price-alina-from-107,prop-alina-valley,ut-alina-2br,10700000,KES,from_hero,,westlands_consult,3,false,true,false,agent,Competing floors 10.7/11.1/11.3M; Wonder silent,2026-10-17
+price-alina-from-111,prop-alina-valley,ut-alina-2br,11100000,KES,from_hero,,gna_alist,3,false,true,false,agent,GNA/A-list cluster,2026-10-17
+price-mb-musilli-675,prop-montbleu,ut-mb-1br-std,6750000,KES,list_price,,musilli_2024,3,false,true,false,agent,Likely stale vs 2026 8.15M+ cards,2026-10-17
+price-mb-citiscape-695,prop-montbleu,ut-mb-1br-std,6950000,KES,list_price,,citiscape,3,false,true,false,agent,Citiscape/Flamingo/Lumi,2026-10-17
+price-mb-craiova-815,prop-montbleu,ut-mb-1br-std,8150000,KES,from_hero,,craiova_2026,3,false,true,false,agent,2026 higher card cluster,2026-10-17
+price-mb-hauzisha-129,prop-montbleu,,12900000,KES,from_hero,,hauzisha,2,false,true,false,portal,Card 12.9M,2026-10-17
+price-marina2-1br-9m,prop-marina-bay-2,ut-marina2-1br,9000000,KES,from_hero,,gna_cpk,3,false,true,false,agent,Historical/marketing 1BR floor; sold-out claims,2026-10-17
+price-marina2-2br-1445,prop-marina-bay-2,ut-marina2-2br-dsq,14450000,KES,list_price,,gna_farman,3,false,true,false,agent,Live 2BR ladder entry,2026-10-17
+price-marina2-3br-2255,prop-marina-bay-2,ut-marina2-3br-dsq,22550000,KES,list_price,,gna,3,false,true,false,agent,3BR entry,2026-10-17
+price-atreus-84,prop-atreus-brookside,ut-atreus-1br,8400000,KES,from_hero,,cpk,3,false,true,false,agent,CPK from 8.4M — do not collapse vs 8.5,2026-10-17
+price-atreus-85,prop-atreus-brookside,ut-atreus-1br,8500000,KES,from_hero,,multi_agent,3,false,true,false,agent,Vorsa/Craiova/Masterways/GNA from 8.5M,2026-10-17
+price-atreus-3br-225,prop-atreus-brookside,ut-atreus-3br-dsq,22500000,KES,list_price,,cpk,3,false,true,false,agent,Ladder top,2026-10-17
+price-gp-from-10m,prop-grand-premier,,10000000,KES,from_hero,,aad_indexed,4,false,false,true,developer,Indexed aad.ke from 10M; Ready lean NDI on class,2026-10-17
+price-gp-samambo-125,prop-grand-premier,ut-gp-1br,12500000,KES,list_price,,samambo,3,false,true,false,agent,Typed 12.5/19.5/25.5,2026-10-17
+price-gp-cpk-85,prop-grand-premier,ut-gp-1br,8500000,KES,list_price,,cpk_complete,3,false,true,true,agent,Remaining stock + Complete claim — Ready lean,2026-10-17
+price-rw-from-25m,prop-rosewood-park,ut-rw-3br-dsq,25000000,KES,from_hero,,aad_whitehorse_blog,4,false,false,true,developer,AAD/Whitehorse Kilimani blog from 25M; Ready lean NDI,2026-10-17
+price-rw-milligan-215,prop-rosewood-park,ut-rw-3br-dsq,21500000,KES,list_price,,milligan,3,false,true,false,agent,Types A–F 21.5–28.8M,2026-10-17
+price-rw-cpk-cash-18,prop-rosewood-park,ut-rw-3br-dsq,18000000,KES,list_price,,cpk_cash,3,false,true,true,agent,25M list → 18M cash; Complete lean,2026-10-17
+price-lulu-from-4-4m,prop-237-lulu,,4400000,KES,from_hero,,,5,false,false,true,developer,Official hero/FAQ — conflicts typed cards → public POA,2026-10-16
+price-lulu-1br-6-93m,prop-237-lulu,ut-lulu-1br,6930000,KES,typed_from,,,5,false,false,true,developer,Official typed card — NDI vs 4.4M,2026-10-16
+price-lulu-2br-9-57m,prop-237-lulu,ut-lulu-2br,9570000,KES,typed_from,,,5,false,false,true,developer,Official typed,2026-10-16
+price-lulu-3br-13-9m,prop-237-lulu,ut-lulu-3br,13900000,KES,typed_from,,,5,false,false,true,developer,Official typed,2026-10-16
+price-hp336-from-9-9m,prop-highpoint-336,,9900000,KES,from_hero,,,4,false,true,false,developer_attributed,Indexed official / BuyRent — microsite 500,2026-10-16
+price-jabali-studio-8-35m,prop-jabali-towers,ut-jabali-studio,8350000,KES,typed_from,,,5,true,false,false,developer,Tatu FAQ,2026-10-16
+price-jabali-1br-12-25m,prop-jabali-towers,ut-jabali-1br,12250000,KES,typed_from,,,5,true,false,false,developer,Tatu FAQ,2026-10-16
+price-jabali-2br-19-4m,prop-jabali-towers,ut-jabali-2br,19400000,KES,typed_from,,,5,true,false,false,developer,Tatu FAQ,2026-10-16
+price-jabali-3br-34-36m,prop-jabali-towers,ut-jabali-3br,34360000,KES,typed_from,,,5,true,false,false,developer,Tatu FAQ,2026-10-16
+price-balkis-1br-7-9m,prop-balkis-residences,ut-balkis-1br,7900000,KES,typed_from,,,3,false,true,false,agent,Multi-agent matrix; no official list,2026-10-16
+price-hephe-from-6-2m,prop-hephe-palace,,6200000,KES,from_hero,,,3,false,true,false,agent,Crown/agents floor; no official list,2026-10-16

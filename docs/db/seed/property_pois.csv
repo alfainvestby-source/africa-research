@@ -1,0 +1,12 @@
+property_id,poi_id,distance_m,source,confidence,notes
+prop-galaxy-one,poi-sarit-centre,1200,haversine_approx,2,Rhapta / Westlands — rough
+prop-galaxy-one,poi-westgate,900,haversine_approx,2,
+prop-canto,poi-sarit-centre,800,haversine_approx,2,School Lane near Sarit
+prop-pandora-residences,poi-sarit-centre,2200,haversine_approx,2,
+prop-capricorn-kilimani,poi-yaya-centre,400,haversine_approx,2,Wood Ave near Yaya per dossier
+prop-nouveau,poi-yaya-centre,800,haversine_approx,2,Lenana / Hurlingham
+prop-golfscape-residences,poi-royal-nairobi-gc,150,project_adjacent,3,Maps CTA adjacent golf club
+prop-luna-oak-residency,poi-yaya-centre,1200,haversine_approx,2,
+prop-sensei-nyali,poi-nyali-cinemax,2200,haversine_approx,2,Greenwood Drive corridor
+prop-misty-springs,poi-aga-khan-nairobi,900,haversine_approx,2,Westlands Road corridor
+prop-diamond-bay-residences,poi-aga-khan-nairobi,1100,haversine_approx,2,

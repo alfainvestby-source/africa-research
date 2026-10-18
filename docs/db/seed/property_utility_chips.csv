@@ -1,0 +1,153 @@
+id,property_id,external_id,feature_id,label,confidence,is_canonical,publisher_class
+chip-astra-bay-residence-cctv,prop-astra-bay-residence,NBO-005,cctv,24hr CCTV,5,true,developer
+chip-astra-bay-residence-backup_generator,prop-astra-bay-residence,NBO-005,backup_generator,backup generator,5,true,developer
+chip-astra-bay-residence-borehole,prop-astra-bay-residence,NBO-005,borehole,borehole,5,true,developer
+chip-astra-bay-residence-internet_cable,prop-astra-bay-residence,NBO-005,internet_cable,internet/cable,5,true,developer
+chip-astra-bay-residence-rooftop_solar,prop-astra-bay-residence,NBO-005,rooftop_solar,rooftop solar,1,false,agent
+chip-porini-point-parking,prop-porini-point,NBO-004,parking,parking,5,true,developer
+chip-porini-point-cctv,prop-porini-point,NBO-004,cctv,24/7 CCTV,5,true,developer
+chip-porini-point-gated_security,prop-porini-point,NBO-004,gated_security,gated security,5,true,developer
+chip-galaxy-one-cctv,prop-galaxy-one,NBO-013,cctv,24/7 CCTV security,5,true,developer
+chip-riara-oasis-parking,prop-riara-oasis,NBO-003,parking,parking,5,true,official_filing
+chip-riara-oasis-borehole,prop-riara-oasis,NBO-003,borehole,onsite borehole planned,5,true,official_filing
+chip-riara-oasis-backup_generator,prop-riara-oasis,NBO-003,backup_generator,backup generator,3,false,agent
+chip-riara-oasis-cctv,prop-riara-oasis,NBO-003,cctv,CCTV / intercom,3,false,agent
+chip-riara-oasis-gated_security,prop-riara-oasis,NBO-003,gated_security,24/7 security,3,false,agent
+chip-diamond-bay-residences-parking,prop-diamond-bay-residences,NBO-007,parking,ample parking,5,true,developer
+chip-diamond-bay-residences-cctv,prop-diamond-bay-residences,NBO-007,cctv,24/7 CCTV,5,true,developer
+chip-diamond-bay-residences-borehole,prop-diamond-bay-residences,NBO-007,borehole,water borehole,5,true,developer
+chip-diamond-bay-residences-gated_security,prop-diamond-bay-residences,NBO-007,gated_security,24/7 manned entrance security,5,true,developer
+chip-misty-springs-parking,prop-misty-springs,NBO-017,parking,ample parking + visitor parking,3,false,agent
+chip-misty-springs-gated_security,prop-misty-springs,NBO-017,gated_security,24/7 security,3,false,agent
+chip-misty-springs-borehole,prop-misty-springs,NBO-017,borehole,borehole,1,false,agent
+chip-misty-springs-internet_cable,prop-misty-springs,NBO-017,internet_cable,fibre,1,false,agent
+chip-golden-mansion-parking,prop-golden-mansion,NBO-001,parking,5-level / podium parking,5,true,official_filing
+chip-golden-mansion-cctv,prop-golden-mansion,NBO-001,cctv,24hr security/CCTV,3,false,agent
+chip-golden-mansion-backup_generator,prop-golden-mansion,NBO-001,backup_generator,backup generator,3,false,agent
+chip-longines-bay-kilimani-cctv,prop-longines-bay-kilimani,NBO-008,cctv,24/7 CCTV,5,true,developer
+chip-longines-bay-kilimani-borehole,prop-longines-bay-kilimani,NBO-008,borehole,borehole,2,false,agent
+chip-longines-bay-kilimani-backup_generator,prop-longines-bay-kilimani,NBO-008,backup_generator,backup generator,2,false,agent
+chip-berkeley-homes-borehole,prop-berkeley-homes,NBO-010,borehole,borehole (ESIA recommends onsite),5,true,official_filing
+chip-berkeley-homes-backup_generator,prop-berkeley-homes,NBO-010,backup_generator,backup generator,5,true,official_filing
+chip-berkeley-homes-parking,prop-berkeley-homes,NBO-010,parking,parking,5,true,official_filing
+chip-berkeley-homes-cctv,prop-berkeley-homes,NBO-010,cctv,security/CCTV,5,true,official_filing
+chip-berkeley-homes-rooftop_solar,prop-berkeley-homes,NBO-010,rooftop_solar,solar water heating,1,false,agent
+chip-lesonia-residences-cctv,prop-lesonia-residences,NBO-011,cctv,24/7 CCTV,5,true,developer
+chip-lesonia-residences-parking,prop-lesonia-residences,NBO-011,parking,parking + visitor/Uber parking,5,true,developer
+chip-lesonia-residences-backup_generator,prop-lesonia-residences,NBO-011,backup_generator,backup generator,5,true,developer
+chip-lesonia-residences-borehole,prop-lesonia-residences,NBO-011,borehole,borehole,5,true,developer
+chip-plumeria-residency-parking,prop-plumeria-residency,NBO-015,parking,basement B1–B3 + ground parking,5,true,official_filing
+chip-plumeria-residency-gated_security,prop-plumeria-residency,NBO-015,gated_security,security room / gated perimeter,5,true,official_filing
+chip-plumeria-residency-borehole,prop-plumeria-residency,NBO-015,borehole,borehole,3,false,agent
+chip-plumeria-residency-backup_generator,prop-plumeria-residency,NBO-015,backup_generator,full backup generator,3,false,agent
+chip-plumeria-residency-cctv,prop-plumeria-residency,NBO-015,cctv,CCTV / intercom,3,false,agent
+chip-polaris-residency-backup_generator,prop-polaris-residency,NBO-016,backup_generator,generator,3,false,agent
+chip-polaris-residency-borehole,prop-polaris-residency,NBO-016,borehole,borehole,3,false,agent
+chip-polaris-residency-parking,prop-polaris-residency,NBO-016,parking,ample parking,3,false,agent
+chip-polaris-residency-cctv,prop-polaris-residency,NBO-016,cctv,CCTV / security,3,false,agent
+chip-polaris-residency-internet_cable,prop-polaris-residency,NBO-016,internet_cable,DSTV/internet,3,false,agent
+chip-golfscape-residences-internet_cable,prop-golfscape-residences,NBO-006,internet_cable,Fibre Internet and Intercom,5,true,developer
+chip-golfscape-residences-backup_generator,prop-golfscape-residences,NBO-006,backup_generator,Full power backup generator,5,true,developer
+chip-golfscape-residences-borehole,prop-golfscape-residences,NBO-006,borehole,Borehole,5,true,developer
+chip-golfscape-residences-gated_security,prop-golfscape-residences,NBO-006,gated_security,24/7 manned security,5,true,developer
+chip-golfscape-residences-cctv,prop-golfscape-residences,NBO-006,cctv,CCTV,5,true,developer
+chip-luna-oak-residency-borehole,prop-luna-oak-residency,NBO-012,borehole,borehole,2,false,agent
+chip-luna-oak-residency-backup_generator,prop-luna-oak-residency,NBO-012,backup_generator,backup generator,2,false,agent
+chip-luna-oak-residency-cctv,prop-luna-oak-residency,NBO-012,cctv,24/7 CCTV,2,false,agent
+chip-alba-apartments-backup_generator,prop-alba-apartments,NBO-014,backup_generator,backup generator,3,false,agent
+chip-alba-apartments-borehole,prop-alba-apartments,NBO-014,borehole,borehole,3,false,agent
+chip-alba-apartments-cctv,prop-alba-apartments,NBO-014,cctv,CCTV/security,3,false,agent
+chip-kings-summit-nakuru-rooftop_solar,prop-kings-summit-nakuru,NAK-001,rooftop_solar,Solar street lighting,5,true,developer
+chip-kings-summit-nakuru-gated_security,prop-kings-summit-nakuru,NAK-001,gated_security,24h controlled-access + boundary wall,5,true,developer
+chip-kings-summit-nakuru-backup_generator,prop-kings-summit-nakuru,NAK-001,backup_generator,backup generator (common areas),5,true,developer
+chip-kings-summit-nakuru-borehole,prop-kings-summit-nakuru,NAK-001,borehole,borehole,5,true,developer
+chip-nouveau-cctv,prop-nouveau,DISC-NBO-005,cctv,CCTV,1,false,agent
+chip-kings-square-eldoret-ph2-gated_security,prop-kings-square-eldoret-ph2,ELD-001,gated_security,Gated,2,false,portal
+chip-capricorn-kilimani-borehole,prop-capricorn-kilimani,DISC-CAPRICORN,borehole,borehole,3,false,agent
+chip-capricorn-kilimani-backup_generator,prop-capricorn-kilimani,DISC-CAPRICORN,backup_generator,backup generator,3,false,agent
+chip-capricorn-kilimani-cctv,prop-capricorn-kilimani,DISC-CAPRICORN,cctv,CCTV/intercom,3,false,agent
+chip-canto-parking,prop-canto,DISC-NBO-001,parking,5 levels parking,3,false,agent
+chip-brookside-oak-gated_security,prop-brookside-oak,DISC-NBO-006,gated_security,UN-standard security,5,true,developer
+chip-brookside-oak-parking,prop-brookside-oak,DISC-NBO-006,parking,6 levels B2–3rd floor,5,true,developer
+chip-kai-diani-backup_generator,prop-kai-diani,KWA-001,backup_generator,backup generator,5,true,developer
+chip-kai-diani-cctv,prop-kai-diani,KWA-001,cctv,24/7 CCTV,5,true,developer
+chip-kai-diani-wifi,prop-kai-diani,KWA-001,wifi,high-speed Wi-Fi,5,true,developer
+chip-kai-diani-gated_security,prop-kai-diani,KWA-001,gated_security,electric fencing / secure parking / 24h security framing,5,true,developer
+chip-kai-diani-parking,prop-kai-diani,KWA-001,parking,basement parking,5,true,developer
+chip-108-residences-diani-rooftop_solar,prop-108-residences-diani,DIA-001,rooftop_solar,Solar Generated Power,5,true,developer
+chip-108-residences-diani-backup_generator,prop-108-residences-diani,DIA-001,backup_generator,Backup Generator,5,true,developer
+chip-108-residences-diani-gated_security,prop-108-residences-diani,DIA-001,gated_security,24/7 Security,5,true,developer
+chip-108-residences-diani-parking,prop-108-residences-diani,DIA-001,parking,Car Parking 105,5,true,developer
+chip-108-residences-diani-borehole,prop-108-residences-diani,DIA-001,borehole,well water / borehole,3,false,agent
+chip-108-residences-diani-cctv,prop-108-residences-diani,DIA-001,cctv,CCTV / access control / intercom,3,false,agent
+chip-forestview-residences-gated_security,prop-forestview-residences,DISC-NBO-012,gated_security,grand lobby + 24/7 security,5,true,developer
+chip-forestview-residences-backup_generator,prop-forestview-residences,DISC-NBO-012,backup_generator,generator backup all areas,4,true,developer
+chip-forestview-residences-borehole,prop-forestview-residences,DISC-NBO-012,borehole,borehole,4,true,developer
+chip-forestview-residences-cctv,prop-forestview-residences,DISC-NBO-012,cctv,CCTV + electric fence,4,true,developer
+chip-forestview-residences-parking,prop-forestview-residences,DISC-NBO-012,parking,dedicated + visitor parking,4,true,developer
+chip-donyo-hill-residences-gated_security,prop-donyo-hill-residences,DISC-NBO-013,gated_security,grand entrance lobby with 24/7 security,5,true,developer
+chip-donyo-hill-residences-backup_generator,prop-donyo-hill-residences,DISC-NBO-013,backup_generator,backup generator,2,false,agent
+chip-donyo-hill-residences-borehole,prop-donyo-hill-residences,DISC-NBO-013,borehole,borehole,2,false,agent
+chip-donyo-hill-residences-cctv,prop-donyo-hill-residences,DISC-NBO-013,cctv,CCTV,2,false,agent
+chip-sunpark-residence-ii-gated_security,prop-sunpark-residence-ii,DISC-NBO-015,gated_security,24/7 security / CCTV / electric fence,3,false,agent
+chip-sunpark-residence-ii-backup_generator,prop-sunpark-residence-ii,DISC-NBO-015,backup_generator,backup generator,3,false,agent
+chip-sunpark-residence-ii-borehole,prop-sunpark-residence-ii,DISC-NBO-015,borehole,borehole(s),3,false,agent
+chip-citrine-heights-backup_generator,prop-citrine-heights,DISC-NBO-016,backup_generator,generator,3,false,agent
+chip-citrine-heights-borehole,prop-citrine-heights,DISC-NBO-016,borehole,borehole,3,false,agent
+chip-citrine-heights-cctv,prop-citrine-heights,DISC-NBO-016,cctv,CCTV,3,false,agent
+chip-citrine-heights-gated_security,prop-citrine-heights,DISC-NBO-016,gated_security,24hr security,3,false,agent
+chip-citrine-heights-parking,prop-citrine-heights,DISC-NBO-016,parking,4 parking levels (2 basement + 2 upper),3,false,agent
+chip-auris-residence-backup_generator,prop-auris-residence,DISC-NBO-017,backup_generator,backup generator,3,false,agent
+chip-auris-residence-parking,prop-auris-residence,DISC-NBO-017,parking,2.5-level parking,3,false,agent
+chip-auris-residence-cctv,prop-auris-residence,DISC-NBO-017,cctv,24/7 CCTV security,3,false,agent
+chip-serene-manor-parking,prop-serene-manor,DISC-NBO-018,parking,ample parking,5,true,developer
+chip-serene-manor-backup_generator,prop-serene-manor,DISC-NBO-018,backup_generator,backup power,5,true,developer
+chip-serene-manor-borehole,prop-serene-manor,DISC-NBO-018,borehole,borehole,3,false,agent
+chip-serene-manor-cctv,prop-serene-manor,DISC-NBO-018,cctv,CCTV,3,false,agent
+chip-serene-manor-gated_security,prop-serene-manor,DISC-NBO-018,gated_security,24/7 security,3,false,agent
+chip-libra-residences-cctv,prop-libra-residences,DISC-NBO-019,cctv,24-hour CCTV,5,true,developer
+chip-libra-residences-rooftop_solar,prop-libra-residences,DISC-NBO-019,rooftop_solar,solar lighting,5,true,developer
+chip-only-you-cctv,prop-only-you,DISC-NBO-020,cctv,CCTV,5,true,developer
+chip-gaia-brookside-cctv,prop-gaia-brookside,DISC-NBO-021,cctv,CCTV,5,true,developer
+chip-gaia-brookside-parking,prop-gaia-brookside,DISC-NBO-021,parking,car parking,5,true,developer
+chip-diplomat-residencies-parking,prop-diplomat-residencies,DISC-NBO-022,parking,parking,5,true,developer
+chip-diplomat-residencies-gated_security,prop-diplomat-residencies,DISC-NBO-022,gated_security,24/7 security,5,true,developer
+chip-diplomat-residencies-borehole,prop-diplomat-residencies,DISC-NBO-022,borehole,borehole,5,true,developer
+chip-diplomat-residencies-backup_generator,prop-diplomat-residencies,DISC-NBO-022,backup_generator,power backup,5,true,developer
+chip-aya-luxury-residence-rooftop_solar,prop-aya-luxury-residence,DISC-NBO-023,rooftop_solar,solar water heating,5,true,developer
+chip-aya-luxury-residence-backup_generator,prop-aya-luxury-residence,DISC-NBO-023,backup_generator,full backup generator,5,true,developer
+chip-aya-luxury-residence-gated_security,prop-aya-luxury-residence,DISC-NBO-023,gated_security,24hr security,5,true,developer
+chip-aya-luxury-residence-cctv,prop-aya-luxury-residence,DISC-NBO-023,cctv,video intercom/CCTV,5,true,developer
+chip-rhapta-one-backup_generator,prop-rhapta-one,DISC-NBO-024,backup_generator,backup generator,3,false,agent
+chip-rhapta-one-borehole,prop-rhapta-one,DISC-NBO-024,borehole,borehole,3,false,agent
+chip-rhapta-one-cctv,prop-rhapta-one,DISC-NBO-024,cctv,CCTV,3,false,agent
+chip-rhapta-one-gated_security,prop-rhapta-one,DISC-NBO-024,gated_security,24/7 security,3,false,agent
+chip-rhapta-one-rooftop_solar,prop-rhapta-one,DISC-NBO-024,rooftop_solar,solar water heating,3,false,agent
+chip-alina-valley-backup_generator,prop-alina-valley,DISC-NBO-025,backup_generator,backup generator,3,false,agent
+chip-alina-valley-borehole,prop-alina-valley,DISC-NBO-025,borehole,borehole,3,false,agent
+chip-alina-valley-cctv,prop-alina-valley,DISC-NBO-025,cctv,CCTV,3,false,agent
+chip-alina-valley-parking,prop-alina-valley,DISC-NBO-025,parking,ample parking,3,false,agent
+chip-montbleu-cctv,prop-montbleu,DISC-NBO-026,cctv,CCTV,5,true,developer
+chip-montbleu-borehole,prop-montbleu,DISC-NBO-026,borehole,borehole,5,true,developer
+chip-montbleu-rooftop_solar,prop-montbleu,DISC-NBO-026,rooftop_solar,solar water heating,5,true,developer
+chip-montbleu-backup_generator,prop-montbleu,DISC-NBO-026,backup_generator,power backup,5,true,developer
+chip-montbleu-parking,prop-montbleu,DISC-NBO-026,parking,car parking,5,true,developer
+chip-marina-bay-2-borehole,prop-marina-bay-2,DISC-NBO-027,borehole,borehole,3,false,agent
+chip-marina-bay-2-rooftop_solar,prop-marina-bay-2,DISC-NBO-027,rooftop_solar,solar water heating,3,false,agent
+chip-marina-bay-2-backup_generator,prop-marina-bay-2,DISC-NBO-027,backup_generator,full backup generator,3,false,agent
+chip-marina-bay-2-cctv,prop-marina-bay-2,DISC-NBO-027,cctv,CCTV,3,false,agent
+chip-marina-bay-2-parking,prop-marina-bay-2,DISC-NBO-027,parking,ample parking,3,false,agent
+chip-atreus-brookside-borehole,prop-atreus-brookside,DISC-NBO-028,borehole,borehole,4,true,developer
+chip-atreus-brookside-backup_generator,prop-atreus-brookside,DISC-NBO-028,backup_generator,backup generator,4,true,developer
+chip-atreus-brookside-cctv,prop-atreus-brookside,DISC-NBO-028,cctv,CCTV,4,true,developer
+chip-atreus-brookside-gated_security,prop-atreus-brookside,DISC-NBO-028,gated_security,24/7 security,4,true,developer
+chip-atreus-brookside-parking,prop-atreus-brookside,DISC-NBO-028,parking,parking,4,true,developer
+chip-grand-premier-gated_security,prop-grand-premier,DISC-NBO-029,gated_security,exceptional security,5,true,developer
+chip-grand-premier-rooftop_solar,prop-grand-premier,DISC-NBO-029,rooftop_solar,solar water heating,5,true,developer
+chip-grand-premier-borehole,prop-grand-premier,DISC-NBO-029,borehole,borehole,5,true,developer
+chip-grand-premier-backup_generator,prop-grand-premier,DISC-NBO-029,backup_generator,generator,5,true,developer
+chip-rosewood-park-rooftop_solar,prop-rosewood-park,DISC-NBO-030,rooftop_solar,solar water heating,5,true,developer
+chip-rosewood-park-borehole,prop-rosewood-park,DISC-NBO-030,borehole,borehole,5,true,developer
+chip-rosewood-park-backup_generator,prop-rosewood-park,DISC-NBO-030,backup_generator,full backup generator,5,true,developer
+chip-rosewood-park-cctv,prop-rosewood-park,DISC-NBO-030,cctv,CCTV,5,true,developer
+chip-rosewood-park-gated_security,prop-rosewood-park,DISC-NBO-030,gated_security,24hr security / electric fence,5,true,developer

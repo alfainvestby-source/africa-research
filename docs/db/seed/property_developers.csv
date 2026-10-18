@@ -1,0 +1,52 @@
+property_id,developer_id,role,confidence,notes
+prop-pandora-residences,dev-a-one-corporation,primary,5,
+prop-astra-bay-residence,dev-wimax-homes,primary,5,Not Laureland
+prop-porini-point,dev-rendeavour,primary,5,Owner/master developer of Tatu City per brochures
+prop-porini-point,dev-tatu-city-limited,co_developer,4,Dual with RelatedParty co_developer — pack dual-Developers disclaimer
+prop-galaxy-one,dev-lionston-real-estate,primary,5,CSV Lionstone = typo
+prop-riara-oasis,dev-riara-oasis-limited,primary,5,NEMA EIA proponent + registered proprietor Nairobi/Block 15/121
+prop-gemini-residency-phase-2,dev-staroot-real-estate,primary,5,Staroot Real Estate conf 5
+prop-diamond-bay-residences,dev-henbon-company-ltd,primary,5,henbon.co/about
+prop-misty-springs,dev-tian-yu-international,primary,2,LinkedIn-only lead — needs_verification; do not treat as portal-ready primary
+prop-golden-mansion,dev-summit-vista-company-limited,primary,5,NEMA EIA proponent
+prop-golden-mansion,dev-xiangfeng-group,co_developer,3,Dual with RelatedParty co_developer; affiliate/backing framing
+prop-longines-bay-kilimani,dev-nanchong-longines-bay-limited,primary,5,NEMA SPV; trading Nanchong International
+prop-berkeley-homes,dev-rarlon-estate-development,primary,4,NEMA ESIA proponent; marketing site silent on legal name
+prop-lesonia-residences,dev-lesonia-residency,primary,3,Trading brand only — legal entity unknown; Riara One team claim agent-only NV — do not merge Riara Oasis
+prop-plumeria-residency,dev-riara-plumeria-development,primary,5,NEMA EIA proponent + registered proprietor L.R. 330/179
+prop-golfscape-residences,dev-wh-harmony-investment,primary,5,golfscape.co.ke/about
+prop-luna-oak-residency,dev-mingland-company,primary,5,NEMA ESIA proponent Nairobi/Block 17/283
+prop-alba-apartments,dev-nanchang-investment,primary,3,Hauzisha + indexed albagarden.ke — needs_verification; Own It ≠ developer
+prop-kings-summit-nakuru,dev-kings-developers-ltd,primary,5,kingsdevelopers.com project + aboutus
+prop-nouveau,dev-hass-consult-limited,primary,4,HassConsult conceptualizer/seller of record; confirm LOO contracting entity
+prop-sensei-nyali,dev-hass-consult-limited,primary,4,Shared entity with Nouveau; Sensei SPV/EIA not found
+prop-kings-square-eldoret-ph2,dev-kings-developers-ltd,primary,5,Reuse NAK Kings Developers Ltd id; Phase 2 project branding
+prop-capricorn-kilimani,dev-staroot-real-estate,primary,5,Staroot Company Ltd / Staroot Real Estate
+prop-capricorn-kilimani,dev-mulika-garden,co_developer,4,PDF co-named DEVELOPER — dual with RelatedParty
+prop-canto,dev-vaal-real-estate,primary,5,vaal.co.ke/canto
+prop-ankori,dev-hass-consult-limited,primary,4,Trading/conceptualizer face — legal SPV unknown; reuse HassConsult entity
+prop-brookside-oak,dev-van-tung-company,primary,3,Email-inferred legal name; brand Oak Developer; registry NV
+prop-kai-diani,dev-ayce-investments-limited,primary,5,Brochure Developer + OMT CLIENT
+prop-108-residences-diani,dev-omicron-resources,primary,4,Enin + prior brochure disclaimers; official HTML silent
+prop-forestview-residences,dev-elegant-properties,primary,5,Trading Elegant Properties; legal SPV unknown
+prop-donyo-hill-residences,dev-elegant-properties,primary,5,Trading Elegant Properties; legal SPV unknown
+prop-48-treehouse,dev-elegant-properties,primary,5,Trading Elegant Properties; legal SPV unknown
+prop-sunpark-residence-ii,dev-elegant-properties,primary,5,Trading Elegant Properties; Phase II only
+prop-citrine-heights,dev-jafu-real-estate-group,primary,4,Trading Jafu; legal SPV unknown; no official Citrine page
+prop-auris-residence,dev-jafu-real-estate-group,primary,4,Trading Jafu; official site features Serene Manor not Auris
+prop-serene-manor,dev-jafu-real-estate-group,primary,5,Featured on jafugroupkenya.com; trading face; legal SPV unknown
+prop-libra-residences,dev-glbc-group,primary,5,Trading GLBC Group; legal SPV unknown
+prop-gaia-brookside,dev-wonder-properties,primary,5,Trading Wonder Properties; legal SPV unknown
+prop-diplomat-residencies,dev-wonder-properties,primary,5,Shared Wonder row with Gaia; legal SPV unknown
+prop-aya-luxury-residence,dev-whitehorse-real-estate,primary,5,Whitehorse trading; AAD prior face RelatedParty; Sandoral never primary
+prop-rhapta-one,dev-oasis-development-company,primary,2,Hauzisha trading face; no microsite — needs_verification
+prop-alina-valley,dev-wonder-properties,primary,5,Reuse Wonder from Gaia/Diplomat
+prop-marina-bay-2,dev-m-group-developer,primary,4,Trading M-Group; Phase 2 SPV unknown
+prop-atreus-brookside,dev-atreus-ventures-ltd,primary,5,NEMA EIA proponent
+prop-grand-premier,dev-whitehorse-real-estate,primary,5,Whitehorse trading; AAD prior face RelatedParty
+prop-rosewood-park,dev-whitehorse-real-estate,primary,5,Whitehorse trading; AAD prior face RelatedParty
+prop-237-lulu,dev-mi-vida-homes,primary,5,Mi Vida project + About
+prop-highpoint-336,dev-highpoint-development-ltd,primary,4,BuyRent/Malluu naming — string NV
+prop-jabali-towers,dev-rendeavour,primary,5,Tatu FAQ / jabalitowers.com
+prop-balkis-residences,dev-sunmon-group,primary,2,Hauzisha only — needs_verification
+prop-hephe-palace,dev-sequoia-real-estate,primary,5,hephepalace.ke Team

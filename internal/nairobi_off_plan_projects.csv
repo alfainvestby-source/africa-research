@@ -1,0 +1,18 @@
+external_id,name,location,lat,lng,stage,completion,price_from_kes,images_url,sales_contact,developer
+NBO-001,Golden Mansion,"Muthithi Road, Westlands, Nairobi",-1.26512,36.80627,off_plan,Q2 2028,6180527,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, loyd@block.ke",SkyPeak Limited
+NBO-002,Pandora Residences,"Muthangari Drive, Westlands, Nairobi",,,off_plan,Q4 2028,12910000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, loyd@block.ke",A1 Corporation
+NBO-003,Riara Oasis,"Riara Road, Lavington, Nairobi",,,under_construction,Q4 2027,5200000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, loyd@block.ke",
+NBO-004,Porini Point,"Tatu City, Ruiru, Kiambu County",-1.15703,36.88792,off_plan,Q1 2027 (final phase Q3 2029),7610000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686",Rendeavour (Tatu City)
+NBO-005,Astra Bay Residence,"Lower Kabete Road, Lower Kabete, Nairobi",-1.23310,36.71314,under_construction,Q2 2027,1870000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, loyd@block.ke",Wimax Homes
+NBO-006,Golfscape Residences,"Muchai Drive, off Ngong Road, Nairobi",,,off_plan,Q3 2027,4600000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, sales@block.ke",
+NBO-007,Diamond Bay Residences,"Westlands Road, Westlands, Nairobi",-1.26750,36.81202,under_construction,Q3 2027,8840000,,"Loyd Mokaya (Block Real Estate), +254 725 937 686, loyd@block.ke",
+NBO-008,Longines Bay Kilimani,"Karbanet Road, off Ngong Road, Kilimani, Nairobi",,,off_plan,2029,3700000,,"Loyd Mokaya / Ricky Wekesa (Block Real Estate), +254 725 937 686",Nanchong International
+NBO-009,Gemini Residency Phase 2,"Matundu Lane, Brookside, Westlands, Nairobi",,,under_construction,Q1 2029,9500000,,"NRE Real Estate, +254 141 361 320, info@nairobirealestate.co.ke",Staroot Real Estate
+NBO-010,Berkeley Homes,"Kileleshwa, Nairobi",,,under_construction,,4200000,,"NRE Real Estate, +254 141 361 320, info@nairobirealestate.co.ke",Procmura
+NBO-011,Lesonia Residences,"Gatundu Road / Tinderet Avenue, Kileleshwa, Nairobi",,,under_construction,Q3 2028,5500000,,"NRE Real Estate, +254 141 361 320, info@nairobirealestate.co.ke",
+NBO-012,Luna Oak Residency,"Kilungu Road, off Elgeyo Marakwet Road, Kilimani, Nairobi",,,under_construction,Q3 2029,11500000,,"NRE Real Estate, +254 141 361 320, info@nairobirealestate.co.ke",
+NBO-013,Galaxy One,"Rhapta Road, Westlands, Nairobi",,,under_construction,Q2 2027,5610000,,"NRE Real Estate, +254 141 361 320, info@nairobirealestate.co.ke",Lionstone
+NBO-014,Alba Apartments,"Wanyee Road, off Naivasha Road, Dagoretti, Nairobi",,,off_plan,Q2 2026 (check status),1900000,,"Own It Kenya, +254 722 716 182, sales@ownitkenya.com",
+NBO-015,Plumeria Residency,"Riara Road, Kilimani, Nairobi",,,off_plan,Q4 2026 (check status),10000000,,"Own It Kenya, +254 722 716 182, sales@ownitkenya.com",
+NBO-016,Polaris Residency,"Kindaruma Road, Kilimani, Nairobi",,,off_plan,2025 (check status),6000000,,"Own It Kenya, +254 722 716 182, sales@ownitkenya.com",
+NBO-017,Misty Springs,"Westlands Road, Westlands, Nairobi",,,off_plan,Q4 2025 (check status),8000000,,"Own It Kenya, +254 722 716 182, sales@ownitkenya.com",

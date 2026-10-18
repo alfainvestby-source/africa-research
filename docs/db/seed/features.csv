@@ -1,0 +1,69 @@
+id,slug,name,description,is_active,filter_candidate,notes
+swimming_pool,swimming_pool,Swimming pool,Shared pool (any heated/rooftop/infinity/courtyard variant),true,false,Normalize variants via synonym + variant_note on link
+gym,gym,Gym / fitness,Shared gym or fitness centre,true,false,
+cctv,cctv,CCTV / video security,CCTV or video surveillance,true,false,
+parking,parking,Parking,Shared or podium parking (not unit bay count),true,false,
+backup_generator,backup_generator,Backup generator,Estate/building backup power,true,false,Kenya-common amenity
+borehole,borehole,Borehole water,Onsite borehole / borehole water,true,false,Kenya-common amenity
+high_speed_lifts,high_speed_lifts,Lifts / elevator,Lifts or elevators (incl. high-speed),true,false,Majengo chip "Elevator" normalizes here
+kids_play,kids_play,Children's play area,Kids / children's play zone or playroom,true,false,
+barbecue,barbecue,Barbecue area,BBQ / barbecue area,true,false,
+clubhouse,clubhouse,Clubhouse,Residents clubhouse,true,false,Also community scope
+cinema,cinema,Cinema / theater,Indoor/outdoor cinema or private theater,true,false,
+coworking,coworking,Co-working,Co-working / coworking space,true,false,
+sauna,sauna,Sauna,Sauna (split from spa when evidence allows),true,false,
+spa,spa,Spa,Spa / wellness spa,true,false,
+yoga,yoga,Yoga / wellness room,Yoga room or wellness deck,true,false,
+concierge,concierge,Concierge,Concierge or dedicated concierge,true,false,
+reception,reception,Reception / lobby,Reception desk or hotel-style lobby,true,false,
+lounge,lounge,Lounge,Resident / sky / coffee / piano lounge,true,false,
+restaurant_cafe,restaurant_cafe,Restaurant / café,On-site restaurant or café,true,false,
+gated_security,gated_security,Gated / manned security,Gated access or 24/7 manned security,true,false,
+access_control,access_control,Access control,Access control systems,true,false,
+indoor_gaming,indoor_gaming,Indoor gaming / games room,Games room / indoor gaming / pool room,true,false,
+green_area,green_area,Landscaped green / garden (shared),Shared landscaped gardens or courtyards,true,false,Not unit private garden
+convenience_store,convenience_store,Convenience store / mini-mart,Convenience store supermarket or mini-mart,true,false,
+internet_cable,internet_cable,Internet / cable,Internet or cable provision,true,false,Related to wifi; keep both for Majengo chip + dossier "internet/cable"
+wifi,wifi,WiFi,WiFi / wireless internet (building or unit),true,false,Majengo P0 chip — rent/PMS-common; no invented property links until dossier-sourced
+furnished,furnished,Furnished,Unit furnished (rent-listing chip),true,false,Majengo P0 chip — apartment scope; rare in off-plan sale dossiers
+social_corridor,social_corridor,Social corridor,Social corridor (Astra flyer),true,false,
+tracking_range,tracking_range,Tracking range,Tracking range (Astra flyer),true,false,
+sun_deck,sun_deck,Sun deck,Pool sun deck,true,false,
+fire_pit,fire_pit,Fire pit,Fire pit amenity,true,false,
+laundry_shared,laundry_shared,Shared / 24h laundry,Shared or 24-hour laundry,true,false,
+pet_friendly,pet_friendly,Pet-friendly facilities,Pet-friendly facilities,true,false,
+fingerprint_access,fingerprint_access,Fingerprint door access,Fingerprint door locks,true,false,
+padel,padel,Padel court,Padel / sky padel court,true,false,
+mini_golf,mini_golf,Mini-golf / sky golf,Mini-golf or sky golf,true,false,
+changing_rooms,changing_rooms,Changing rooms,Changing rooms,true,false,
+rainwater_harvest,rainwater_harvest,Rainwater harvest,Rainwater harvesting,true,false,
+water_storage,water_storage,Bulk water storage,Bulk water storage tanks,true,false,
+pharmacy,pharmacy,Pharmacy (on estate),Pharmacy or chemist on estate,true,false,
+dry_cleaning,dry_cleaning,Dry cleaning,Dry cleaning service,true,false,
+guest_room,guest_room,Guest room,Guest room,true,false,
+jogging_track,jogging_track,Jogging track,Jogging track,true,false,
+rooftop_solar,rooftop_solar,Rooftop solar,Rooftop solar or solar water heating,true,false,
+jacuzzi,jacuzzi,Jacuzzi,Jacuzzi,true,false,
+daycare,daycare,Kids' daycare,Daycare,true,false,
+beauty_parlor,beauty_parlor,Beauty parlor,Beauty parlor,true,false,
+library,library,Library,Library,true,false,
+conference_room,conference_room,Conference room,Conference room,true,false,
+smart_lock,smart_lock,Smart lock,Smart lock access,true,false,
+balcony,balcony,Balcony / terrace,Private balcony or terrace,true,false,Apartment scope primary
+ensuite,ensuite,Ensuite bathroom,Ensuite bathroom,true,false,
+fitted_kitchen,fitted_kitchen,Fitted kitchen,Fitted kitchen with appliances,true,false,
+dsq,dsq,DSQ (domestic staff quarters),DSQ / staff quarters / maid's room,true,false,apartment+house scopes
+study,study,Study,Study room,true,false,
+smart_home,smart_home,Smart home,Smart home or face-scan access systems,true,false,
+double_height_ceiling,double_height_ceiling,Double-height ceiling,Double-height ceilings,true,false,
+quartz_countertops,quartz_countertops,Quartz countertops,Quartz kitchen counters,true,false,
+spc_parquet,spc_parquet,SPC parquet flooring,SPC parquet flooring,true,false,
+in_unit_laundry,in_unit_laundry,In-unit laundry,In-unit laundry area,true,false,
+walk_in_closet,walk_in_closet,Walk-in closet,Walk-in closet,true,false,
+ai_smart_toilet,ai_smart_toilet,AI / smart toilet,AI or smart toilets,true,false,
+automated_curtains,automated_curtains,Automated curtains,Automated curtains,true,false,
+parking_bay,parking_bay,Dedicated parking bay,Unit-included parking bay(s),true,false,house/apartment unit allocation
+retail_boulevard,retail_boulevard,Retail boulevard / estate retail,Retail boulevard or estate retail strip,true,false,community
+wildlife_sanctuary,wildlife_sanctuary,Wildlife sanctuary access / views,Wildlife sanctuary adjacency or views,true,false,community — Porini/Tatu
+estate_schools_access,estate_schools_access,Schools within master community,Named schools in master-planned community context,true,false,community
+commercial_hub,commercial_hub,Commercial / convenience hub,Estate commercial hub (shops/F&B/services),true,false,community

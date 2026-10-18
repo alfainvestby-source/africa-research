@@ -1,0 +1,74 @@
+id,place_type,name,parent_id,country_code,is_master_planned,notes
+geo-ke,country,Kenya,,KE,false,
+geo-nairobi,city,Nairobi,geo-ke,KE,false,Nairobi metro framing
+geo-kiambu,county,Kiambu County,geo-ke,KE,false,Porini / Astra edge disputes
+geo-westlands,neighbourhood,Westlands,geo-nairobi,KE,false,
+geo-muthangari-drive,street,Muthangari Drive,geo-westlands,KE,false,Pandora — opposite The Address Offices
+geo-rhapta-road,street,Rhapta Road,geo-westlands,KE,false,Galaxy One — 147 Rhapta Road
+geo-lower-kabete,neighbourhood,Lower Kabete,geo-nairobi,KE,false,Astra; county Nairobi vs Kiambu needs_verification
+geo-lower-kabete-road,street,Lower Kabete Road,geo-lower-kabete,KE,false,
+geo-tatu-city,master_planned_community,Tatu City,geo-kiambu,KE,true,5000-acre master-planned city / SEZ framing
+geo-tatu-wildlife-sanctuary,neighbourhood,Tatu Wildlife Sanctuary edge,geo-tatu-city,KE,false,Porini hillside framing; ~160 acres per launch news
+geo-lavington,neighbourhood,Lavington,geo-nairobi,KE,false,Agent marketing label for Riara Oasis; NEMA says Thompson
+geo-thompson,neighbourhood,Thompson,geo-nairobi,KE,false,NEMA EIA area label for Riara Oasis
+geo-riara-road,street,Riara Road,geo-lavington,KE,false,Riara Oasis — Plot Nairobi/Block 15/121
+geo-brookside,neighbourhood,Brookside,geo-westlands,KE,false,Gemini Phase 2 canonical neighbourhood
+geo-matundu-lane,street,Matundu Lane,geo-brookside,KE,false,CSV/agent street for Gemini; developer pages say Brookside without street — NV on exact label
+geo-westlands-road,street,Westlands Road,geo-westlands,KE,false,Diamond Bay / Misty Springs corridor; GTC adjacent for Diamond Bay
+geo-kileleshwa,neighbourhood,Kileleshwa,geo-nairobi,KE,false,Berkeley Homes
+geo-oloitoktok-road,street,Oloitoktok Road,geo-kileleshwa,KE,false,Berkeley Homes / Kirichwa Creek access
+geo-kilimani,neighbourhood,Kilimani,geo-nairobi,KE,false,Longines Bay marketing area
+geo-karbanet-road,street,Karbanet / Kabarnet Road,geo-kilimani,KE,false,Longines Bay — both spellings retained
+geo-muthithi-road,street,Muthithi Road,geo-westlands,KE,false,Golden Mansion L.R. Nairobi/Block 34/424
+geo-kileleshwa-gatundu,street,Gatundu Road / Tinderet Avenue,geo-kileleshwa,KE,false,Lesonia Residences — opposite Kenton International School
+geo-dagoretti,neighbourhood,Dagoretti / Riruta,geo-nairobi,KE,false,Alba Apartments area (Wanyee Road)
+geo-wanyee-road,street,Wanyee Road,geo-dagoretti,KE,false,Alba Apartments — off Naivasha Road
+geo-muchai-drive,street,Muchai Drive / Muchai Road,geo-kilimani,KE,false,Golfscape — off Ngong Road; Royal Nairobi Golf Club adjacent
+geo-kilungu-road,street,Kilungu Road,geo-kilimani,KE,false,Luna Oak — off Elgeyo Marakwet; L.R. Nairobi/Block 17/283
+geo-kindaruma-road,street,Kindaruma Road,geo-kilimani,KE,false,Polaris Residency
+geo-riara-road-plumeria,street,Riara Road (Plot 330/179),geo-kilimani,KE,false,Plumeria — NEMA Dagoretti North; agents Kilimani/Lavington border
+geo-nakuru-county,county,Nakuru County,geo-ke,KE,false,Rift Valley — first national (non-Nairobi) seed geography
+geo-nakuru,city,Nakuru,geo-nakuru-county,KE,false,First non-Nairobi city in corpus (NAK-001)
+geo-milimani-nakuru,neighbourhood,Milimani (Nakuru),geo-nakuru,KE,false,Kings Summit; agents also Lower Milimani
+geo-maragoli-road,street,Maragoli Road,geo-milimani-nakuru,KE,false,Craiova only — needs_verification
+geo-hurlingham,neighbourhood,Hurlingham,geo-nairobi,KE,false,Nouveau — HassConsult; Altra says Kilimani (NV)
+geo-lenana-road,street,Lenana Road,geo-hurlingham,KE,false,Nouveau canonical street
+geo-mombasa-county,county,Mombasa County,geo-ke,KE,false,Coast — first coast seed geography (MSA-001)
+geo-mombasa,city,Mombasa,geo-mombasa-county,KE,false,
+geo-nyali,neighbourhood,Nyali,geo-mombasa,KE,false,Sensei beachfront
+geo-greenwood-drive,street,Greenwood Drive,geo-nyali,KE,false,Sensei — ≠ Benford Greenwood listing
+geo-uasin-gishu,county,Uasin Gishu County,geo-ke,KE,false,Eldoret / rest-of-Kenya (ELD-001)
+geo-eldoret,city,Eldoret,geo-uasin-gishu,KE,false,First Eldoret seed
+geo-airport-road-eldoret,street,Airport Road,geo-eldoret,KE,false,Kings Square Phase 2
+geo-wood-avenue,street,Wood Avenue,geo-kilimani,KE,false,Capricorn — adjacent CJ's; near Yaya; ≠ Staroot Residency completed 2023
+geo-school-lane,street,School Lane,geo-westlands,KE,false,CANTO — near Sarit Centre; CPK 34 School Lane secondary
+geo-muguga-green,street,Muguga Green,geo-brookside,KE,false,Brookside Oak — next to Safaricom HQ 3; UN Blue Zone
+geo-kwale-county,county,Kwale County,geo-ke,KE,false,Coast south of Mombasa — Diani / KWA / DIA
+geo-diani,city,Diani,geo-kwale-county,KE,false,Seaside destination — Kai + 108 Residences
+geo-diani-beach-road,street,Diani Beach Road,geo-diani,KE,false,108 Residences — 420 steps to beach
+geo-eldama-ravine-road,street,Eldama Ravine Road,geo-westlands,KE,false,Forestview — Karura Forest edge
+geo-peponi-road,street,Peponi Road,geo-westlands,KE,false,48 Treehouse; Donyo Hill corner with Donyo Sabuk
+geo-donyo-sabuk-avenue,street,Donyo Sabuk Avenue,geo-westlands,KE,false,Donyo Hill Residences corner with Peponi Road
+geo-syokimau,neighbourhood,Syokimau,geo-nairobi,KE,false,Sunpark Residence II — behind Gateway Mall; Machakos-side portals
+geo-chady-road,street,Chady Road,geo-syokimau,KE,false,Sunpark II — Syokimau Airport Rd / off Mombasa Rd
+geo-turbo-road,street,Turbo Road,geo-kilimani,KE,false,Serene Manor — off Lenana Rd; behind Nigeria High Commission
+geo-westlands-avenue,street,Westlands Avenue,geo-westlands,KE,false,Auris marketing corridor — conflicts soft with Westlands Road
+geo-george-padmore-road,street,George Padmore Road,geo-kilimani,KE,false,Libra Residences — off Ngong Road; next to Roseville Residences label
+geo-elgeyo-marakwet-road,street,Elgeyo Marakwet Road / Elgeyo Road,geo-kilimani,KE,false,Only You — Nairobi/Block 17/287
+geo-brookside-gardens,neighbourhood,Brookside Gardens,geo-westlands,KE,false,Gaia Brookside marketing neighbourhood
+geo-brookside-gardens-drive,street,Brookside Gardens Drive,geo-brookside-gardens,KE,false,Gaia Brookside
+geo-peponi-road-diplomat,street,Peponi Road (Diplomat / Westgate),geo-westlands,KE,false,Diplomat Residencies — ~30m/steps from Westgate; reuse peponi corridor framing
+geo-othaya-road,street,Othaya Road,geo-kileleshwa,KE,false,AYA Luxury Residence corner with Makueni
+geo-makueni-road,street,Makueni Road,geo-kileleshwa,KE,false,AYA Luxury Residence; CPK Nyando wording = NV
+geo-likoni-lane,street,Likoni Lane,geo-kilimani,KE,false,Alina Valley — off Dennis Pritt Road
+geo-dennis-pritt-road,street,Dennis Pritt Road / Denis Pritt,geo-kilimani,KE,false,Alina Valley corridor
+geo-sports-road,street,Sports Road,geo-westlands,KE,false,Marina Bay Phase 2 — behind Park Inn by Radisson
+geo-brookside-grove,street,Brookside Grove,geo-brookside,KE,false,Atreus Brookside — off Waiyaki Way; L.R. Nairobi/Block 5/244
+geo-waiyaki-way,street,Waiyaki Way,geo-westlands,KE,false,Atreus Brookside access
+geo-argwings-kodhek-road,street,Argwings Kodhek Road,geo-lavington,KE,false,Grand Premier — Bernard Estate / Valley Arcade
+geo-rose-avenue,street,Rose Avenue,geo-kilimani,KE,false,Rosewood Park — opp. Waridi Hotel
+geo-muthithi-plot-37,street,Muthithi Road Plot 37,geo-westlands,KE,false,Montbleu — reuse Muthithi corridor; Plot 37
+geo-garden-city,neighbourhood,Garden City,geo-nairobi,KE,true,Mi Vida 237 Lulu / Garden City precinct; Thika Rd Exit 7
+geo-riverside,neighbourhood,Riverside,geo-westlands,KE,false,Balkis Residences; Blue Zone / Riverside Drive corridor
+geo-tatu-central,neighbourhood,Tatu Central,geo-tatu-city,KE,false,Jabali Towers mixed-use core
+geo-ring-road-westlands,street,Ring Road Westlands,geo-westlands,KE,false,Hephé Palace — opp Oval / Kingfisher

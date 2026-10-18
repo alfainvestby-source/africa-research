@@ -1,0 +1,193 @@
+id,channel,value,owner_type,owner_id,label,is_primary
+ct-pandora-phone,phone,+254 113 111 888,property,prop-pandora-residences,Project sales office,true
+ct-pandora-email,email,sales@pandora.co.ke,property,prop-pandora-residences,Project sales,true
+ct-pandora-email-alias,email,sales@pandora.ke,property,prop-pandora-residences,Project sales alias,false
+ct-pandora-url,url,https://pandora.co.ke/,property,prop-pandora-residences,Official project site (user-provided 2026-10-18),true
+ct-wimax-phone-1,phone,+254 117 000 888,developer,dev-wimax-homes,Developer sales,true
+ct-wimax-phone-2,phone,+254 117 222 888,developer,dev-wimax-homes,Developer sales,false
+ct-wimax-email,email,wimaxsales24@gmail.com,developer,dev-wimax-homes,Developer sales,true
+ct-laureland-phone-1,phone,+254 703 600 000,related_party,rp-laureland-homes,Laureland,false
+ct-laureland-phone-2,phone,+254 733 600 000,related_party,rp-laureland-homes,Laureland,false
+ct-laureland-email,email,laurelandhomes@gmail.com,related_party,rp-laureland-homes,Laureland,false
+ct-porini-phone,phone,+254 709 441 144,property,prop-porini-point,Porini / Tatu sales,true
+ct-porini-email,email,PoriniSales@tatucity.com,property,prop-porini-point,Porini / Tatu sales,true
+ct-porini-url,url,https://porinipoint.com/,property,prop-porini-point,Project site,false
+ct-lionston-phone-1,phone,+254 117 222 666,developer,dev-lionston-real-estate,Lionston sales,true
+ct-lionston-phone-2,phone,+254 117 222 999,developer,dev-lionston-real-estate,Project marketing,false
+ct-lionston-email,email,hello@lionston.co,developer,dev-lionston-real-estate,Developer,true
+ct-galaxy-mktg-email,email,Marketing@lionston.co,property,prop-galaxy-one,Project marketing galaxyone.co,false
+ct-galaxy-url,url,https://galaxyone.co/,property,prop-galaxy-one,Project microsite,false
+ct-block-loyd-phone,phone,+254 725 937 686,agent,agent-block,Loyd Mokaya CSV,true
+ct-block-loyd-email,email,loyd@block.ke,agent,agent-block,Loyd Mokaya CSV,true
+ct-nre-phone,phone,+254 141 361 320,agent,agent-nre,NRE CSV Galaxy,true
+ct-nre-email,email,info@nairobirealestate.co.ke,agent,agent-nre,NRE,true
+ct-ravi-phone,phone,+254 105 772 200,agent,agent-ravi,Ravi Homes,true
+ct-ravi-email,email,sales@ravihomes.co.ke,agent,agent-ravi,Ravi Homes,true
+ct-vorsa-phone-1,phone,+254 717 945 199,agent,agent-vorsagroup,VorsaGroup,true
+ct-vorsa-phone-2,phone,+254 755 745 140,agent,agent-vorsagroup,VorsaGroup,false
+ct-craiova-wa,whatsapp,+254 720 004 631,agent,agent-craiova,Craiova,true
+ct-ladva-phone,phone,+254 729 088 853,agent,agent-ladva,Ladva,false
+ct-hauzisha-phone,phone,+254 730 731 355,agent,agent-hauzisha,Hauzisha,false
+ct-staroot-phone,phone,+254 710 999 111,developer,dev-staroot-real-estate,Staroot,true
+ct-staroot-email,email,hello@staroot.co.ke,developer,dev-staroot-real-estate,Staroot,true
+ct-staroot-office,office,"Principal Place, Westlands, Nairobi",developer,dev-staroot-real-estate,Staroot office,false
+ct-gemini2-url,url,https://staroot.co.ke/gemini2,property,prop-gemini-residency-phase-2,Phase 2 site,false
+ct-proxima-phone,phone,+254 752 444 999,related_party,rp-proxima-real-estate,Proxima,true
+ct-proxima-email,email,info@proxima.co.ke,related_party,rp-proxima-real-estate,Proxima,true
+ct-cpk-phone,phone,+254 784 448 888,agent,agent-cpk,Kenneth Ikiara,true
+ct-malluug-phone,phone,+254 783 886 142,agent,agent-malluug,Malluug,true
+ct-realtors-phone,phone,+254 791 138 831,agent,agent-realtors,Realtors Platform,true
+ct-henbon-phone,phone,+254 716 333 355,developer,dev-henbon-company-ltd,Henbon footer,true
+ct-henbon-email,email,Marketing@henbon.co,developer,dev-henbon-company-ltd,Henbon,true
+ct-henbon-url,url,https://henbon.co/,developer,dev-henbon-company-ltd,Henbon site,false
+ct-diamond-url,url,https://henbon.co/ongoing-projects,property,prop-diamond-bay-residences,Ongoing projects,false
+ct-ownit-phone,phone,+254 722 716 182,agent,agent-own-it,Own It CSV,true
+ct-ownit-email,email,sales@ownitkenya.com,agent,agent-own-it,Own It CSV,true
+ct-tianyu-linkedin,url,https://ke.linkedin.com/company/tian-yu-international-company-limited,developer,dev-tian-yu-international,LinkedIn lead only,true
+ct-misty-fb,url,https://www.facebook.com/mistyspringwestland,property,prop-misty-springs,Project FB (403 fetch),false
+ct-skypeak-phone,phone,+254 11 633 5555,related_party,rp-skypeak-limited,SkyPeak,true
+ct-skypeak-email,email,sales@skypeak.co.ke,related_party,rp-skypeak-limited,SkyPeak,true
+ct-longines-phone,phone,+254 101 666 888,property,prop-longines-bay-kilimani,Sales gallery,true
+ct-longines-email,email,longinesbay888@gmail.com,property,prop-longines-bay-kilimani,Sales,true
+ct-longines-url,url,https://longinesbay.com/,property,prop-longines-bay-kilimani,Project site,false
+ct-berkeley-url,url,https://berkelyresidence.com/,property,prop-berkeley-homes,Marketing site,true
+ct-lesonia-phone,phone,+254 704 043 466,property,prop-lesonia-residences,Lesonia project sales,true
+ct-lesonia-email,email,info@lesoniaresidency.co.ke,property,prop-lesonia-residences,Lesonia,true
+ct-lesonia-url,url,https://lesoniaresidency.co.ke/,property,prop-lesonia-residences,Project site,false
+ct-westlands-phone,phone,+254 722 218 039,agent,agent-westlands-consult,Westlands Avenue Consult,true
+ct-westlands-email,email,info@westlands-consult.co.ke,agent,agent-westlands-consult,Westlands Avenue Consult,true
+ct-austine-phone,phone,+254 704 350 354,agent,agent-austine,Austine Realtors,true
+ct-plumeria-dev-postal,postal,P.O. Box 598-00217 Nairobi,developer,dev-riara-plumeria-development,NEMA postal,true
+ct-flamingo-phone,phone,+254 714 737 748,agent,agent-flamingo,Flamingo,true
+ct-urbancore-phone,phone,+254 743 701 113,agent,agent-urbancore,UrbanCore,true
+ct-urbancore-email,email,sales@urbancore.co.ke,agent,agent-urbancore,UrbanCore,true
+ct-gna-phone,phone,+254 712 406 060,agent,agent-gna,GNA,true
+ct-gna-email,email,support@gna.co.ke,agent,agent-gna,GNA,true
+ct-sirfrancis-phone,phone,+254 722 720 812,agent,agent-sir-francis,Sir Francis,true
+ct-sirfrancis-email,email,info@sirfrancismarketingltd.co.ke,agent,agent-sir-francis,Sir Francis,true
+ct-citiscape-phone,phone,+254 707 252 525,agent,agent-citiscape,Citiscape,true
+ct-citiscape-email,email,info@citiscapevaluers.com,agent,agent-citiscape,Citiscape,true
+ct-klin-phone,phone,+254 721 687 339,agent,agent-klin,Klin,true
+ct-klin-email,email,propertiesklin@gmail.com,agent,agent-klin,Klin,true
+ct-azipa-phone,phone,+254 742 880 335,agent,agent-azipa,Azipa,true
+ct-azipa-email,email,info@aziparealestate.co.ke,agent,agent-azipa,Azipa,true
+ct-alist-phone,phone,+254 769 117 788,agent,agent-a-list,A-list,true
+ct-alist-email,email,info@a-listrealestate.ke,agent,agent-a-list,A-list,true
+ct-golfscape-phone1,phone,+254 788 357 336,property,prop-golfscape-residences,Golfscape sales,true
+ct-golfscape-phone2,phone,+254 115 666 777,property,prop-golfscape-residences,Office Line,false
+ct-golfscape-phone3,phone,+254 714 668 888,property,prop-golfscape-residences,Office Line 2,false
+ct-golfscape-email,email,info@golfscape.co.ke,property,prop-golfscape-residences,Golfscape,true
+ct-golfscape-url,url,https://golfscape.co.ke/,property,prop-golfscape-residences,Project site,false
+ct-oaklane-phone,phone,+254 785 855 855,agent,agent-oaklane,Oaklane,true
+ct-oaklane-email,email,oaklanepropertieske@gmail.com,agent,agent-oaklane,Oaklane,true
+ct-oakgroup-email,email,oakgroup2010@gmail.com,related_party,rp-oak-group-residences,Oak Group sales,true
+ct-oakgroup-email2,email,info@oakgroup.co.ke,related_party,rp-oak-group-residences,Oak Group,false
+ct-oakgroup-phone-wally,phone,+254 110 378 960,related_party,rp-oak-group-residences,Wally,true
+ct-oakgroup-phone-mei,phone,+254 725 365 466,related_party,rp-oak-group-residences,Mei,false
+ct-oakgroup-phone-sue,phone,+254 796 362 145,related_party,rp-oak-group-residences,Sue,false
+ct-luna-oak-url,url,https://oakgroup.co.ke/properties/luna-oak-residency/,property,prop-luna-oak-residency,Oak Group project page,true
+ct-mingland-postal,postal,P.O. Box 25050-00603 Nairobi,developer,dev-mingland-company,NEMA postal,true
+ct-rose-phone,phone,+254 700 051 765,agent,agent-rose-homes,Rose Homes,true
+ct-rose-email,email,laizzwamboi@gmail.com,agent,agent-rose-homes,Rose Homes,true
+ct-nanchang-phone1,phone,+254 735 939 999,developer,dev-nanchang-investment,albagarden.ke indexed (live 500),true
+ct-nanchang-phone2,phone,+254 799 000 222,developer,dev-nanchang-investment,albagarden.ke indexed,false
+ct-musilli-phone,phone,+254 729 678 773,agent,agent-musilli,Musilli,true
+ct-kings-phone,phone,+254 700 090 060,developer,dev-kings-developers-ltd,Kings Developers sales,true
+ct-kings-email-sales,email,sales@kingsdevelopers.com,developer,dev-kings-developers-ltd,Kings sales,true
+ct-kings-email-info,email,info@kingsdevelopers.com,developer,dev-kings-developers-ltd,Kings info,false
+ct-kings-url,url,https://kingsdevelopers.com/,developer,dev-kings-developers-ltd,Kings site,false
+ct-kings-summit-url,url,https://kingsdevelopers.com/project/kings-summit_49/,property,prop-kings-summit-nakuru,Summit project,true
+ct-royal-phone,phone,+254 702 858 609,group_company,grp-royal-group-of-companies,Royal Group Kenya,true
+ct-royal-email,email,info@royalgroupkenya.com,group_company,grp-royal-group-of-companies,Royal Group,true
+ct-jumuika-note,url,https://jumuika.co.ke/,agent,agent-jumuika,Jumuika portal,false
+ct-hass-phone,phone,+254 709 479 000,developer,dev-hass-consult-limited,HassConsult,true
+ct-hass-email,email,hello@hassconsult.com,developer,dev-hass-consult-limited,HassConsult,true
+ct-hass-office,office,ABC Place Waiyaki Way; P.O. Box 14090-00800 Nairobi,developer,dev-hass-consult-limited,HassConsult HQ,false
+ct-nouveau-url,url,https://www.hassconsult.com/nouveau,property,prop-nouveau,Nouveau microsite,true
+ct-sensei-url,url,https://www.hassconsult.com/sensei,property,prop-sensei-nyali,Sensei microsite,true
+ct-sensei-form,url,https://www.hassconsult.com/sensei-contact-form,property,prop-sensei-nyali,Sensei contact form,false
+ct-altra-phone,phone,+39 351 064 2728,agent,agent-altra,Altra Rendita,true
+ct-altra-email,email,contact@altrarenditaimmobiliare.it,agent,agent-altra,Altra,true
+ct-ksq-eld-url,url,https://kingsdevelopers.com/project/kings-square-apartments-phase-2_54,property,prop-kings-square-eldoret-ph2,Phase 2 project (URL may use en-dash),true
+ct-capricorn-url,url,https://capricorn.co.ke/,property,prop-capricorn-kilimani,Microsite (500 this pass),true
+ct-mascott-phone,phone,+254 740 888 080,agent,agent-mascott,Mascott,true
+ct-vaal-phone,phone,+254 725 111 444,developer,dev-vaal-real-estate,VAAL sales,true
+ct-vaal-email,email,info@vaal.co.ke,developer,dev-vaal-real-estate,VAAL,true
+ct-vaal-office,office,Keystone Park 95 Riverside Drive; P.O. Box 20227-00100 Nairobi,developer,dev-vaal-real-estate,VAAL office,false
+ct-canto-url,url,https://vaal.co.ke/canto/,property,prop-canto,VAAL canto hub,true
+ct-ankori-url,url,https://www.hassconsult.com/ankori,property,prop-ankori,Ankori microsite,true
+ct-brook-url,url,https://brooksideoak.co.ke/,property,prop-brookside-oak,Microsite,true
+ct-brook-phone1,phone,+254 729 099 699,developer,dev-van-tung-company,Project sales,true
+ct-brook-phone2,phone,+254 715 767 757,developer,dev-van-tung-company,Oak Developer header,false
+ct-brook-email,email,vantungcompanyltd@gmail.com,developer,dev-van-tung-company,Project sales,true
+ct-brook-addr,office,Muguga Green Westlands (Next to Safaricom HQ 3),developer,dev-van-tung-company,Showroom / site,false
+ct-kai-url,url,https://www.hassconsult.com/kai,property,prop-kai-diani,Hass exclusive-agent microsite,true
+ct-kai-brochure,url,https://www.innovaproperties.co.ke/wp-content/uploads/2025/06/KAI-Brochure-E-Brochure.pdf,property,prop-kai-diani,Ayce-credited brochure (Innova host),false
+ct-kai-hass-sales,phone,+254 709 479 479,related_party,rp-hassconsult-kai,HassConsult Sales brochure,true
+ct-innova-url,url,https://www.innovaproperties.co.ke/,related_party,rp-innova-properties,Innova home,true
+ct-108-url,url,https://www.108residences.com/,property,prop-108-residences-diani,Official microsite,true
+ct-108-daiga-phone1,phone,+254 740 108 108,related_party,rp-daiga-properties,Daiga / project sales,true
+ct-108-daiga-phone2,phone,+254 793 108 108,related_party,rp-daiga-properties,Daiga / project sales,false
+ct-108-daiga-email,email,sales@daigaproperties.com,related_party,rp-daiga-properties,Daiga sales,true
+ct-108-dunhill-phone1,phone,+254 786 386 445,related_party,rp-dunhill-consulting,Dunhill official footer,true
+ct-108-dunhill-phone2,phone,+254 720 911 136,related_party,rp-dunhill-consulting,Dunhill official footer,false
+ct-108-dunhill-email,email,info@dunhillconsulting.com,related_party,rp-dunhill-consulting,Dunhill,true
+ct-elegant-phone,phone,+254 700 004 449,developer,dev-elegant-properties,Elegant Properties official About/site,true
+ct-elegant-phone-2,phone,+254 731 286 286,developer,dev-elegant-properties,Elegant 48 Treehouse brochure Tel,false
+ct-elegant-email,email,info@elegantproperties.co.ke,developer,dev-elegant-properties,Elegant Properties official,true
+ct-elegant-url,url,https://www.elegantproperties.co.ke/,developer,dev-elegant-properties,Corporate / portfolio site,false
+ct-fv-url,url,https://www.elegantproperties.co.ke/Forestview-Residences,property,prop-forestview-residences,Elegant Forestview hub,true
+ct-dh-url,url,https://www.elegantproperties.co.ke/donyo-hill,property,prop-donyo-hill-residences,Elegant Donyo Hill hub,true
+ct-48th-url,url,https://www.elegantproperties.co.ke/48-treehouse,property,prop-48-treehouse,Elegant 48 Treehouse hub,true
+ct-sp2-url,url,https://www.elegantproperties.co.ke/Sunpark-Residence-II,property,prop-sunpark-residence-ii,Elegant Sunpark II hub,true
+ct-jafu-url,url,https://jafugroupkenya.com/,developer,dev-jafu-real-estate-group,Jafu Group Kenya official (no phone recovered),true
+ct-cit-hauzisha,url,https://hauzisha.co.ke/developments/citrine-heights/,property,prop-citrine-heights,Hauzisha portal card (phone ≠ Jafu),false
+ct-aur-hauzisha,url,https://hauzisha.co.ke/developments/auris-residence/,property,prop-auris-residence,Hauzisha portal card (phone ≠ Jafu),false
+ct-sm-url,url,https://jafugroupkenya.com/,property,prop-serene-manor,Official featured Serene Manor hub,true
+ct-sm-hauzisha,url,https://hauzisha.co.ke/developments/serene-manor/,property,prop-serene-manor,Hauzisha portal card (phone ≠ Jafu),false
+ct-glbc-phone-798,phone,+254 798 556 666,developer,dev-glbc-group,GLBC Libra project phone,true
+ct-glbc-phone-705,phone,+254 705 818 181,developer,dev-glbc-group,GLBC head-office pattern / Only You microsite shared,false
+ct-glbc-phone-712,phone,+254 712 787 744,developer,dev-glbc-group,GLBC secondary,false
+ct-glbc-email-com,email,info@glbcgroup.com,developer,dev-glbc-group,GLBC,true
+ct-glbc-email-ke,email,info@glbcgroup.co.ke,developer,dev-glbc-group,GLBC .co.ke,false
+ct-glbc-url,url,https://www.glbcgroup.co.ke/,developer,dev-glbc-group,Corporate / portfolio,false
+ct-libra-url,url,https://www.glbcgroup.co.ke/portfolio/libra-residences,property,prop-libra-residences,GLBC Libra hub,true
+ct-libra-hauzisha,url,https://hauzisha.co.ke/developments/libra-residences/,property,prop-libra-residences,Hauzisha portal card (phone ≠ GLBC),false
+ct-onlyyou-phone,phone,+254 705 818 181,property,prop-only-you,onlyounairobi.com contact — shared GLBC pattern NOT primary proof,true
+ct-onlyyou-email,email,Info@onlyounairobi.com,property,prop-only-you,Only You microsite,true
+ct-onlyyou-url,url,https://onlyounairobi.com/,property,prop-only-you,Brand microsite — not primary_developer proof,true
+ct-onlyyou-hauzisha,url,https://hauzisha.co.ke/developments/only-you/,property,prop-only-you,Hauzisha portal (phone ≠ developer),false
+ct-wonder-gaia-phone,phone,+254 116 100 600,developer,dev-wonder-properties,Wonder Gaia project phone,true
+ct-wonder-gaia-email,email,wonderproperties3@gmail.com,developer,dev-wonder-properties,Wonder Gaia contact,true
+ct-wonder-dip-phone,phone,+254 116 126 666,developer,dev-wonder-properties,Wonder Diplomat microsite phone,false
+ct-wonder-dip-phone2,phone,+254 702 818 888,developer,dev-wonder-properties,Wonder Diplomat secondary,false
+ct-wonder-dip-phone3,phone,+254 792 696 666,developer,dev-wonder-properties,Wonder Diplomat secondary,false
+ct-wonder-dip-phone4,phone,+254 701 818 888,developer,dev-wonder-properties,Wonder Diplomat secondary,false
+ct-wonder-email,email,info@wonderpropertykenya.com,developer,dev-wonder-properties,Wonder corporate,false
+ct-wonder-url,url,https://www.wonderpropertykenya.com/,developer,dev-wonder-properties,Wonder corporate,false
+ct-gaia-url,url,https://www.wonderpropertykenya.com/projects/gaia,property,prop-gaia-brookside,Wonder Gaia hub,true
+ct-gaia-hauzisha,url,https://hauzisha.co.ke/developments/gaia-brookside/,property,prop-gaia-brookside,Hauzisha portal (phone ≠ Wonder),false
+ct-dip-url,url,https://diplomat.wonderpropertykenya.com/,property,prop-diplomat-residencies,Diplomat microsite (502 this pass),true
+ct-dip-hauzisha,url,https://hauzisha.co.ke/developments/diplomat-residencies/,property,prop-diplomat-residencies,Hauzisha portal (phone ≠ Wonder),false
+ct-whitehorse-phone,phone,+254 704 191919,developer,dev-whitehorse-real-estate,Whitehorse / AAD sales,true
+ct-whitehorse-email,email,info@whitehorserealestate.ke,developer,dev-whitehorse-real-estate,Whitehorse,true
+ct-whitehorse-sales,email,sales@whitehorserealestate.ke,developer,dev-whitehorse-real-estate,Whitehorse sales,false
+ct-aad-legacy-email,email,sales@aad.ke,related_party,rp-aad-real-estate-prior,AAD legacy sales email,false
+ct-whitehorse-url,url,https://whitehorserealestate.ke/,developer,dev-whitehorse-real-estate,Whitehorse corporate,false
+ct-aad-url,url,https://aad.ke/,related_party,rp-aad-real-estate-prior,AAD prior face site,false
+ct-aya-hauzisha,url,https://hauzisha.co.ke/developments/aya-luxury-residence/,property,prop-aya-luxury-residence,Hauzisha portal (phone ≠ Whitehorse),false
+ct-rhapta-hauzisha,url,https://hauzisha.co.ke/developments/rhapta-one-residency/,property,prop-rhapta-one,Hauzisha portal (phone ≠ Oasis),false
+ct-alina-phone,phone,+254 116 100 600,developer,dev-wonder-properties,Wonder Alina Valley–labelled phone,false
+ct-alina-url,url,https://www.wonderpropertykenya.com/,property,prop-alina-valley,Wonder hub,true
+ct-alina-hauzisha,url,https://hauzisha.co.ke/developments/alina-valley/,property,prop-alina-valley,Hauzisha portal (phone ≠ Wonder),false
+ct-montbleu-phone,phone,+254 707 599 999,property,prop-montbleu,montbleu.co.ke official — not Hauzisha,true
+ct-montbleu-email,email,sales@montbleu.ke,property,prop-montbleu,Official sales,true
+ct-montbleu-email2,email,sales@montbleu.co.ke,property,prop-montbleu,Official sales alt,false
+ct-montbleu-url,url,https://www.montbleu.co.ke/,property,prop-montbleu,Official project site,true
+ct-montbleu-hauzisha,url,https://hauzisha.co.ke/developments/montbleu-westlands/,property,prop-montbleu,Hauzisha portal (phone ≠ project),false
+ct-mb2-hauzisha,url,https://hauzisha.co.ke/developments/marina-bay-2/,property,prop-marina-bay-2,Hauzisha portal (phone ≠ M-Group),false
+ct-atreus-hauzisha,url,https://hauzisha.co.ke/developments/atreus-brookside/,property,prop-atreus-brookside,Hauzisha portal (phone ≠ Atreus),false
+ct-gp-url,url,https://aad.ke/grand-premier/,property,prop-grand-premier,AAD/Whitehorse Grand Premier bridge,true
+ct-gp-hauzisha,url,https://hauzisha.co.ke/developments/grand-premier/,property,prop-grand-premier,Hauzisha Coming soon (phone ≠ Whitehorse),false
+ct-rw-url,url,https://whitehorserealestate.ke/projects/,property,prop-rosewood-park,Whitehorse projects hub,true
+ct-rw-hauzisha,url,https://hauzisha.co.ke/developments/rosewood-park/,property,prop-rosewood-park,Hauzisha Coming soon (phone ≠ Whitehorse),false

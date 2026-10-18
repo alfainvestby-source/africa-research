@@ -1,0 +1,8 @@
+id,name,poi_type,lat,lng,geo_city_id,source_url,provider,confidence,accessed_at,notes
+poi-sarit-centre,Sarit Centre,mall,-1.2614,36.8045,geo-nairobi,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Westlands landmark — sample Plus proximity
+poi-yaya-centre,Yaya Centre,mall,-1.2926,36.7880,geo-nairobi,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Kilimani / Hurlingham edge
+poi-westgate,Westgate Shopping Mall,mall,-1.2567,36.8056,geo-nairobi,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Westlands
+poi-aga-khan-nairobi,Aga Khan University Hospital,hospital,-1.2639,36.8156,geo-nairobi,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Parklands / Westlands corridor
+poi-nairobi-hospital,The Nairobi Hospital,hospital,-1.2956,36.8047,geo-nairobi,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Upper Hill / CBD edge
+poi-royal-nairobi-gc,Royal Nairobi Golf Club,leisure,-1.3010,36.7995,geo-nairobi,https://golfscape.co.ke/,project_adjacent,3,2026-10-16,Golfscape marketing adjacency
+poi-nyali-cinemax,Nyali Cinemax,mall,-4.0430,39.6860,geo-mombasa,https://nominatim.openstreetmap.org/,nominatim_approx,2,2026-10-16,Nyali retail node near Sensei corridor

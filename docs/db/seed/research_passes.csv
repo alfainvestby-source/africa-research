@@ -1,0 +1,52 @@
+id,property_id,cycle,sources_evaluated,sources_retained,verified_at,notes
+rp-pandora-2026-10-15,prop-pandora-residences,1,12,10,2026-10-15,Developer site + brochure always kept; Africa Nomad 500 skipped
+rp-pandora-2026-10-18-url,prop-pandora-residences,1,2,2,2026-10-18,"User-provided official URL https://pandora.co.ke/ live; Maps CID 12900601372674958277 browser-resolved → −1.260829, 36.780513 (place Pandora / Muthangari Dr)"
+rp-astra-2026-10-15,prop-astra-bay-residence,1,11,9,2026-10-15,Vision 500 + Foresee thin skipped
+rp-porini-2026-10-15,prop-porini-point,2,13,10,2026-10-15,FAQ 404 not retained; search-index snippets as needs_verification only
+rp-galaxy-2026-10-15,prop-galaxy-one,2,13,10,2026-10-15,Knight Frank JS shell not retained as primary; wrong domain galaxy.one skipped
+rp-gemini2-2026-10-16,prop-gemini-residency-phase-2,half-batch,14,10,2026-10-16,Staroot always kept; LinkedIn excavation used for progress; wrong domain gemini-residency.com skipped
+rp-diamond-2026-10-16,prop-diamond-bay-residences,half-batch,16,12,2026-10-16,Henbon stack always kept; official price from conflict NDI
+rp-misty-2026-10-16,prop-misty-springs,half-batch,14,10,2026-10-16,No microsite; LinkedIn Tian Yu + FB as closest official channels
+rp-golden-2026-10-16,prop-golden-mansion,half-batch,14,11,2026-10-16,NEMA EIA always kept; no Summit Vista microsite
+rp-longines-2026-10-16,prop-longines-bay-kilimani,half-batch,14,10,2026-10-16,longinesbay.com + NEMA 601/3 blocks NDI vs marketing
+rp-berkeley-2026-10-16,prop-berkeley-homes,half-batch,14,10,2026-10-16,ESIA 361 vs agents 360 NDI; Procmura CSV trap
+rp-lesonia-2026-10-16,prop-lesonia-residences,wave-c,14,10,2026-10-16,Trading brand only; official price NDI table vs prose/mortgage/blog; deposit 20% canonical
+rp-plumeria-2026-10-16,prop-plumeria-residency,wave-c,14,10,2026-10-16,NEMA SPV; Own It agent; Golden Apple wrong entity; 332/4/17; 30% agent must-have
+rp-polaris-2026-10-16,prop-polaris-residency,wave-c,14,10,2026-10-16,Developer unknown; Own It agent; status off_plan vs ready heavily conflicted; 30% agent must-have
+rp-golfscape-2026-10-16,prop-golfscape-residences,wave-c,15,11,2026-10-16,WH Harmony (5); hero 4.65M vs list 5.6M NDI; completion/progress widgets NDI; Highpoint marketing_partner
+rp-luna-oak-2026-10-16,prop-luna-oak-residency,wave-c,14,10,2026-10-16,Mingland NEMA (5); Oak Group marketing_partner; from 14.8M vs 11.9M NDI; payment must-have NOT met
+rp-alba-2026-10-16,prop-alba-apartments,wave-c,14,10,2026-10-16,Nanchang Investment conf 3 NV; Own It agent; status heavily conflicted; 20% agent must-have; albagarden.ke 500
+rp-kings-summit-2026-10-16,prop-kings-summit-nakuru,discovery,13,10,2026-10-16,First Nakuru; KDL+Royal Group; price 9M vs 8M NDI
+rp-nouveau-2026-10-16,prop-nouveau,discovery,13,9,2026-10-16,HassConsult conf 4; payment tenor 28/30/21 NDI; Q4 2028 canonical
+rp-sensei-2026-10-16,prop-sensei-nyali,discovery,12,8,2026-10-16,First coast/Mombasa; 30-mo payment canonical; ≠ Benford Greenwood
+rp-ksq-eld-2026-10-16,prop-kings-square-eldoret-ph2,discovery,13,10,2026-10-16,First Eldoret; Phase 2 only; payment must-have NOT met
+rp-capricorn-2026-10-16,prop-capricorn-kilimani,discovery,14,10,2026-10-16,Staroot+Mulika dual co_developer; Proxima marketing_partner; deposit 20% FAQ canonical
+rp-canto-2026-10-16,prop-canto,discovery,14,10,2026-10-16,VAAL (5); USD 49k/68k developer; payment deposit must-have NOT met; Apr 2028 canonical
+rp-ankori-2026-10-16,prop-ankori,discovery,12,7,2026-10-16,HassConsult conf 4; 30-mo payment CANONICAL; deposit % NOT met; ≠ Galaxy One
+rp-brook-2026-10-16,prop-brookside-oak,discovery,14,10,2026-10-16,Van Tung conf 3; Oak Group marketing_partner; microsite 9.9M vs Oak 8.2M NDI; ≠ Luna Oak
+rp-kai-2026-10-16,prop-kai-diani,discovery,12,10,2026-10-16,FIRST KWA; Ayce (5); Hass exclusive agent RelatedParty; unit taxonomy + completion NDI
+rp-108-2026-10-16,prop-108-residences-diani,discovery,14,10,2026-10-16,FIRST DIA; Omicron conf 4; Daiga+Dunhill marketing_partners; payment must-have NOT met
+rp-fv-2026-10-16,prop-forestview-residences,discovery,12,9,2026-10-16,Elegant wave; from 29.5M; payment short of ≥4; inventory_class=building; ≠ Casa Karura
+rp-dh-2026-10-16,prop-donyo-hill-residences,discovery,12,8,2026-10-16,Elegant wave; from 27.9M; payment NOT met; ≠ Ridge/Manor; inventory_class=building
+rp-48th-2026-10-16,prop-48-treehouse,discovery,11,7,2026-10-16,Elegant wave; 48 units 4BR; 77.9 vs 73M NDI; ≠ Oakland; inventory_class=building
+rp-sp2-2026-10-16,prop-sunpark-residence-ii,discovery,14,9,2026-10-16,Elegant wave Phase II ONLY; skip Ready I / Oak & Ivy; from 8M; inventory_class=building
+rp-cit-2026-10-17,prop-citrine-heights,discovery,12,7,2026-10-17,Jafu Wave A; inventory_class=off_plan; from ~7.3M agent; payment NOT met; no official Citrine page
+rp-aur-2026-10-17,prop-auris-residence,discovery,11,8,2026-10-17,Jafu Wave A; inventory_class=building; completion Dec2027 vs 2028 NDI; payment conflict NOT met
+rp-sm-2026-10-17,prop-serene-manor,discovery,13,8,2026-10-17,Jafu Wave A; inventory_class=building; official featured; 20% agent must-have met conf 3
+rp-libra-2026-10-17,prop-libra-residences,discovery,14,10,2026-10-17,Hauzisha Wave B; GLBC (5); inventory_class=building; payment NOT met; NEVER 0730; ≠ Gemini Hub / Only You / Roseville
+rp-oy-2026-10-17,prop-only-you,discovery,14,10,2026-10-17,Hauzisha Wave B; primary_developer NULL; Onlyou Investments EIA RelatedParty; GLBC marketing_partner only; 20% agent must-have; inventory_class=building
+rp-gaia-2026-10-17,prop-gaia-brookside,discovery,13,9,2026-10-17,Hauzisha Wave B; Wonder (5); completion NDI; payment NOT met; inventory_class=building; NEVER 0730
+rp-dip-2026-10-17,prop-diplomat-residencies,discovery,14,10,2026-10-17,Hauzisha Wave B; Wonder shared Gaia; 20% agent must-have; microsite 502; inventory_class=building; NEVER 0730
+rp-aya-2026-10-17,prop-aya-luxury-residence,discovery,14,10,2026-10-17,Hauzisha Wave B; Whitehorse ex-AAD (5); Sandoral RelatedParty NDI never primary; 4yr/0% soft payment; inventory_class=building; NEVER 0730
+rp-rhapta-2026-10-17,prop-rhapta-one,discovery,13,9,2026-10-17,Slice C; Oasis conf2; inventory_class=building; payment NOT met; NEVER 0730
+rp-alina-2026-10-17,prop-alina-valley,discovery,12,8,2026-10-17,Slice C; Wonder REUSE; 20% must-have; completion NDI; ≠ Harbour; inventory_class=building
+rp-montbleu-2026-10-17,prop-montbleu,discovery,14,9,2026-10-17,Slice C; primary NULL NDI Muthithi vs M-Group; inventory_class=off_plan; NEVER 0730
+rp-marina2-2026-10-17,prop-marina-bay-2,discovery,14,9,2026-10-17,Slice C; M-Group; 10/10/75/5 must-have; ≠ Phase1 Ready; inventory_class=building
+rp-atreus-2026-10-17,prop-atreus-brookside,discovery,12,9,2026-10-17,Slice C; Atreus Ventures EIA; Sunmon/Lesto RP only; EIA GPS; inventory_class=off_plan
+rp-gp-2026-10-17,prop-grand-premier,discovery,12,8,2026-10-17,Slice C; Whitehorse; Coming soon→off_plan; Ready lean NDI steward; NEVER 0730
+rp-rw-2026-10-17,prop-rosewood-park,discovery,14,9,2026-10-17,Slice C; Whitehorse; Coming soon→off_plan; Ready lean + rentals NDI; NEVER 0730
+rp-lulu-2026-10-16,prop-237-lulu,discovery,12,8,2026-10-16,Block wave-1; Mi Vida; price NDI 4.4 vs typed; payment canonical
+rp-hp336-2026-10-16,prop-highpoint-336,discovery,12,7,2026-10-16,Microsite 500; progress NDI
+rp-jabali-2026-10-16,prop-jabali-towers,discovery,11,7,2026-10-16,Size schedules NDI; payment Dec 2028 canonical
+rp-balkis-2026-10-16,prop-balkis-residences,discovery,14,8,2026-10-16,Sunmon conf2; sizes NDI
+rp-hephe-2026-10-16,prop-hephe-palace,discovery,13,9,2026-10-16,Sequoia; 644 EIA; agent prices

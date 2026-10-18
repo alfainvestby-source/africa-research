@@ -1,0 +1,108 @@
+feature_id,synonym
+swimming_pool,pool
+swimming_pool,Swimming Pool
+swimming_pool,heated pool
+swimming_pool,rooftop pool
+swimming_pool,infinity pool
+swimming_pool,courtyard pool
+swimming_pool,heated rooftop infinity pool
+swimming_pool,full-length pool
+gym,Gym
+gym,fitness
+gym,wellness gym
+gym,fully fitted gym
+cctv,CCTV
+cctv,24/7 CCTV
+cctv,24hr CCTV
+cctv,CCTV surveillance
+parking,Parking
+parking,ample parking
+parking,dedicated parking
+parking,visitor parking
+backup_generator,Backup Generator
+backup_generator,generator
+borehole,Borehole
+borehole,water borehole
+borehole,onsite borehole
+high_speed_lifts,Elevator
+high_speed_lifts,elevator
+high_speed_lifts,elevators
+high_speed_lifts,high-speed elevators
+high_speed_lifts,lifts
+wifi,WiFi
+wifi,Wi-Fi
+wifi,wifi
+wifi,wireless internet
+internet_cable,WiFi
+internet_cable,internet/cable
+furnished,Furnished
+furnished,fully furnished
+furnished,semi-furnished
+fitted_kitchen,Kitchen
+gated_security,24/7 Security
+gated_security,Security
+gated_security,Secure
+balcony,Balcony
+kids_play,children's play
+kids_play,kids play
+kids_play,kids' playground
+kids_play,children's play zone
+kids_play,indoor children's playroom
+barbecue,BBQ
+barbecue,barbecue area
+barbecue,rooftop BBQ
+clubhouse,club house
+cinema,indoor cinema
+cinema,outdoor cinema
+cinema,private theater
+cinema,home theater
+coworking,co-working
+coworking,co working
+coworking,serviced co-working
+sauna,male/female saunas
+spa,Serenity Spa
+yoga,yoga room
+yoga,yoga & wellness deck
+concierge,dedicated concierge
+reception,hotel-style lobby
+lounge,resident lounge
+lounge,sky lounge
+lounge,coffee lounge
+lounge,piano lounge
+restaurant_cafe,restaurant
+restaurant_cafe,café
+restaurant_cafe,cafés
+gated_security,gated access
+gated_security,24/7 security
+gated_security,manned entrance security
+indoor_gaming,games room
+indoor_gaming,game room
+indoor_gaming,pool room
+green_area,landscaped garden
+green_area,landscaped courtyards
+green_area,zen garden
+green_area,courtyard garden
+green_area,rooftop art garden
+convenience_store,mini mart
+convenience_store,supermarket & shop
+padel,sky padel
+padel,padel court
+padel,sky-high padel court
+mini_golf,sky golf
+mini_golf,indoor mini-golf
+mini_golf,mini golf
+balcony,private balcony
+balcony,terraces/balconies
+balcony,terrace
+dsq,DSQ
+dsq,staff quarters
+dsq,maid's room
+fitted_kitchen,hob/hood/oven
+fitted_kitchen,fully equipped kitchen
+smart_home,facial recognition
+smart_home,face-scan access
+retail_boulevard,retail boulevard
+retail_boulevard,World Food Avenue
+retail_boulevard,Gemini Square
+wildlife_sanctuary,Tatu Wildlife Sanctuary
+wildlife_sanctuary,sanctuary views

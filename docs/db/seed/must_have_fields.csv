@@ -1,0 +1,24 @@
+field_key,is_must_have,is_proposed,is_portal_candidate,is_portal_field,exposure_public,exposure_admin,exposure_plus,consensus_num,consensus_den,coverage_notes,basis_notes,payment_special
+canonical_name_aliases,true,false,true,false,true,true,true,4,4,High coverage,Official everywhere,false
+status_claim_set,true,false,true,false,true,true,true,4,4,High coverage; labels conflict often,CSV + portals,false
+geography_neighbourhood_street,true,false,true,false,true,true,true,4,4,High coverage,Official,false
+primary_developer,true,false,true,false,true,true,true,4,4,High coverage,Official,false
+related_brand_or_partner,true,false,false,false,false,true,true,2,4,Sparse — capture when signaled,Astra marketing_partner; Porini dual co_developer,false
+unit_types_claim_set,true,false,true,false,true,true,true,4,4,High coverage,Official+agent,false
+size_by_type_measure_tag,true,false,true,false,true,true,true,4,4,High coverage,Flyer/brochure,false
+amenities_core_sourced,true,false,true,false,true,true,true,4,4,High coverage,Developer core only,false
+completion_estimate,true,false,true,false,true,true,true,4,4,High coverage,Multi-source,false
+price_claims_array,true,false,true,false,false,true,true,4,4,Always multi; no public price_from when official conflict (NDI),Multi options mandatory,false
+payment_plan,true,false,true,false,true,true,true,4,4,When threshold met,>=4 agents OR any developer; agent-only conf<=3,true
+sources_retained_ge_5,true,false,false,false,false,true,false,4,4,Process meta not portal,Process lock,false
+agents_contacts_entities,true,false,false,false,false,true,true,4,4,Pro layer,CSV contact != developer,false
+unit_count,false,true,true,false,false,true,true,2,2,Claim set; Galaxy NDI official conflict,Propose research must-have as claim set,false
+block_count,false,true,true,false,false,true,true,1,2,Porini only so far,Porini 24,false
+built_up_area_sqm,false,true,false,false,false,true,true,1,2,Low coverage,Porini 58000,false
+storeys_claim_set,false,true,true,false,false,true,true,1,2,Galaxy NDI official conflict,Claim set only,false
+construction_progress,false,true,true,false,false,true,true,1,2,1/4 listings have tracker — NOT portal must-have until coverage proven,Candidate; capture when developer publishes; NDI if pages disagree,false
+named_contractor_stakeholder,false,true,false,false,false,true,true,1,2,Sparse,Galaxy CRJE,false
+cash_vs_instalment_prices,false,true,true,false,false,true,true,2,2,Growing,Porini + Galaxy dual prices,false
+developer_lat_lng,false,true,true,false,false,true,true,1,2,Rare win,Galaxy JSON-LD,false
+master_planned_community_geo,false,true,true,false,false,true,true,1,2,Porini/Tatu pattern,Geography extension,false
+reservation_fee_deposit_pct,false,true,false,false,false,true,true,0,2,FAQ 404 / sparse,Nice-to-have until live FAQ/LOO,false

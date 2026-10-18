@@ -1,0 +1,2 @@
+# Skill: Entity resolution / party graph
+Dedupe developers, agents, contacts, aliases (Lionston/Lionstone, Procmura traps, SkyPeak vs Summit Vista). **Also:** property ↔ lead duplicate/relist detection (fuzzy name/alias, place, geo, developer; Block.ke low-trust). Output: `docs/db/entity-resolution.md` + `docs/db/duplicate-candidates.md` + optional `seed/duplicate_candidates.csv`. **Never auto-merge** properties — flag `same_property` / `related_phase` / `needs_human` / `false_positive` for human confirm.

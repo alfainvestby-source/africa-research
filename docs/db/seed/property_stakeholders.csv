@@ -1,0 +1,21 @@
+property_id,stakeholder_id,confidence,needs_verification,evidence_notes
+prop-pandora-residences,stk-karim-cg,5,false,pandora.co.ke The team Behind; analytics.karimexclusives.com
+prop-galaxy-one,stk-crje,4,false,lionston.co/en/construction — CRJE delivering 3 floors per month
+prop-porini-point,stk-makrem-ben-khemis,5,true,Named on launch press photo caption; role as project designer not separately proven — needs_verification on design attribution
+prop-porini-point,stk-preston-mendenhall,5,false,Launch press quote — executive
+prop-porini-point,stk-erskine-kiliru,5,false,Launch press caption
+prop-porini-point,stk-linda-nyaseda,5,false,Launch press caption
+prop-gemini-residency-phase-2,stk-serenity-spa,4,false,Staroot amenity partnership; BD Phase 2 hub
+prop-gemini-residency-phase-2,stk-karim-cg,3,false,Named in BD Phase 2 launch photo caption
+prop-golden-mansion,stk-john-mburu-advocates,3,false,LinkedIn counsel post
+prop-longines-bay-kilimani,stk-studio-riccardi,4,false,longinesbay.com/about
+prop-longines-bay-kilimani,stk-tessera-interiors,4,false,longinesbay.com/about
+prop-plumeria-residency,stk-ezekiel-ndunda,5,false,NEMA document authentication
+prop-luna-oak-residency,stk-lakers-consultancy,4,false,NEMA ESIA Prepared By
+prop-capricorn-kilimani,stk-karim-cg,5,false,PDF DEVELOPMENT DESIGNER
+prop-kai-diani,stk-omt-architects,5,false,OMT project page + IADA
+prop-kai-diani,stk-metrix-engineers,5,false,OMT/IADA credits
+prop-kai-diani,stk-lehem-interiors,5,false,OMT/IADA
+prop-kai-diani,stk-karim-cg,4,false,OMT/IADA renderings reuse
+prop-108-residences-diani,stk-imperium-pm,3,true,Enin only — NV
+prop-108-residences-diani,stk-space-art,3,true,Enin only — NV

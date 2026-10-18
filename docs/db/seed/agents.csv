@@ -1,0 +1,83 @@
+id,name,website,agent_type
+agent-block,Block Real Estate,https://block.ke/,agency_portal
+agent-hauzisha,Hauzisha,https://hauzisha.co.ke/,portal
+agent-nre,NRE Real Estate,https://nairobirealestate.co.ke/,agency
+agent-ladva,Ladva Realtors,https://ladvarealtors.com/,agency
+agent-ravi,Ravi Homes,https://ravihomes.co.ke/,agency
+agent-sydia,Sydia Realty,https://sydiarealty.com/,agency
+agent-property-box,Property Box,https://propertybox.co.ke/,portal
+agent-vorsagroup,VorsaGroup Real Estate,https://vorsagroup.co.ke/,agency
+agent-craiova,Craiova Realtors,https://craiovarealtors.com/,agency
+agent-a-list,A-list Real Estate,https://a-listrealestate.ke/,agency
+agent-masterways,Masterways Real Estate,https://masterways.co.ke/,agency
+agent-coral,Coral Property International Ltd,https://www.buyrentkenya.com/,agency
+agent-knight-frank,Knight Frank,https://www.knightfrank.com/,agency_network
+agent-cpk,CPK Real Estate (Commercial Property Kenya),https://commercialpropertykenya.com/,agency
+agent-kedwell,KeDwell / Ace realtors Ltd,https://www.kedwell.co.ke/,portal
+agent-realtors,The Realtors Platform,https://realtors.co.ke/,agency
+agent-malluug,Malluug Realty Kenya,https://malluugrealtykenya.com/,agency
+agent-space-ke,Space Kenya,https://space.ke/,portal
+agent-own-it,Own It Kenya,https://ownitkenya.com/,agency
+agent-ogre,Oxford Gate Real Estate,https://www.ogre.co.ke/,agency
+agent-klin,Klin Properties,https://klinproperties.co.ke/,agency
+agent-sir-francis,Sir Francis Homes,https://sirfrancismarketingltd.co.ke/,agency
+agent-azipa,Azipa Real Estate,https://aziparealestate.co.ke/,agency
+agent-gna,GNA Real Estate,https://gna.co.ke/,agency
+agent-flamingo,Flamingo Real Estate,https://www.flamingorealestate.co.ke/,agency
+agent-thamana,Thamana Marketing Agency,https://thamanamarketingagency.co.ke/,agency
+agent-musilli,Musilli Homes,https://musillihomes.co.ke/,agency
+agent-myspace,Myspace Properties,https://www.myspace.co.ke/,agency
+agent-nefroon,Nefroon Homes,https://nefroonhomes.com/,agency
+agent-oaklane,Oaklane Properties,https://oaklaneproperties.co.ke/,agency
+agent-austine,Austine Realtors,https://austinerealtors.co.ke/,agency
+agent-westlands-consult,Westlands Avenue Consult,https://westlands-consult.co.ke/,agency
+agent-urbancore,UrbanCore,https://urbancore.co.ke/,agency
+agent-citiscape,Citiscape Valuers,https://citiscapevaluers.com/,agency
+agent-rose-homes,Rose Homes,https://rosehomes.co.ke/,agency
+agent-capital-click,Capital Click Properties,,agency
+agent-kcb-properties,KCB Properties Hub,https://ke.kcbgroup.com/properties/,bank_portal
+agent-jumuika,Jumuika / Rashford Properties,https://jumuika.co.ke/,portal
+agent-african-vibes,African Vibes,https://africanvibes.com/,portal
+agent-jimarket,Jimarket,https://jimarket.co.ke/,portal
+agent-mascott,Mascott Properties,https://mascottproperties.co.ke/,agency
+agent-altra,Altra Rendita Immobiliare,https://altrarenditaimmobiliare.it/,agency
+agent-african-land,african.land,https://african.land/,aggregator
+agent-2talk,2TalkKenya,https://2talkkenya.com/,agency
+agent-vaal,VAAL Real Estate (as agency listing face),https://vaal.co.ke/,agency
+agent-tmk,TMK-Invest,https://tmk-invest.com/,agency
+agent-homesinkenya,Homes In Kenya,https://homesinkenya.co.ke/,agency
+agent-mkaazi,Mkaazi Real Estate,https://mkaazirealestate.com/,agency
+agent-enin,Enin / Enin Group,https://eningroup.com/,portal
+agent-dunhill,Dunhill Consulting Limited,https://www.dunhillconsulting.com/,agency
+agent-gerryville,Gerryville Properties,,agency
+agent-palmier,Palmier Properties,https://palmierproperties.co.ke/,agency
+agent-proxima,Proxima Real Estate,https://proxima.co.ke/,agency
+agent-hassconsult,HassConsult Real Estate,https://www.hassconsult.com/,agency
+agent-daiga,Daiga Properties,,agency
+agent-calpha,Calpha Homes,https://calphahomes.co.ke/,agency
+agent-realtor-kenya,Realtor Kenya,https://www.realtorkenya.com/,agency
+agent-complete-circle,Complete Circle Properties,https://completecircleproperties.com/,agency
+agent-golden-years,Golden Years Realty,https://www.goldenyearsrealty.co.ke/,agency
+agent-sic-prime,SIC Prime (Safaricom Investment Cooperative),https://www.sicprime.co.ke/,portal
+agent-ace,Ace Realtors,,agency
+agent-habari,Habari Homes,,agency
+agent-villawatch,VillaWatch,,agency
+agent-bellano,Bellano Group,,agency
+agent-geomara,Geomara Homes,,agency
+agent-almasi,Almasi Realty,,agency
+agent-erysler,Erysler Realty,,agency
+agent-a-luxe,A-Luxe Realty,,agency
+agent-finlay,Finlay Properties,,agency
+agent-kenya4u,Kenya4u,,agency
+agent-sicily,Sicily Realty,,agency
+agent-farman,Farman Properties,,agency
+agent-foresee,Foresee Properties,,agency
+agent-lumi,Lumi Properties,,agency
+agent-cig,CIG Properties,,agency
+agent-samambo,Samambo Properties,,agency
+agent-rayabbay,Rayabbay,,agency
+agent-kenyaproperty,Kenya Property,,agency
+agent-cj-luxe,CJ Luxe,,agency
+agent-milligan,Milligan Valuers,,agency
+agent-brilliant,Brilliant Elite Homes,,agency
+agent-pakfront,Pakfront,,agency

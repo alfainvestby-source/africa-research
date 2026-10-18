@@ -1,0 +1,291 @@
+property_id,agent_id,role_notes,evidence_url
+prop-pandora-residences,agent-block,CSV sales_contact; article + FAQ,https://block.ke/investment-intelligence/pandora-residences-on-muthangari-drive/30451/
+prop-pandora-residences,agent-hauzisha,Inventory summary,https://hauzisha.co.ke/developments/pandora/
+prop-pandora-residences,agent-nre,Listing + developer profile,https://nairobirealestate.co.ke/properties/pandora-residence
+prop-pandora-residences,agent-ladva,Sales page,https://ladvarealtors.com/a-one-pandora-residences-luxury-apartments-for-sale-in-westlands/
+prop-pandora-residences,agent-ravi,Price table + showroom,https://ravihomes.co.ke/developments/a-one-pandora/
+prop-pandora-residences,agent-sydia,Price table + showhouse,https://sydiarealty.com/estate_property/a1-pandora-redefining-luxury-living-in-nairobi/
+prop-pandora-residences,agent-property-box,Uses developer sales contacts; floors/tenure claims,https://propertybox.co.ke/developments/pandora-residences/
+prop-astra-bay-residence,agent-block,Listing + CSV sales_contact,https://block.ke/property/astra-bay-residence-modern-living-in-lower-kabete/
+prop-astra-bay-residence,agent-vorsagroup,Listing + price table,https://vorsagroup.co.ke/property/astra-bay-residence-studios-1-2-bedroom-apartments-in-lower-kabete/
+prop-astra-bay-residence,agent-craiova,Listing; UC + showhouses,https://craiovarealtors.com/property/astra-bay-residence-in-lower-kabete/
+prop-astra-bay-residence,agent-a-list,Listing; Q3 2027 outlier,https://a-listrealestate.ke/property/astra-bay-residence/
+prop-porini-point,agent-block,CSV sales_contact; price/payment article,https://block.ke/investment-intelligence/porini-point-wake-up-to-giraffes-nairobis-only-apartments-overlooking-a-wildlife-sanctuary/30487/
+prop-porini-point,agent-vorsagroup,Listing + low price outlier,https://vorsagroup.co.ke/property/porini-point-apartments-1-2-3-bedroom-in-tatu-city/
+prop-porini-point,agent-craiova,Listing; cash/plan; Dec 2026 phase,https://craiovarealtors.com/property/1-2-3-bedroom-apartments-at-tatu-city/
+prop-porini-point,agent-ladva,Article + from-prices,https://ladvarealtors.com/why-porini-point-tatu-city-apartments-are-becoming-a-smart-choice-for-modern-homebuyers-and-property-investors/
+prop-galaxy-one,agent-nre,CSV sales_contact; listing + payment UI,https://nairobirealestate.co.ke/properties/galaxy-one
+prop-galaxy-one,agent-ravi,Listing + development hub; 20% claim,https://ravihomes.co.ke/property/galaxy-one-apartments-westlands-rhapta-road/
+prop-galaxy-one,agent-vorsagroup,Price table; floor-plan PDFs,https://vorsagroup.co.ke/property/galaxy-one-1-2-and-3-bedrooms-apartments-in-westlands/
+prop-galaxy-one,agent-masterways,Typed unit price list; 20%,https://masterways.co.ke/properties/galaxy-one
+prop-galaxy-one,agent-hauzisha,Inventory card; Dec 2027 outlier,https://hauzisha.co.ke/developments/galaxy-one/
+prop-galaxy-one,agent-coral,BuyRentKenya listing; 20% deposit,https://www.buyrentkenya.com/listings/1-bedroom-apartment-for-sale-rhapta-road-3896467
+prop-galaxy-one,agent-knight-frank,Indexed dense copy; live HTML shell thin — corroboration only,https://www.knightfrank.com/properties/residential/for-sale/rhapta-road-westlands/hub2519857
+prop-gemini-residency-phase-2,agent-nre,CSV sales_contact; mixed-phase listing,https://nairobirealestate.co.ke/properties/gemini-residency
+prop-gemini-residency-phase-2,agent-hauzisha,Gemini 2 card; 2 units claim,https://hauzisha.co.ke/developments/gemini-2/
+prop-gemini-residency-phase-2,agent-cpk,Dense Phase 2 typed prices,https://commercialpropertykenya.com/properties/gemini-residency-phase-2-in-westlands/
+prop-gemini-residency-phase-2,agent-kedwell,Phase 2 table; 29 floors — near-dup CPK,https://www.kedwell.co.ke/projects/gemini-residency-phase-2-brookside-westlands-16
+prop-gemini-residency-phase-2,agent-realtors,Floor plans; 368/628; sold-out flags,https://realtors.co.ke/property/gemini-residency-apartments-westlands/
+prop-gemini-residency-phase-2,agent-malluug,Phase 2 260 / total 628,https://malluugrealtykenya.com/new-developments/gemini-residency/
+prop-gemini-residency-phase-2,agent-space-ke,Footage hub; Phase 1 scale echo,https://space.ke/projects/gemini/
+prop-diamond-bay-residences,agent-block,CSV sales_contact; no dedicated listing — Golden Mansion cross-mention only,https://block.ke/property/golden-mansion-for-sale-in-westlands-nairobi/
+prop-diamond-bay-residences,agent-cpk,Dense cash price list; 22 storey claim,https://commercialpropertykenya.com/properties/diamond-bay-residence-westlands/
+prop-diamond-bay-residences,agent-sir-francis,Two 23-floor; from 8.7M,https://sirfrancismarketingltd.co.ke/properties/diamond-bay-residence-westlands/
+prop-diamond-bay-residences,agent-gna,Full range duplex table,https://gna.co.ke/project/diamond-bay-residence-1-2-3-4-and-5-beds-dsq-and-duplexes/
+prop-diamond-bay-residences,agent-flamingo,Dense table; 20% deposit,https://www.flamingorealestate.co.ke/property/diamond-bay-residence/
+prop-diamond-bay-residences,agent-azipa,Higher from; detailed instalment schedule,https://aziparealestate.co.ke/property/diamond-bay-residence-1-2-bedroom-apartments-for-sale-in-westlands-nairobi/
+prop-diamond-bay-residences,agent-thamana,From 9.3M; 23-storey,https://thamanamarketingagency.co.ke/property/diamond-bay/
+prop-diamond-bay-residences,agent-hauzisha,Henbon attribution; 2 units; incomplete mix,https://hauzisha.co.ke/developments/diamond-bay-residences/
+prop-misty-springs,agent-own-it,CSV sales_contact; plinth prices; 30%/30mo,https://ownitkenya.com/off-plan-apartments-for-sale-in-nairobi/
+prop-misty-springs,agent-ogre,Sold-out flags; Dec 2025,https://www.ogre.co.ke/properties/misty-springs-apartments-1-and-2-bedroom-apartments-in-westlands/
+prop-misty-springs,agent-klin,Q3 2026; 30%/30mo,https://klinproperties.co.ke/property/misty-springs/
+prop-misty-springs,agent-cpk,Fully complete claim; 276 units,https://commercialpropertykenya.com/properties/the-misty-spring-apartments-for-sale-in-westland/
+prop-misty-springs,agent-sir-francis,276/2 blocks; Oct 2026,https://sirfrancismarketingltd.co.ke/properties/misty-springs-apartments-westlands/
+prop-misty-springs,agent-azipa,276/23; Q3 2026 UC,https://aziparealestate.co.ke/property/misty-springs-apartments-westlands/
+prop-misty-springs,agent-musilli,Plot 24; Crest/Siaya attribution,https://musillihomes.co.ke/property/misty-spring-westland-apartment-2/
+prop-misty-springs,agent-a-list,Ready; 1BR 10M; 60-day balance outlier,https://a-listrealestate.ke/property/mistry-spring-westland-apartment/
+prop-misty-springs,agent-gna,Sold out / rent framing,https://gna.co.ke/project/misty-springs-westlands-1-and-2-bedrooms/
+prop-golden-mansion,agent-block,CSV sales_contact; Sep 2026 price list; wrongly lists SkyPeak as Developer,https://block.ke/property/golden-mansion-for-sale-in-westlands-nairobi/
+prop-golden-mansion,agent-nre,Summit Vista / XiangFeng; Pre-Launch 8%,https://nairobirealestate.co.ke/properties/golden-mansion
+prop-golden-mansion,agent-realtors,Typed prices; May 2028,https://realtors.co.ke/property/golden-mansion-apartments-westlands-luxury-redefined-on-muthithi-road/
+prop-golden-mansion,agent-craiova,Apr 30 2028,https://craiovarealtors.com/property/golden-mansion/
+prop-golden-mansion,agent-masterways,20% + staged schedule,https://masterways.co.ke/properties/golden-mansiona
+prop-golden-mansion,agent-a-list,Near-identical Masterways schedule,https://a-listrealestate.ke/property/golden-mansion/
+prop-golden-mansion,agent-myspace,440 units / 30 floors corroborates EIA,https://www.myspace.co.ke/property/golden-mansion/
+prop-golden-mansion,agent-cpk,Sold-out flags,https://commercialpropertykenya.com/properties/golden-mansion-apartments-in-westlands/
+prop-longines-bay-kilimani,agent-block,CSV sales_contact,https://block.ke/property/longines-bay-kilimani-apartments-for-sale-off-ngong-road/
+prop-longines-bay-kilimani,agent-cpk,20/50/100% payment claim,https://commercialpropertykenya.com/properties/longines-bay-apartments-off-ngong-road-nairobi/
+prop-longines-bay-kilimani,agent-vorsagroup,Full typed price table,https://vorsagroup.co.ke/property/longines-bay-apartments-studio-1-2-duplex-off-ngong-road/
+prop-longines-bay-kilimani,agent-nre,58% progress UI,https://nairobirealestate.co.ke/properties/longines-bay-residences
+prop-longines-bay-kilimani,agent-sir-francis,from 3.5M header conflict,https://sirfrancismarketingltd.co.ke/properties/longines-bay/
+prop-longines-bay-kilimani,agent-craiova,Logines typo,https://craiovarealtors.com/property/studios-1-2-br-apartments-at-logines-bay-kilimani/
+prop-berkeley-homes,agent-block,Typed price list,https://block.ke/
+prop-berkeley-homes,agent-nre,CSV sales_contact; 58% progress,https://nairobirealestate.co.ke/
+prop-berkeley-homes,agent-ravi,Typed table,https://ravihomes.co.ke/
+prop-berkeley-homes,agent-craiova,Studio/1/2BR bands,https://craiovarealtors.com/
+prop-berkeley-homes,agent-vorsagroup,Low from outlier,https://vorsagroup.co.ke/
+prop-berkeley-homes,agent-sir-francis,Two-tower claim NV,https://sirfrancismarketingltd.co.ke/
+prop-lesonia-residences,agent-nre,CSV sales_contact; UC 58% UI; 20% calculator,https://nairobirealestate.co.ke/properties/lesonia-residences
+prop-lesonia-residences,agent-westlands-consult,Exclusive selling agent claim; Riara One team NV,https://westlands-consult.co.ke/property/apartment/lesonia-residency/
+prop-lesonia-residences,agent-austine,Typed prices; 20–30%; Riara One team NV,https://austinerealtors.co.ke/property/lesonia-residence/
+prop-lesonia-residences,agent-cpk,From 5.6M typed; Dec 2028,https://commercialpropertykenya.com/properties/lesonia-residences-kileleshwa/
+prop-lesonia-residences,agent-sydia,Typed prices; site-update Apr 2026,https://sydiarealty.com/estate_property/lesonia-residences-luxury-living-surrounded-by-nature-in-kileleshwa/
+prop-plumeria-residency,agent-own-it,CSV sales_contact; plinth sizes; from 10M,https://ownitkenya.com/property/plumeria-residency-luxury-2-3-bedroom-apartments-for-sale-on-riara-road-kilimani/
+prop-plumeria-residency,agent-nre,Finishing 88%; typed prices; 30% vs 20% calculator,https://nairobirealestate.co.ke/properties/plumeria-residency
+prop-plumeria-residency,agent-gna,30% deposit; Q4 2026; show house,https://gna.co.ke/project/plumeria-residency-riara-road-kilimani-2-and-3-bedrooms/
+prop-plumeria-residency,agent-sir-francis,Dense table to PH 28.3M; 30%; Oct 2026,https://sirfrancismarketingltd.co.ke/properties/plumeria-residency/
+prop-plumeria-residency,agent-cpk,Cash table; 30% + quarterly 5%,https://commercialpropertykenya.com/properties/the-riara-plumeria-residency-apartment-for-sale-in-kilimani/
+prop-plumeria-residency,agent-flamingo,20% LOO conflict; Type A–E + PH,https://www.flamingorealestate.co.ke/property/plumeria-residency-apartments-lavington/
+prop-plumeria-residency,agent-urbancore,Higher price outliers; 30%,https://urbancore.co.ke/property/plumeria-residency-234-and-5-bedroom/
+prop-plumeria-residency,agent-a-list,30%; from 10M; Oct 2026,https://a-listrealestate.ke/property/plumeria-residency/
+prop-plumeria-residency,agent-hauzisha,Golden Apple false lead; 7M / 1-unit,https://hauzisha.co.ke/developments/plumeria-residency/
+prop-polaris-residency,agent-own-it,CSV sales_contact; plinth; 30%; off-plan index,https://ownitkenya.com/off-plan-apartments-for-sale-in-nairobi/
+prop-polaris-residency,agent-sir-francis,Ready/complete; from 5.5M; Oct 2026,https://sirfrancismarketingltd.co.ke/properties/polaris-residency-kilimani/
+prop-polaris-residency,agent-cpk,Ready; full price + rent; pool claim,https://commercialpropertykenya.com/properties/the-polaris-residency-apartment-in-kilimani/
+prop-polaris-residency,agent-klin,Dec 2025; 30% plan,https://klinproperties.co.ke/property/polaris-residency/
+prop-polaris-residency,agent-masterways,30% deposit; typology,https://masterways.co.ke/properties/polaris-residency
+prop-polaris-residency,agent-a-list,20% staged conflict; sqm prices,https://a-listrealestate.ke/property/polaris-residency/
+prop-polaris-residency,agent-azipa,30/20/50; Jan 2026 occupation,https://aziparealestate.co.ke/property/polaris-residency1-2-bedroom-apartments-for-sale-in-kilimani-nairobi/
+prop-polaris-residency,agent-citiscape,30% plan; typology,https://citiscapevaluers.com/property/polaris-residency-kilimani/
+prop-polaris-residency,agent-block,Rent listing; newly completed twin 16-storey,https://block.ke/property/one-bedroom-apartment-to-let-kilimani-polaris-residency/
+prop-polaris-residency,agent-gna,Ready; divergent prices; 17-floor/289 indexed,https://gna.co.ke/project/polaris-residency-kilimani-1-beds-plus-study-room-2-beds/
+prop-golfscape-residences,agent-block,CSV sales_contact; no dedicated listing URL this pass,CSV only
+prop-golfscape-residences,agent-vorsagroup,Price table; 24 mo; Jul 2027; from 4.6M,https://vorsagroup.co.ke/property/golfscape-residences-1-2-3-4-bedroom-apartments-off-ngong-road-2/
+prop-golfscape-residences,agent-oaklane,Mirrors official list; 20% deposit; Dec 2026,https://oaklaneproperties.co.ke/properties/golfscape-residence-kilimani/
+prop-golfscape-residences,agent-sir-francis,Discounted vs original ladder,https://sirfrancismarketingltd.co.ke/properties/golfscape-residences-kilimani/
+prop-golfscape-residences,agent-hauzisha,WH Harmony; Dec 2026; 3 units,https://hauzisha.co.ke/developments/golfscape-residences/
+prop-golfscape-residences,agent-kcb-properties,Golfspace typo; 17 floors / 3 blocks,https://ke.kcbgroup.com/properties/golfspace-residences
+prop-golfscape-residences,agent-coral,WH Harmony via BuyRent; 20% plan,https://www.buyrentkenya.com/listings/4-bedroom-apartment-for-sale-kilimani-10003719
+prop-golfscape-residences,agent-capital-click,LinkedIn 20%; Jun 2027,LinkedIn post 2026-09-02
+prop-luna-oak-residency,agent-nre,CSV sales_contact; price table; Sep 2029; 20%; 10% UI,https://nairobirealestate.co.ke/properties/luna-oak-residency
+prop-luna-oak-residency,agent-vorsagroup,Full price table; Q4 2028,https://vorsagroup.co.ke/property/luna-oak-residency-luxury-2-3-4-bedroom-apartments-for-sale-in-kilimani-nairobi/
+prop-luna-oak-residency,agent-rose-homes,Detailed typed prices; TBA completion,https://rosehomes.co.ke/luna-oak-residency-apartments-for-sale-in-kilimani
+prop-luna-oak-residency,agent-cpk,Higher price band; Sep 2029,https://commercialpropertykenya.com/properties/luna-oak-residency-in-kilimani/
+prop-luna-oak-residency,agent-coral,BuyRent Leonard Kamau; 20%; Sep 2029,https://www.buyrentkenya.com/listings/3-bedroom-apartment-for-sale-kilimani-4041025
+prop-luna-oak-residency,agent-flamingo,Lower bands; flexible plans,https://www.flamingorealestate.co.ke/property/luna-oak-residency-apartments-kilimani/
+prop-luna-oak-residency,agent-own-it,2028 completion; flexible; 11.5M framing,https://ownitkenya.com/off-plan-apartments-in-kilimani/
+prop-alba-apartments,agent-own-it,CSV sales_contact; plinth; 1.9M cash; 20%,https://ownitkenya.com/off-plan-apartments-for-sale-in-nairobi/
+prop-alba-apartments,agent-hauzisha,Nanchang attribution; Mar 2026; 2.3–5.4M,https://hauzisha.co.ke/developments/alba-apartments/
+prop-alba-apartments,agent-block,Sale listing; newly built / move-in framing,https://block.ke/property/alba-apartments-riruta-studios-1-2-bed-from-kes-2-3m/
+prop-alba-apartments,agent-gna,Phase 1 ready; sale + rent,https://gna.co.ke/project/alba-apartments-dagoretti-studios-one-and-two-bedrooms/
+prop-alba-apartments,agent-a-list,Typed A–G; 20%; Apr vs Jan conflict,https://a-listrealestate.ke/property/alba-apartments/
+prop-alba-apartments,agent-klin,1.9M cash; 20%; Ready For Occupation tag,https://klinproperties.co.ke/property/realestate/
+prop-alba-apartments,agent-cpk,20%/100% plan; Kilimani title vs Dagoretti body,https://commercialpropertykenya.com/properties/alba-apartments-affordable-housing-in-kilimani/
+prop-alba-apartments,agent-musilli,Two pages Apr/Mar vs Q3 2026,https://musillihomes.co.ke/property/alba-apartments/
+prop-alba-apartments,agent-azipa,Typed A–G; amenities,https://aziparealestate.co.ke/property/alba-wanyee-road-dagoretti/
+prop-kings-summit-nakuru,agent-craiova,Two listings Summit + Summit View; Maragoli Rd; 20%; plinth,https://craiovarealtors.com/property/kings-summit-view-three-bedroom-apartments-in-nakuru/
+prop-kings-summit-nakuru,agent-jumuika,13-floor; 20%; Dec 2026/early 2027; heated-pool copy,https://jumuika.co.ke/properties/3br-apartment-with-heated-pool-lake-views-lower-milimani
+prop-nouveau,agent-space-ke,Verified HassConsult tours; attributes HassConsult developer,https://space.ke/videos/RLhV-2kolgA/
+prop-nouveau,agent-altra,Dense 22-storey / 4 basement; Q1 2028; 51 sqm,https://altrarenditaimmobiliare.it/property/nouveau/
+prop-kings-square-eldoret-ph2,agent-african-vibes,Mirrors Phase 2 unit/price; gated/elevator chips,https://africanvibes.com/real-estate/kings-square-apartments-phase-2/
+prop-capricorn-kilimani,agent-jimarket,8.5/12/15.5M; 30/50/20 Sept 2026,https://jimarket.co.ke/property/capricorn/
+prop-capricorn-kilimani,agent-mascott,Same price + payment schedule,https://mascottproperties.co.ke/properties/capricorn-apartments-kilimani/
+prop-capricorn-kilimani,agent-a-list,Higher band; Nov 2026; 30%; Capricon spelling,https://a-listrealestate.ke/property/capricon-residences/
+prop-capricorn-kilimani,agent-cpk,Amenities; sold-out 1/2BR NV,https://commercialpropertykenya.com/properties/the-capricorn-residences-apartment-in-kilimani/
+prop-capricorn-kilimani,agent-hauzisha,Staroot attribution; 13.5–15.5M; 2 units,https://hauzisha.co.ke/developments/capricon/
+prop-capricorn-kilimani,agent-african-land,400 units NV; Sept 2026,https://african.land/real-estate/new-build-properties-for-sale/capricorn-residency-luxury-living-in-the-heart-of-kilimani_i417
+prop-capricorn-kilimani,agent-2talk,Pack sizes + 8.5/12/15.5; fetch 504 this pass,https://2talkkenya.com/property/capricorn-residency-1-2-3-bedroom/
+prop-canto,agent-gna,Dense amenities + typology + price ranges,https://gna.co.ke/project/canto-westlands-luxurious-studios-and-1-bedrooms/
+prop-canto,agent-cpk,34 School Lane; typed prices; amenity floors,https://commercialpropertykenya.com/properties/canto-westlands-apartments/
+prop-canto,agent-vorsagroup,Prices; 3-yr instalments; hosts catalogue PDF,https://vorsagroup.co.ke/property/canto-apartments-studio-1-bedroom-in-westlands/
+prop-canto,agent-austine,30% / 36 mo; higher USD from; Dec 2028,https://austinerealtors.co.ke/property/canto-westlands-studio-apartments/
+prop-canto,agent-knight-frank,Indexed hub2696809 — payment + sizes + service charge,https://www.knightfrank.co.uk/properties/residential/for-sale/westlands-school-lane/hub2696809
+prop-ankori,agent-hassconsult,Official project + Investment Collection + contacts,https://www.hassconsult.com/ankori
+prop-ankori,agent-tmk,EUR price bands; 20% deposit; Dec 2028,https://tmk-invest.com/listings/ankori/
+prop-ankori,agent-space-ke,HassConsult-attributed Ankori tours,https://space.ke/videos/bi7D6ykq7-w/
+prop-brookside-oak,agent-proxima,Project overview / amenities,https://www.proxima.co.ke/brookside-oak/
+prop-brookside-oak,agent-cpk,Price table; June 2029; 40-mo plan,https://commercialpropertykenya.com/properties/brookside-oak-apartments-westlands/
+prop-brookside-oak,agent-ravi,20%; 40 mo; Feb 2026 start; three towers,https://ravihomes.co.ke/developments/brookside-oak/
+prop-brookside-oak,agent-masterways,Typed prices; Premier Developers label,https://masterways.co.ke/properties/brookside-oak-residency
+prop-brookside-oak,agent-palmier,Typed prices; Feb 2026–Jun 2029,https://palmierproperties.co.ke/estate_property/brookside-oak-a-premier-address-in-westlands/
+prop-brookside-oak,agent-gerryville,Microsite-aligned prices; 40 mo,https://gerryvillehomes.com/brookside-oak-residency/
+prop-brookside-oak,agent-gna,20%; Q2 2029; price table,https://gna.co.ke/project/brookside-oak-residency-westlands-1-2-and-3-beds-plus-dsq/
+prop-brookside-oak,agent-craiova,20% + 10–15%/6 mo schedule,https://craiovarealtors.com/property/brookside-oak-residency-in-westlands/
+prop-brookside-oak,agent-nre,20%/40 mo; 513 units claim; 58% progress,https://nairobirealestate.co.ke/properties/brookside-oak-residence
+prop-kai-diani,agent-hassconsult,Sole exclusive selling agent + development consultant,https://www.hassconsult.com/kai
+prop-108-residences-diani,agent-daiga,Official site primary sales contact,https://www.108residences.com/contact/
+prop-108-residences-diani,agent-dunhill,Official co-contact + furnished listing,https://www.dunhillconsulting.com/properties/studio-1-2-3-bedroom-apartments/
+prop-108-residences-diani,agent-enin,Dense brief; names Omicron + Imperium + Space Art; timeline,https://eningroup.com/properties/a-blend-of-luxury-living-in-diani
+prop-108-residences-diani,agent-homesinkenya,Typed prices + payment schedule + amenity density,https://homesinkenya.co.ke/property/108-residences-diani-studio-1-2-and-3-bedroom-apartments/
+prop-108-residences-diani,agent-mkaazi,Indicative bands; 50% sold claim,https://mkaazirealestate.com/property/108-residences-diani-contemporary-coastal-apartments-for-sale/
+prop-108-residences-diani,agent-cpk,2BR 18.5M; Dec 2026 / Jan 2027,https://commercialpropertykenya.com/properties/2-bedroom-apartments-steps-from-diani-beach/
+prop-108-residences-diani,agent-coral,BuyRentKenya listing — price ranges; timeline,https://www.buyrentkenya.com/listings/1-bedroom-apartment-for-sale-diani-3873450
+prop-forestview-residences,agent-a-list,Typed sizes/prices ~29.5M; June 2027; 20/60/20,https://a-listrealestate.ke/property/forestview-residences/
+prop-forestview-residences,agent-cpk,Older 27.1M sheet; end-2027; 20/60/20,https://commercialpropertykenya.com/properties/forestview-residences-spring-valley-westlands/
+prop-forestview-residences,agent-coral,BuyRentKenya typed ~29.5M+; 20/60/20,https://www.buyrentkenya.com/listings/2-bedroom-apartment-for-sale-westlands-area-4032755
+prop-forestview-residences,agent-flamingo,27.1M typed; flexible payment no %,https://www.flamingorealestate.co.ke/property/forestview-residences-luxury-apartments-in-westlands/
+prop-forestview-residences,agent-citiscape,27.1–31.1M / 38.9–50.1M bands,https://citiscapevaluers.com/property/forestview-residences-westlands/
+prop-forestview-residences,agent-masterways,3BR+DSQ from 45M; June 2027,https://www.masterways.co.ke/properties/forestview-residences
+prop-forestview-residences,agent-hauzisha,Elegant attribution; 34.1–47M; ignore 0730 phone,https://hauzisha.co.ke/developments/forestview-residences/
+prop-donyo-hill-residences,agent-hauzisha,Elegant; Dec 2027; band 29.9–70M; ignore 0730,https://hauzisha.co.ke/developments/donyo-hill-residences/
+prop-donyo-hill-residences,agent-cpk,Typed matrix; 20/60/20; 14-storey NV,https://commercialpropertykenya.com/properties/donyo-hill-residence-spring-valley-westlands/
+prop-donyo-hill-residences,agent-calpha,27.9/35/67M; Spring Valley mislabel,https://calphahomes.co.ke/area/westlands/
+prop-48-treehouse,agent-realtor-kenya,"5,280 sqft / 77.9M / Dec 2027",https://www.realtorkenya.com/properties/48treehouse-4-bedroom-apartments-peponi-road-westlands
+prop-48-treehouse,agent-hauzisha,73M conflict; Dec 2027; ignore phone,https://hauzisha.co.ke/developments/48-treehouse/
+prop-sunpark-residence-ii,agent-complete-circle,Phase II prices; Dec 2025; 6.2-acre Phase I bleed,https://completecircleproperties.com/sunpark-residence-phase-ii/
+prop-sunpark-residence-ii,agent-cpk,Phase I Ready vs II tables; 25/75 payment,https://commercialpropertykenya.com/properties/sunpark-residence-in-syokimau/
+prop-sunpark-residence-ii,agent-hauzisha,Singular Sunpark→II; ignore 0730,https://hauzisha.co.ke/developments/sunpark-residences/
+prop-sunpark-residence-ii,agent-realtor-kenya,8M / 1150 sqft / Apr 2026; acreage bleed,https://www.realtorkenya.com/properties/sunpark-residence-ii-2-and-3-bedroom-apartments-on-chady-road-syokimau
+prop-sunpark-residence-ii,agent-sic-prime,10 acres; 360/342 unit claim; from 6.5M bleed,https://www.sicprime.co.ke/buy/sunpark-residence
+prop-sunpark-residence-ii,agent-craiova,Typed ladder + 25% deposit,https://craiovarealtors.com/property/sunpark-residence-phase-2
+prop-sunpark-residence-ii,agent-gna,Softened ladder; Ready marketing noise,https://gna.co.ke/project/sunpark-residence-syokimau-1-2-3-beds-plus-dsq/
+prop-citrine-heights,agent-cpk,Typed 7.3/11/12.9; June 2028; amenities,https://commercialpropertykenya.com/properties/citrine-heights-westlands/
+prop-citrine-heights,agent-craiova,Higher 7.9/12.5/14.9; 20% deposit; Aug 2028,https://craiovarealtors.com/property/one-two-bedrooms-at-citrine-heights-in-westlands/
+prop-citrine-heights,agent-habari,Aligns CPK typed floors,
+prop-citrine-heights,agent-villawatch,From 7.3/11M; Q3 2026 launch,
+prop-citrine-heights,agent-ladva,Thin blog 7.3M / 23 floors / 161 units,
+prop-citrine-heights,agent-hauzisha,Jafu attribution; ignore 0730 phone,https://hauzisha.co.ke/developments/citrine-heights/
+prop-auris-residence,agent-ace,Full typed sheet + 30%/3yr 0%,
+prop-auris-residence,agent-craiova,Typed sheet; 20%/May 2028 conflict,
+prop-auris-residence,agent-ladva,30%/3yr cluster,
+prop-auris-residence,agent-ravi,30%/3yr cluster,
+prop-auris-residence,agent-nre,Typed + 58% progress chip NV,
+prop-auris-residence,agent-realtors,Names Jafu; from 5.5M soft,
+prop-auris-residence,agent-hauzisha,Dec 2027; 5.5–13.5M; ignore 0730,https://hauzisha.co.ke/developments/auris-residence/
+prop-serene-manor,agent-sir-francis,Typed ladder + 20% deposit Dec 2027,
+prop-serene-manor,agent-vorsagroup,Typed + 20% must-have cluster,
+prop-serene-manor,agent-craiova,20% + amenities denser,
+prop-serene-manor,agent-2talk,Typed + 20% must-have,
+prop-serene-manor,agent-nre,Typed echo; 58% progress NV,
+prop-serene-manor,agent-urbancore,20%; clear-by Dec 2028 conflict,
+prop-serene-manor,agent-hauzisha,3.5–20M band; ignore 0730,https://hauzisha.co.ke/developments/serene-manor/
+prop-libra-residences,agent-cpk,Typed 17.76–25.76; George Padmore,
+prop-libra-residences,agent-nre,Typed above band; 58% progress NV; flexible payment,
+prop-libra-residences,agent-realtors,Agent listing,
+prop-libra-residences,agent-bellano,Typed high band; first floor progress NV,
+prop-libra-residences,agent-geomara,Typed; heated pool amenity NV,
+prop-libra-residences,agent-masterways,Partial typed near CPK,
+prop-libra-residences,agent-sir-francis,BuyRentKenya listing face,
+prop-libra-residences,agent-flamingo,Agent listing,
+prop-libra-residences,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/libra-residences/
+prop-only-you,agent-cpk,20%+reservation must-have cluster,
+prop-only-you,agent-vorsagroup,20% must-have cluster,
+prop-only-you,agent-azipa,20% must-have cluster,
+prop-only-you,agent-erysler,Agent listing,
+prop-only-you,agent-gna,20% must-have cluster,
+prop-only-you,agent-nre,Agent listing,
+prop-only-you,agent-almasi,Agent listing,
+prop-only-you,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/only-you/
+prop-gaia-brookside,agent-oaklane,From ~23M; June 2028 cluster,
+prop-gaia-brookside,agent-a-luxe,Typed + 20% deposit short of ≥4,
+prop-gaia-brookside,agent-nre,June 2028; Q3 2027 widget conflict,
+prop-gaia-brookside,agent-ravi,Dec 2027 completion conflict,
+prop-gaia-brookside,agent-realtors,Dec 2027 cluster,
+prop-gaia-brookside,agent-sir-francis,Dec 2028 outlier,
+prop-gaia-brookside,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/gaia-brookside/
+prop-diplomat-residencies,agent-almasi,From ~5M; 20% must-have; 875 units reject,
+prop-diplomat-residencies,agent-vorsagroup,20% must-have cluster,
+prop-diplomat-residencies,agent-gna,20% must-have cluster,
+prop-diplomat-residencies,agent-ravi,20% must-have cluster,
+prop-diplomat-residencies,agent-palmier,Typed sheet,
+prop-diplomat-residencies,agent-knight-frank,Dec 2027 completion claim,
+prop-diplomat-residencies,agent-space-ke,UC media Apr–Nov 2025,
+prop-diplomat-residencies,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/diplomat-residencies/
+prop-aya-luxury-residence,agent-gna,Ladder + 30% deposit cluster,
+prop-aya-luxury-residence,agent-nre,Sandoral attribution NV; 20% calc ignore; 92% progress NV,
+prop-aya-luxury-residence,agent-own-it,Ladder consensus,
+prop-aya-luxury-residence,agent-sir-francis,Ladder consensus,
+prop-aya-luxury-residence,agent-finlay,Lower/older sheet NV,
+prop-aya-luxury-residence,agent-cpk,Makueni×Nyando wording NV,
+prop-aya-luxury-residence,agent-kenya4u,Agent listing,
+prop-aya-luxury-residence,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/aya-luxury-residence/
+prop-rhapta-one,agent-sicily,Typed ladder ~7.8M,
+prop-rhapta-one,agent-sir-francis,Typed ~7.5M,
+prop-rhapta-one,agent-masterways,Typed + unit counts,
+prop-rhapta-one,agent-vorsagroup,Typed,
+prop-rhapta-one,agent-own-it,Typed,
+prop-rhapta-one,agent-craiova,Typed higher,
+prop-rhapta-one,agent-cpk,Typed,
+prop-rhapta-one,agent-oaklane,Typed soft,
+prop-rhapta-one,agent-gna,Sold-out claims NV,
+prop-rhapta-one,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/rhapta-one-residency/
+prop-alina-valley,agent-westlands-consult,From 10.7M,
+prop-alina-valley,agent-gna,From 11M,
+prop-alina-valley,agent-vorsagroup,20% must-have,
+prop-alina-valley,agent-a-list,20% must-have,
+prop-alina-valley,agent-a-luxe,20% must-have,
+prop-alina-valley,agent-cpk,20%; Dec 2026 outlier,
+prop-alina-valley,agent-klin,From 11.1M,
+prop-alina-valley,agent-own-it,Soft,
+prop-alina-valley,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/alina-valley/
+prop-montbleu,agent-musilli,10/10/75/5; Nov 2024 prices,
+prop-montbleu,agent-citiscape,20%+3yr; amenity list,
+prop-montbleu,agent-cpk,Typed,
+prop-montbleu,agent-craiova,Higher 2026 cards,
+prop-montbleu,agent-flamingo,Typed,
+prop-montbleu,agent-lumi,Typed,
+prop-montbleu,agent-sydia,20% to Nov 2027,
+prop-montbleu,agent-realtors,High hero NV,
+prop-montbleu,agent-cig,Typed soft,
+prop-montbleu,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/montbleu-westlands/
+prop-marina-bay-2,agent-gna,Typed ladder,
+prop-marina-bay-2,agent-farman,10/10/75/5 must-have,
+prop-marina-bay-2,agent-cpk,Typed,
+prop-marina-bay-2,agent-a-list,10/10/75/5 + mortgage 30/70,
+prop-marina-bay-2,agent-sydia,Higher floors NV,
+prop-marina-bay-2,agent-craiova,10/10/75/5,
+prop-marina-bay-2,agent-foresee,Soft from,
+prop-marina-bay-2,agent-masterways,20/75/5 outlier,
+prop-marina-bay-2,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/marina-bay-2/
+prop-atreus-brookside,agent-cpk,From 8.4M,
+prop-atreus-brookside,agent-vorsagroup,From 8.5M; 20%,
+prop-atreus-brookside,agent-craiova,20% must-have,
+prop-atreus-brookside,agent-a-list,20/80,
+prop-atreus-brookside,agent-masterways,From 8.5M,
+prop-atreus-brookside,agent-realtors,20%,
+prop-atreus-brookside,agent-gna,20%,
+prop-atreus-brookside,agent-pakfront,10% outlier ignore,
+prop-atreus-brookside,agent-hauzisha,Portal; ignore 0730,https://hauzisha.co.ke/developments/atreus-brookside/
+prop-grand-premier,agent-cpk,Complete lean; remaining prices,
+prop-grand-premier,agent-samambo,Typed 12.5/19.5/25.5,
+prop-grand-premier,agent-rayabbay,Agent,
+prop-grand-premier,agent-kenyaproperty,From 8M + PH,
+prop-grand-premier,agent-cj-luxe,2BR 15M,
+prop-grand-premier,agent-hauzisha,Coming soon; ignore 0730,https://hauzisha.co.ke/developments/grand-premier/
+prop-rosewood-park,agent-milligan,Types A–F typed,
+prop-rosewood-park,agent-cpk,Cash 18M; Complete lean,
+prop-rosewood-park,agent-capital-click,18.5M; 70 units,
+prop-rosewood-park,agent-brilliant,23M,
+prop-rosewood-park,agent-a-list,Rent lean,
+prop-rosewood-park,agent-azipa,Rent lean,
+prop-rosewood-park,agent-hauzisha,Coming soon; ignore 0730,https://hauzisha.co.ke/developments/rosewood-park/

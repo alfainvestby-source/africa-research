@@ -1,0 +1,603 @@
+id,property_id,feature_id,raw_text,variant_note,confidence,is_canonical,needs_verification,needs_developer_input,publisher_class,notes
+pf-pandora-pool,prop-pandora-residences,swimming_pool,Pool,,5,true,false,false,developer,amenities.core site+brochure
+pf-pandora-spa,prop-pandora-residences,spa,spa/sauna,,5,true,false,false,developer,paired phrase; also sauna row
+pf-pandora-sauna,prop-pandora-residences,sauna,spa/sauna,,5,true,false,false,developer,split from spa when evidence allows
+pf-pandora-gym,prop-pandora-residences,gym,fitness,,5,true,false,false,developer,
+pf-pandora-cowork,prop-pandora-residences,coworking,co-working,,5,true,false,false,developer,
+pf-pandora-lounge,prop-pandora-residences,lounge,lounge,,5,true,false,false,developer,
+pf-pandora-resto,prop-pandora-residences,restaurant_cafe,restaurant/café,,5,true,false,false,developer,
+pf-pandora-retail,prop-pandora-residences,retail_boulevard,retail boulevard,,5,true,false,false,developer,community+retail
+pf-pandora-smart,prop-pandora-residences,smart_home,smart home,,5,true,false,false,developer,
+pf-pandora-kids,prop-pandora-residences,kids_play,children's play,,5,true,false,false,developer,
+pf-pandora-games,prop-pandora-residences,indoor_gaming,games room,,5,true,false,false,developer,
+pf-pandora-dheight,prop-pandora-residences,double_height_ceiling,double-height ceilings,,5,true,false,false,developer,apartment feature listed in amenities core
+pf-pandora-concierge,prop-pandora-residences,concierge,concierge,,5,true,false,false,developer,
+pf-pandora-balcony,prop-pandora-residences,balcony,terraces/balconies,,5,true,false,false,developer,
+pf-pandora-green,prop-pandora-residences,green_area,zen garden / courtyard,,5,true,false,false,developer,
+pf-astra-gym,prop-astra-bay-residence,gym,Gym,,5,true,false,false,developer,HTML
+pf-astra-cctv,prop-astra-bay-residence,cctv,24hr CCTV,,5,true,false,false,developer,HTML
+pf-astra-lifts,prop-astra-bay-residence,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,HTML
+pf-astra-gen,prop-astra-bay-residence,backup_generator,backup generator,,5,true,false,false,developer,flyer
+pf-astra-borehole,prop-astra-bay-residence,borehole,borehole,,5,true,false,false,developer,flyer
+pf-astra-access,prop-astra-bay-residence,access_control,access control,,5,true,false,false,developer,flyer
+pf-astra-store,prop-astra-bay-residence,convenience_store,convenience store,,5,true,false,false,developer,flyer
+pf-astra-outdoor,prop-astra-bay-residence,green_area,outdoor refresh area / green area,,5,true,false,false,developer,flyer
+pf-astra-gaming,prop-astra-bay-residence,indoor_gaming,indoor gaming,,5,true,false,false,developer,flyer
+pf-astra-social,prop-astra-bay-residence,social_corridor,social corridor,,5,true,false,false,developer,flyer
+pf-astra-track,prop-astra-bay-residence,tracking_range,tracking range,,5,true,false,false,developer,flyer
+pf-astra-net,prop-astra-bay-residence,internet_cable,internet/cable,,5,true,false,false,developer,flyer
+pf-astra-retail-nv,prop-astra-bay-residence,retail_boulevard,"1800 sqm retail + Carrefour/Naivas",,1,false,true,false,agent,Craiova — needs_verification
+pf-astra-solar-nv,prop-astra-bay-residence,rooftop_solar,rooftop solar,,1,false,true,false,agent,Craiova
+pf-astra-pool-nv,prop-astra-bay-residence,swimming_pool,pool,,1,false,true,false,agent,Foresee stub / not on developer — NV
+pf-porini-club,prop-porini-point,clubhouse,clubhouse,,5,true,false,false,developer,
+pf-porini-gym,prop-porini-point,gym,gym,,5,true,false,false,developer,
+pf-porini-pool,prop-porini-point,swimming_pool,swimming pool,,5,true,false,false,developer,
+pf-porini-sundeck,prop-porini-point,sun_deck,sun deck,,5,true,false,false,developer,brochure
+pf-porini-bbq,prop-porini-point,barbecue,barbecue area,,5,true,false,false,developer,
+pf-porini-kids,prop-porini-point,kids_play,children's play zone,,5,true,false,false,developer,
+pf-porini-parking,prop-porini-point,parking,parking,,5,true,false,false,developer,
+pf-porini-cctv,prop-porini-point,cctv,24/7 CCTV,,5,true,false,false,developer,
+pf-porini-gate,prop-porini-point,gated_security,gated security,,5,true,false,false,developer,
+pf-porini-green,prop-porini-point,green_area,landscaped courtyards / paths,,5,true,false,false,developer,
+pf-porini-sanctuary,prop-porini-point,wildlife_sanctuary,Tatu Wildlife Sanctuary,,5,true,false,false,developer,community
+pf-porini-kitchen,prop-porini-point,fitted_kitchen,fitted kitchen hob/hood/oven,,5,true,false,false,developer,interior finishes
+pf-porini-quartz,prop-porini-point,quartz_countertops,quartz countertops,,5,true,false,false,developer,
+pf-porini-spc,prop-porini-point,spc_parquet,SPC parquet,,5,true,false,false,developer,
+pf-porini-balcony,prop-porini-point,balcony,private balconies,,5,true,false,false,developer,
+pf-porini-schools,prop-porini-point,estate_schools_access,Crawford / Nova Pioneer (Tatu context),,5,true,false,false,developer,brochure location context
+pf-porini-heated-nv,prop-porini-point,swimming_pool,heated pool,,1,false,true,false,agent,Vorsa inflation — NV (canonical pool already true)
+pf-porini-lifts-nv,prop-porini-point,high_speed_lifts,high-speed lifts,,1,false,true,false,agent,Vorsa
+pf-porini-library-nv,prop-porini-point,library,library,,1,false,true,false,agent,Vorsa
+pf-galaxy-pool,prop-galaxy-one,swimming_pool,Heated rooftop infinity pool,heated rooftop infinity,5,true,false,false,developer,
+pf-galaxy-gym,prop-galaxy-one,gym,gym,,5,true,false,false,developer,
+pf-galaxy-spa,prop-galaxy-one,spa,spa & sauna,,5,true,false,false,developer,
+pf-galaxy-sauna,prop-galaxy-one,sauna,spa & sauna,,5,true,false,false,developer,
+pf-galaxy-cinema,prop-galaxy-one,cinema,private theater,,5,true,false,false,developer,
+pf-galaxy-lounge,prop-galaxy-one,lounge,piano lounge / coffee,,5,true,false,false,developer,
+pf-galaxy-yoga,prop-galaxy-one,yoga,yoga & wellness deck,,5,true,false,false,developer,
+pf-galaxy-green,prop-galaxy-one,green_area,rooftop art garden,,5,true,false,false,developer,
+pf-galaxy-golf,prop-galaxy-one,mini_golf,indoor mini-golf,,5,true,false,false,developer,
+pf-galaxy-kids,prop-galaxy-one,kids_play,children's play,,5,true,false,false,developer,
+pf-galaxy-cctv,prop-galaxy-one,cctv,24/7 CCTV security,,5,true,false,false,developer,
+pf-galaxy-lifts,prop-galaxy-one,high_speed_lifts,high-speed elevators,,5,true,false,false,developer,
+pf-galaxy-jacuzzi-nv,prop-galaxy-one,jacuzzi,jacuzzis,,1,false,true,false,agent,Vorsa
+pf-galaxy-padel-nv,prop-galaxy-one,padel,basketball/padel,,1,false,true,false,agent,Vorsa
+pf-galaxy-daycare-nv,prop-galaxy-one,daycare,kids' daycare,,1,false,true,false,agent,Vorsa
+pf-galaxy-jog-nv,prop-galaxy-one,jogging_track,jogging track,,1,false,true,false,agent,Vorsa
+pf-galaxy-beauty-nv,prop-galaxy-one,beauty_parlor,beauty parlor,,1,false,true,false,agent,Vorsa
+pf-riara-pool,prop-riara-oasis,swimming_pool,Swimming pool,,5,true,false,false,official_filing,NEMA
+pf-riara-gym,prop-riara-oasis,gym,gym,,5,true,false,false,official_filing,NEMA
+pf-riara-parking,prop-riara-oasis,parking,parking,,5,true,false,false,official_filing,NEMA
+pf-riara-green,prop-riara-oasis,green_area,landscaped garden,,5,true,false,false,official_filing,NEMA
+pf-riara-borehole,prop-riara-oasis,borehole,onsite borehole planned,,5,true,false,false,official_filing,NEMA
+pf-riara-rain,prop-riara-oasis,rainwater_harvest,rainwater harvest,,5,true,false,false,official_filing,NEMA
+pf-riara-storage,prop-riara-oasis,water_storage,750 m³ storage tanks,,5,true,false,false,official_filing,NEMA
+pf-riara-kids,prop-riara-oasis,kids_play,Kids play area,,3,false,false,false,agent,multi-agent corroboration conf 3
+pf-riara-lifts,prop-riara-oasis,high_speed_lifts,high-speed lifts,,3,false,false,false,agent,multi-agent
+pf-riara-gen,prop-riara-oasis,backup_generator,backup generator,,3,false,false,false,agent,multi-agent
+pf-riara-cctv,prop-riara-oasis,cctv,CCTV / intercom,,3,false,false,false,agent,multi-agent
+pf-riara-sec,prop-riara-oasis,gated_security,24/7 security,,3,false,false,false,agent,multi-agent
+pf-riara-bbq-nv,prop-riara-oasis,barbecue,rooftop BBQ,,1,false,true,false,agent,AIMASI single-source
+pf-riara-conf-nv,prop-riara-oasis,conference_room,conference room,,1,false,true,false,agent,AIMASI
+pf-gemini-retail,prop-gemini-residency-phase-2,retail_boulevard,Gemini Square / retail convenience,,5,true,false,false,developer,
+pf-gemini-spa,prop-gemini-residency-phase-2,spa,Serenity Spa,,5,true,false,false,developer,partnership amenity
+pf-gemini-reception,prop-gemini-residency-phase-2,reception,reception,,5,true,false,false,developer,
+pf-gemini-pool,prop-gemini-residency-phase-2,swimming_pool,courtyard pool / heated rooftop infinity pool,,5,true,false,false,developer,
+pf-gemini-green,prop-gemini-residency-phase-2,green_area,courtyard garden,,5,true,false,false,developer,
+pf-gemini-cinema,prop-gemini-residency-phase-2,cinema,cinema,,5,true,false,false,developer,
+pf-gemini-gym,prop-gemini-residency-phase-2,gym,gym,,5,true,false,false,developer,
+pf-gemini-yoga,prop-gemini-residency-phase-2,yoga,yoga,,5,true,false,false,developer,
+pf-gemini-sauna,prop-gemini-residency-phase-2,sauna,separate male/female saunas,,5,true,false,false,developer,
+pf-gemini-cowork,prop-gemini-residency-phase-2,coworking,co-working,,5,true,false,false,developer,
+pf-gemini-kids,prop-gemini-residency-phase-2,kids_play,kids play,,5,true,false,false,developer,
+pf-gemini-fire,prop-gemini-residency-phase-2,fire_pit,fire pit,,5,true,false,false,developer,
+pf-gemini-bbq,prop-gemini-residency-phase-2,barbecue,BBQ,,5,true,false,false,developer,
+pf-gemini-lounge,prop-gemini-residency-phase-2,lounge,sky lounge,,5,true,false,false,developer,
+pf-gemini-padel,prop-gemini-residency-phase-2,padel,sky-high padel court,,5,true,false,false,developer,
+pf-gemini-hub,prop-gemini-residency-phase-2,commercial_hub,convenience store pharmacy restaurants cafés serviced co-working,,5,true,false,false,developer,BD Phase 2 commercial hub
+pf-gemini-pharmacy,prop-gemini-residency-phase-2,pharmacy,pharmacy,,5,true,false,false,developer,BD hub
+pf-gemini-lifts-nv,prop-gemini-residency-phase-2,high_speed_lifts,Kone lifts,,2,false,true,false,agent,
+pf-gemini-dry-nv,prop-gemini-residency-phase-2,dry_cleaning,dry cleaning,,2,false,true,false,agent,
+pf-gemini-guest-nv,prop-gemini-residency-phase-2,guest_room,guest room,,2,false,true,false,agent,
+pf-diamond-cafe,prop-diamond-bay-residences,restaurant_cafe,Cafés,,5,true,false,false,developer,
+pf-diamond-pool,prop-diamond-bay-residences,swimming_pool,heated pool,heated,5,true,false,false,developer,
+pf-diamond-yoga,prop-diamond-bay-residences,yoga,yoga room,,5,true,false,false,developer,
+pf-diamond-gym,prop-diamond-bay-residences,gym,fully fitted gym,,5,true,false,false,developer,
+pf-diamond-reception,prop-diamond-bay-residences,reception,reception,,5,true,false,false,developer,
+pf-diamond-concierge,prop-diamond-bay-residences,concierge,dedicated concierge,,5,true,false,false,developer,
+pf-diamond-store,prop-diamond-bay-residences,convenience_store,supermarket & shop,,5,true,false,false,developer,
+pf-diamond-lifts,prop-diamond-bay-residences,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,
+pf-diamond-lounge,prop-diamond-bay-residences,lounge,resident lounge,,5,true,false,false,developer,
+pf-diamond-kids,prop-diamond-bay-residences,kids_play,kids' play area,,5,true,false,false,developer,
+pf-diamond-parking,prop-diamond-bay-residences,parking,ample parking,,5,true,false,false,developer,
+pf-diamond-cctv,prop-diamond-bay-residences,cctv,24/7 CCTV,,5,true,false,false,developer,
+pf-diamond-borehole,prop-diamond-bay-residences,borehole,water borehole,,5,true,false,false,developer,
+pf-diamond-sec,prop-diamond-bay-residences,gated_security,24/7 manned entrance security,,5,true,false,false,developer,
+pf-diamond-pharmacy-nv,prop-diamond-bay-residences,pharmacy,pharmacy/chemist,,2,false,true,false,agent,
+pf-diamond-smart-nv,prop-diamond-bay-residences,smart_home,face-scan,,2,false,true,false,agent,
+pf-diamond-ai-nv,prop-diamond-bay-residences,ai_smart_toilet,AI/smart toilets,,1,false,true,false,agent,CPK
+pf-diamond-curtains-nv,prop-diamond-bay-residences,automated_curtains,automated curtains,,1,false,true,false,agent,CPK
+pf-misty-pool,prop-misty-springs,swimming_pool,Rooftop heated pool,heated rooftop,3,false,false,false,agent,No developer microsite; agent consensus conf 3
+pf-misty-gym,prop-misty-springs,gym,gym,,3,false,false,false,agent,
+pf-misty-bbq,prop-misty-springs,barbecue,rooftop BBQ/lounge,,3,false,false,false,agent,
+pf-misty-kids,prop-misty-springs,kids_play,kids' play,,3,false,false,false,agent,
+pf-misty-lifts,prop-misty-springs,high_speed_lifts,2 high-speed lifts per block,,3,false,false,false,agent,
+pf-misty-reception,prop-misty-springs,reception,reception,,3,false,false,false,agent,
+pf-misty-parking,prop-misty-springs,parking,ample parking + visitor parking,,3,false,false,false,agent,
+pf-misty-sec,prop-misty-springs,gated_security,24/7 security,,3,false,false,false,agent,
+pf-misty-smart,prop-misty-springs,smart_home,smart home / facial recognition / face-scan,,3,false,false,false,agent,
+pf-misty-kitchen,prop-misty-springs,fitted_kitchen,fitted kitchen (4-burner oven extractor),,3,false,false,false,agent,
+pf-misty-jog-nv,prop-misty-springs,jogging_track,150 m jogging track,,1,false,true,false,agent,Proxima single-source
+pf-misty-club-nv,prop-misty-springs,clubhouse,club house,,1,false,true,false,agent,Flamingo chips
+pf-misty-cinema-nv,prop-misty-springs,cinema,home theater,,1,false,true,false,agent,Flamingo chips
+pf-misty-borehole-nv,prop-misty-springs,borehole,borehole,,1,false,true,false,agent,CPK chips
+pf-misty-fibre-nv,prop-misty-springs,internet_cable,fibre,,1,false,true,false,agent,CPK chips
+pf-golden-gym,prop-golden-mansion,gym,gym,,4,true,false,false,official_filing,EIA + agent consensus
+pf-golden-pool,prop-golden-mansion,swimming_pool,swimming pool / heated rooftop pool,heated rooftop,4,false,false,false,official_filing,EIA presence; heated rooftop = agent consensus conf~3 — kept as one row with notes
+pf-golden-kids,prop-golden-mansion,kids_play,children's play,,4,true,false,false,official_filing,EIA roof framing + agents
+pf-golden-parking,prop-golden-mansion,parking,5-level / podium parking,,5,true,false,false,official_filing,EIA parking structure
+pf-golden-cctv,prop-golden-mansion,cctv,24hr security/CCTV,,3,false,false,false,agent,agent consensus
+pf-golden-gen,prop-golden-mansion,backup_generator,backup generator,,3,false,false,false,agent,
+pf-golden-reception,prop-golden-mansion,reception,hotel-style lobby,,3,false,false,false,agent,
+pf-golden-store,prop-golden-mansion,convenience_store,mini mart,,3,false,false,false,agent,
+pf-golden-sauna-nv,prop-golden-mansion,sauna,sauna,,1,false,true,false,agent,inflated
+pf-golden-golf-nv,prop-golden-mansion,mini_golf,mini golf,,1,false,true,false,agent,inflated
+pf-golden-club-nv,prop-golden-mansion,clubhouse,clubhouse,,1,false,true,false,agent,inflated
+pf-golden-lifts-nv,prop-golden-mansion,high_speed_lifts,six high-speed elevators,,1,false,true,false,agent,inflated
+pf-longines-pool,prop-longines-bay-kilimani,swimming_pool,swimming pool,,5,true,false,false,developer,official 15 amenities
+pf-longines-cinema-in,prop-longines-bay-kilimani,cinema,indoor cinema,,5,true,false,false,developer,
+pf-longines-cinema-out,prop-longines-bay-kilimani,cinema,outdoor cinema (+ BBQ),,5,true,false,false,developer,same feature; outdoor variant
+pf-longines-bbq,prop-longines-bay-kilimani,barbecue,outdoor cinema (+ BBQ),,5,true,false,false,developer,
+pf-longines-padel,prop-longines-bay-kilimani,padel,sky padel,,5,true,false,false,developer,
+pf-longines-gym,prop-longines-bay-kilimani,gym,wellness gym,,5,true,false,false,developer,
+pf-longines-cowork,prop-longines-bay-kilimani,coworking,co-working,,5,true,false,false,developer,
+pf-longines-lounge,prop-longines-bay-kilimani,lounge,coffee lounge,,5,true,false,false,developer,
+pf-longines-poolroom,prop-longines-bay-kilimani,indoor_gaming,pool room,,5,true,false,false,developer,
+pf-longines-pet,prop-longines-bay-kilimani,pet_friendly,pet-friendly facilities,,5,true,false,false,developer,
+pf-longines-golf,prop-longines-bay-kilimani,mini_golf,sky golf,,5,true,false,false,developer,
+pf-longines-fingerprint,prop-longines-bay-kilimani,fingerprint_access,fingerprint door locks,,5,true,false,false,developer,
+pf-longines-laundry,prop-longines-bay-kilimani,laundry_shared,24-hour laundry,,5,true,false,false,developer,
+pf-longines-resto,prop-longines-bay-kilimani,restaurant_cafe,premium hotel restaurant,,5,true,false,false,developer,
+pf-longines-kids,prop-longines-bay-kilimani,kids_play,indoor children's playroom,,5,true,false,false,developer,
+pf-longines-cctv,prop-longines-bay-kilimani,cctv,24/7 CCTV,,5,true,false,false,developer,
+pf-longines-retail,prop-longines-bay-kilimani,retail_boulevard,World Food Avenue / shops,,5,true,false,false,developer,community/commercial
+pf-longines-borehole-nv,prop-longines-bay-kilimani,borehole,borehole,,2,false,true,false,agent,
+pf-longines-gen-nv,prop-longines-bay-kilimani,backup_generator,backup generator,,2,false,true,false,agent,
+pf-berkeley-pool,prop-berkeley-homes,swimming_pool,Rooftop / roof swimming pool,,5,true,false,false,official_filing,ESIA + marketing agree
+pf-berkeley-gym,prop-berkeley-homes,gym,gym,,5,true,false,false,official_filing,
+pf-berkeley-resto,prop-berkeley-homes,restaurant_cafe,restaurant / café,,5,true,false,false,official_filing,
+pf-berkeley-lounge,prop-berkeley-homes,lounge,common/lounge spaces,,5,true,false,false,official_filing,
+pf-berkeley-green,prop-berkeley-homes,green_area,garden,,5,true,false,false,official_filing,
+pf-berkeley-borehole,prop-berkeley-homes,borehole,borehole (ESIA recommends onsite),,5,true,false,false,official_filing,
+pf-berkeley-gen,prop-berkeley-homes,backup_generator,backup generator,,5,true,false,false,official_filing,
+pf-berkeley-parking,prop-berkeley-homes,parking,parking,,5,true,false,false,official_filing,
+pf-berkeley-cctv,prop-berkeley-homes,cctv,security/CCTV,,5,true,false,false,official_filing,
+pf-berkeley-gaming,prop-berkeley-homes,indoor_gaming,Patio gaming zone / pool table,,3,false,false,false,developer,marketing site secondary
+pf-berkeley-kids,prop-berkeley-homes,kids_play,kids play,,3,false,false,false,developer,marketing; not on ESIA roof list
+pf-berkeley-lifts,prop-berkeley-homes,high_speed_lifts,high-speed lifts,,3,false,false,false,developer,marketing
+pf-berkeley-smartlock,prop-berkeley-homes,smart_lock,smart lock,,3,false,false,false,developer,marketing
+pf-berkeley-reception,prop-berkeley-homes,reception,reception,,3,false,false,false,developer,marketing
+pf-berkeley-cowork-nv,prop-berkeley-homes,coworking,co-working,,1,false,true,false,agent,Sir Francis inflated
+pf-berkeley-solar-nv,prop-berkeley-homes,rooftop_solar,solar water heating,,1,false,true,false,agent,Sir Francis
+pf-berkeley-ensuite-nv,prop-berkeley-homes,ensuite,all ensuite,,1,false,true,false,agent,Sir Francis as amenity list item
+pf-lesonia-pool,prop-lesonia-residences,swimming_pool,heated infinity pool,heated infinity,5,true,false,false,developer,homepage
+pf-lesonia-gym,prop-lesonia-residences,gym,modern gym,,5,true,false,false,developer,
+pf-lesonia-sauna,prop-lesonia-residences,sauna,sauna,,5,true,false,false,developer,
+pf-lesonia-yoga,prop-lesonia-residences,yoga,yoga studio,,5,true,false,false,developer,
+pf-lesonia-kids,prop-lesonia-residences,kids_play,children's play area,,5,true,false,false,developer,
+pf-lesonia-cowork,prop-lesonia-residences,coworking,co-working,,5,true,false,false,developer,
+pf-lesonia-cafe,prop-lesonia-residences,restaurant_cafe,art-space café/bar,,5,true,false,false,developer,
+pf-lesonia-lounge,prop-lesonia-residences,lounge,rooftop lounge & garden,,5,true,false,false,developer,
+pf-lesonia-green,prop-lesonia-residences,green_area,open floor garden,,5,true,false,false,developer,
+pf-lesonia-cctv,prop-lesonia-residences,cctv,24/7 CCTV,,5,true,false,false,developer,
+pf-lesonia-access,prop-lesonia-residences,access_control,access control,,5,true,false,false,developer,
+pf-lesonia-parking,prop-lesonia-residences,parking,parking + visitor/Uber parking,,5,true,false,false,developer,
+pf-lesonia-gen,prop-lesonia-residences,backup_generator,backup generator,,5,true,false,false,developer,
+pf-lesonia-borehole,prop-lesonia-residences,borehole,borehole,,5,true,false,false,developer,
+pf-lesonia-conference,prop-lesonia-residences,conference_room,business center / meeting room,,5,true,false,false,developer,
+pf-lesonia-library,prop-lesonia-residences,library,reading area,,5,true,false,false,developer,
+pf-lesonia-spa-nv,prop-lesonia-residences,spa,wellness spa,,2,false,true,false,agent,Austine/Westlands inflate
+pf-lesonia-club-nv,prop-lesonia-residences,clubhouse,clubhouse,,2,false,true,false,agent,
+pf-lesonia-balcony,prop-lesonia-residences,balcony,private balcony garden,,3,false,false,false,agent,balcony garden concept
+pf-plumeria-pool,prop-plumeria-residency,swimming_pool,Swimming pool,,5,true,false,false,official_filing,NEMA
+pf-plumeria-gym,prop-plumeria-residency,gym,gym,,5,true,false,false,official_filing,
+pf-plumeria-kids,prop-plumeria-residency,kids_play,children's playing room,,5,true,false,false,official_filing,
+pf-plumeria-lounge,prop-plumeria-residency,lounge,rooftop terrace,,5,true,false,false,official_filing,
+pf-plumeria-parking,prop-plumeria-residency,parking,basement B1–B3 + ground parking,,5,true,false,false,official_filing,
+pf-plumeria-sec,prop-plumeria-residency,gated_security,security room / gated perimeter,,5,true,false,false,official_filing,
+pf-plumeria-pool-heated-nv,prop-plumeria-residency,swimming_pool,heated pool,heated,3,false,true,false,agent,variant vs NEMA pool
+pf-plumeria-borehole-nv,prop-plumeria-residency,borehole,borehole,,3,false,true,false,agent,
+pf-plumeria-gen-nv,prop-plumeria-residency,backup_generator,full backup generator,,3,false,true,false,agent,
+pf-plumeria-cctv-nv,prop-plumeria-residency,cctv,CCTV / intercom,,3,false,true,false,agent,
+pf-plumeria-lifts-nv,prop-plumeria-residency,high_speed_lifts,high-speed lifts (2/block),,3,false,true,false,agent,
+pf-plumeria-bbq-nv,prop-plumeria-residency,barbecue,BBQ / garden,,3,false,true,false,agent,
+pf-plumeria-cinema-nv,prop-plumeria-residency,cinema,home theater,,1,false,true,false,agent,Flamingo inflate
+pf-plumeria-club-nv,prop-plumeria-residency,clubhouse,club house,,1,false,true,false,agent,
+pf-plumeria-jog-nv,prop-plumeria-residency,jogging_track,jogging track,,1,false,true,false,agent,NRE FAQ
+pf-polaris-gym,prop-polaris-residency,gym,gym,,3,false,true,false,agent,No developer; agent consensus
+pf-polaris-kids,prop-polaris-residency,kids_play,garden & kids' play,,3,false,true,false,agent,
+pf-polaris-gen,prop-polaris-residency,backup_generator,generator,,3,false,true,false,agent,
+pf-polaris-borehole,prop-polaris-residency,borehole,borehole,,3,false,true,false,agent,
+pf-polaris-lifts,prop-polaris-residency,high_speed_lifts,high-speed lifts,,3,false,true,false,agent,
+pf-polaris-parking,prop-polaris-residency,parking,ample parking,,3,false,true,false,agent,
+pf-polaris-cctv,prop-polaris-residency,cctv,CCTV / security,,3,false,true,false,agent,
+pf-polaris-net,prop-polaris-residency,internet_cable,DSTV/internet,,3,false,true,false,agent,
+pf-polaris-green,prop-polaris-residency,green_area,garden,,3,false,true,false,agent,
+pf-polaris-pool-nv,prop-polaris-residency,swimming_pool,pool,,1,false,true,false,agent,CPK intro only — inflate
+pf-polaris-bbq-nv,prop-polaris-residency,barbecue,barbeque,,1,false,true,false,agent,Azipa chips
+pf-golfscape-pool,prop-golfscape-residences,swimming_pool,Swimming pool,,5,true,false,false,developer,
+pf-golfscape-gym,prop-golfscape-residences,gym,well-equipped gym,,5,true,false,false,developer,
+pf-golfscape-green,prop-golfscape-residences,green_area,Landscaped gardens,,5,true,false,false,developer,
+pf-golfscape-kids,prop-golfscape-residences,kids_play,Children's play area,,5,true,false,false,developer,
+pf-golfscape-cafe,prop-golfscape-residences,restaurant_cafe,Coffee Bar Restaurant,,5,true,false,false,developer,
+pf-golfscape-fibre,prop-golfscape-residences,internet_cable,Fibre Internet and Intercom,,5,true,false,false,developer,
+pf-golfscape-lifts,prop-golfscape-residences,high_speed_lifts,High-speed lifts,,5,true,false,false,developer,
+pf-golfscape-gen,prop-golfscape-residences,backup_generator,Full power backup generator,,5,true,false,false,developer,
+pf-golfscape-borehole,prop-golfscape-residences,borehole,Borehole,,5,true,false,false,developer,
+pf-golfscape-water,prop-golfscape-residences,water_storage,Water storage tanks,,5,true,false,false,developer,
+pf-golfscape-sec,prop-golfscape-residences,gated_security,24/7 manned security,,5,true,false,false,developer,
+pf-golfscape-cctv,prop-golfscape-residences,cctv,CCTV,,5,true,false,false,developer,
+pf-golfscape-access,prop-golfscape-residences,access_control,Biometric access,,5,true,false,false,developer,
+pf-golfscape-changing,prop-golfscape-residences,changing_rooms,Male and female changing rooms,,5,true,false,false,developer,
+pf-golfscape-conference,prop-golfscape-residences,conference_room,Multipurpose hall,,5,true,false,false,developer,
+pf-golfscape-reception,prop-golfscape-residences,reception,Management office on-site,,5,true,false,false,developer,
+pf-golfscape-pool-heated-nv,prop-golfscape-residences,swimming_pool,heated pool,heated,2,false,true,false,agent,Reject as canonical
+pf-golfscape-club-nv,prop-golfscape-residences,clubhouse,clubhouse,,1,false,true,false,agent,Vorsa chips
+pf-golfscape-store-nv,prop-golfscape-residences,convenience_store,mini-mart,,1,false,true,false,agent,
+pf-luna-pool,prop-luna-oak-residency,swimming_pool,heated swimming pool,heated,5,true,false,false,developer,oakgroup page
+pf-luna-gym,prop-luna-oak-residency,gym,fully equipped gym,,5,true,false,false,developer,
+pf-luna-kids-in,prop-luna-oak-residency,kids_play,indoor kids play,,5,true,false,false,developer,
+pf-luna-kids-out,prop-luna-oak-residency,kids_play,outdoor children's play,outdoor,5,true,false,false,developer,variant
+pf-luna-green,prop-luna-oak-residency,green_area,central community / courtyard garden,,5,true,false,false,developer,
+pf-luna-cinema,prop-luna-oak-residency,cinema,private cinema,,5,true,false,false,developer,
+pf-luna-yoga,prop-luna-oak-residency,yoga,yoga room,,5,true,false,false,developer,
+pf-luna-gaming,prop-luna-oak-residency,indoor_gaming,game room,,5,true,false,false,developer,
+pf-luna-conference,prop-luna-oak-residency,conference_room,multi-purpose hall,,5,true,false,false,developer,
+pf-luna-reception,prop-luna-oak-residency,reception,elegant main lobby,,5,true,false,false,developer,
+pf-luna-jog-nv,prop-luna-oak-residency,jogging_track,jogging track,,2,false,true,false,agent,
+pf-luna-club-nv,prop-luna-oak-residency,clubhouse,clubhouse/lounge,,2,false,true,false,agent,
+pf-luna-borehole-nv,prop-luna-oak-residency,borehole,borehole,,2,false,true,false,agent,
+pf-luna-gen-nv,prop-luna-oak-residency,backup_generator,backup generator,,2,false,true,false,agent,
+pf-luna-lifts-nv,prop-luna-oak-residency,high_speed_lifts,high-speed lifts,,2,false,true,false,agent,
+pf-luna-cctv-nv,prop-luna-oak-residency,cctv,24/7 CCTV,,2,false,true,false,agent,
+pf-alba-pool,prop-alba-apartments,swimming_pool,Swimming pool,,3,false,true,false,agent,No live developer page; agent consensus
+pf-alba-gym,prop-alba-apartments,gym,gym,,3,false,true,false,agent,
+pf-alba-lifts,prop-alba-apartments,high_speed_lifts,2 high-speed lifts per block,,3,false,true,false,agent,
+pf-alba-kids,prop-alba-apartments,kids_play,kids' play,,3,false,true,false,agent,
+pf-alba-bbq,prop-alba-apartments,barbecue,rooftop BBQ,,3,false,true,false,agent,
+pf-alba-gen,prop-alba-apartments,backup_generator,backup generator,,3,false,true,false,agent,
+pf-alba-borehole,prop-alba-apartments,borehole,borehole,,3,false,true,false,agent,
+pf-alba-cctv,prop-alba-apartments,cctv,CCTV/security,,3,false,true,false,agent,
+pf-ks-solar,prop-kings-summit-nakuru,rooftop_solar,Solar street lighting,,5,true,false,false,developer,street lighting solar
+pf-ks-parking-bay,prop-kings-summit-nakuru,parking_bay,1 parking per apartment,,5,true,false,false,developer,
+pf-ks-sec,prop-kings-summit-nakuru,gated_security,24h controlled-access + boundary wall,,5,true,false,false,developer,
+pf-ks-balcony,prop-kings-summit-nakuru,balcony,balcony with lake view,,5,true,false,false,developer,
+pf-ks-gen,prop-kings-summit-nakuru,backup_generator,backup generator (common areas),,5,true,false,false,developer,
+pf-ks-lifts,prop-kings-summit-nakuru,high_speed_lifts,2 high-speed elevators per block,,5,true,false,false,developer,
+pf-ks-borehole,prop-kings-summit-nakuru,borehole,borehole,,5,true,false,false,developer,
+pf-ks-water,prop-kings-summit-nakuru,water_storage,water storage,,5,true,false,false,developer,
+pf-ks-retail,prop-kings-summit-nakuru,retail_boulevard,retail shops within complex,,5,true,false,false,developer,
+pf-ks-pool-nv,prop-kings-summit-nakuru,swimming_pool,heated pool,,1,false,true,false,agent,Not on developer key features
+pf-ks-gym-nv,prop-kings-summit-nakuru,gym,gym,,1,false,true,false,agent,
+pf-ks-kids-nv,prop-kings-summit-nakuru,kids_play,kids play,,1,false,true,false,agent,
+pf-nouveau-retail,prop-nouveau,retail_boulevard,two floors curated retail,,5,true,false,false,developer,
+pf-nouveau-lounge,prop-nouveau,lounge,rooftop lounge / skyline socials,,5,true,false,false,developer,
+pf-nouveau-jacuzzi,prop-nouveau,jacuzzi,rooftop cold plunge,cold plunge,5,true,false,false,developer,cold plunge ≠ lap pool
+pf-nouveau-green,prop-nouveau,green_area,relaxation deck,,5,true,false,false,developer,
+pf-nouveau-gym-nv,prop-nouveau,gym,gym,,1,false,true,false,agent,Altra chips
+pf-nouveau-pool-nv,prop-nouveau,swimming_pool,swimming pool,,1,false,true,false,agent,Altra — not Hass cold plunge
+pf-nouveau-cctv-nv,prop-nouveau,cctv,CCTV,,1,false,true,false,agent,
+pf-sensei-pool,prop-sensei-nyali,swimming_pool,Infinity lagoon,,5,true,false,false,developer,
+pf-sensei-gym,prop-sensei-nyali,gym,fully fitted gym,,5,true,false,false,developer,
+pf-sensei-lounge,prop-sensei-nyali,lounge,island lounges / Ocean Pavilion / Seaside Lookout,,5,true,false,false,developer,
+pf-sensei-cinema,prop-sensei-nyali,cinema,film lounge,,5,true,false,false,developer,
+pf-sensei-cowork,prop-sensei-nyali,coworking,work studio,,5,true,false,false,developer,
+pf-sensei-kids,prop-sensei-nyali,kids_play,kids sand play park + kids' tide pool,,5,true,false,false,developer,
+pf-sensei-green,prop-sensei-nyali,green_area,courtyards,,5,true,false,false,developer,
+pf-ksq-eld-gated,prop-kings-square-eldoret-ph2,gated_security,Gated,,2,false,true,false,portal,African Vibes chip only — Phase 2 HTML thin
+pf-ksq-eld-lifts,prop-kings-square-eldoret-ph2,high_speed_lifts,Elevator,,2,false,true,false,portal,African Vibes — do not import Phase 1 gym/pool
+pf-cap-pool,prop-capricorn-kilimani,swimming_pool,20 m heated pool,heated 20m,5,true,false,false,developer,indexed + PDF
+pf-cap-gym,prop-capricorn-kilimani,gym,fully equipped / fitted gym,,5,true,false,false,developer,
+pf-cap-yoga,prop-capricorn-kilimani,yoga,yoga studio,,5,true,false,false,developer,
+pf-cap-gaming,prop-capricorn-kilimani,indoor_gaming,adult gaming lounge,,5,true,false,false,developer,
+pf-cap-lounge,prop-capricorn-kilimani,lounge,rooftop lounge/terraces,,5,true,false,false,developer,
+pf-cap-green,prop-capricorn-kilimani,green_area,landscaped gardens / central courtyards,,5,true,false,false,developer,
+pf-cap-reception,prop-capricorn-kilimani,reception,reception,,5,true,false,false,developer,
+pf-cap-kids,prop-capricorn-kilimani,kids_play,kids playroom,,5,true,false,false,developer,PDF
+pf-cap-smart,prop-capricorn-kilimani,smart_home,automated home system,,5,true,false,false,developer,PDF
+pf-cap-borehole-nv,prop-capricorn-kilimani,borehole,borehole,,3,false,true,false,agent,
+pf-cap-gen-nv,prop-capricorn-kilimani,backup_generator,backup generator,,3,false,true,false,agent,
+pf-cap-cctv-nv,prop-capricorn-kilimani,cctv,CCTV/intercom,,3,false,true,false,agent,
+pf-canto-pool,prop-canto,swimming_pool,Heated infinity pool,heated infinity,5,true,false,false,developer,launch + canto page
+pf-canto-gym,prop-canto,gym,rooftop gym,,5,true,false,false,developer,
+pf-canto-minigolf,prop-canto,mini_golf,mini golf lounge,,5,true,false,false,developer,
+pf-canto-cafe,prop-canto,restaurant_cafe,coffee bar,,5,true,false,false,developer,
+pf-canto-cinema,prop-canto,cinema,indoor cinema,,5,true,false,false,developer,
+pf-canto-cowork,prop-canto,coworking,co-working,,5,true,false,false,developer,
+pf-canto-bbq,prop-canto,barbecue,BBQ terrace / sky lounge,,5,true,false,false,developer,
+pf-canto-lounge,prop-canto,lounge,rooftops + lounges,,5,true,false,false,developer,
+pf-canto-parking,prop-canto,parking,5 levels parking,,3,false,true,false,agent,GNA/CPK/catalogue secondary
+pf-canto-kids-nv,prop-canto,kids_play,kids play,,1,false,true,false,agent,Vorsa chips inflated
+pf-canto-club-nv,prop-canto,clubhouse,club house,,1,false,true,false,agent,Vorsa chips
+pf-canto-retail-nv,prop-canto,retail_boulevard,retail centre,,1,false,true,false,agent,Vorsa chips
+pf-ankori-cafe,prop-ankori,restaurant_cafe,Coffee bar / Provisions Store,,5,true,false,false,developer,Hass ankori + blog
+pf-ankori-gym,prop-ankori,gym,Fitness / Gym & Wellness Studio,,5,true,false,false,developer,
+pf-ankori-pool,prop-ankori,swimming_pool,heated infinity pools / Rooftop Oasis,,5,true,false,false,developer,
+pf-ankori-cinema,prop-ankori,cinema,Home Cinema,,5,true,false,false,developer,
+pf-ankori-gaming,prop-ankori,indoor_gaming,Gaming Lounge,,5,true,false,false,developer,
+pf-ankori-lounge,prop-ankori,lounge,Residents Lounge / Sky Terrace / Sky Club,,5,true,false,false,developer,
+pf-ankori-kids,prop-ankori,kids_play,indoor + outdoor kids play,,5,true,false,false,developer,
+pf-ankori-green,prop-ankori,green_area,Cascades / Peace Garden / Golden Lawn / courtyard,,5,true,false,false,developer,
+pf-ankori-cowork,prop-ankori,coworking,Elevate workspaces,,5,true,false,false,developer,Elevate hub
+pf-brook-reception,prop-brookside-oak,reception,2 grand receptions & concierge,,5,true,false,false,developer,microsite
+pf-brook-concierge,prop-brookside-oak,concierge,concierge,,5,true,false,false,developer,
+pf-brook-pool,prop-brookside-oak,swimming_pool,2 rooftop heated pools + 1 indoor heated pool,heated,5,true,false,false,developer,
+pf-brook-padel,prop-brookside-oak,padel,rooftop paddle court,,5,true,false,false,developer,
+pf-brook-gym,prop-brookside-oak,gym,fitness centre,,5,true,false,false,developer,
+pf-brook-cafe,prop-brookside-oak,restaurant_cafe,café,,5,true,false,false,developer,
+pf-brook-store,prop-brookside-oak,convenience_store,minimart,,5,true,false,false,developer,
+pf-brook-cowork,prop-brookside-oak,coworking,working hub,,5,true,false,false,developer,
+pf-brook-kids,prop-brookside-oak,kids_play,indoor children's play,,5,true,false,false,developer,
+pf-brook-green,prop-brookside-oak,green_area,lush gardens,,5,true,false,false,developer,
+pf-brook-club,prop-brookside-oak,clubhouse,residents' clubhouse,,5,true,false,false,developer,
+pf-brook-cinema,prop-brookside-oak,cinema,private cinema,,5,true,false,false,developer,
+pf-brook-sauna,prop-brookside-oak,sauna,exclusive sauna,,5,true,false,false,developer,
+pf-brook-sec,prop-brookside-oak,gated_security,UN-standard security,,5,true,false,false,developer,
+pf-brook-parking,prop-brookside-oak,parking,6 levels B2–3rd floor,,5,true,false,false,developer,
+pf-brook-pharmacy-nv,prop-brookside-oak,pharmacy,Pharmacy,,3,false,true,false,agent,Oak Group chips vs microsite
+pf-brook-yoga-nv,prop-brookside-oak,yoga,yoga,,3,false,true,false,agent,Oak Group chips
+pf-brook-spa-nv,prop-brookside-oak,spa,spa,,3,false,true,false,agent,Oak Group chips
+pf-brook-conf-nv,prop-brookside-oak,conference_room,conference room,,3,false,true,false,agent,Oak Group chips
+pf-kai-pool,prop-kai-diani,swimming_pool,rooftop infinity swimming pool + sunken pool lounge,infinity rooftop,5,true,false,false,developer,brochure + Hass agree
+pf-kai-gym,prop-kai-diani,gym,fully equipped gym,,5,true,false,false,developer,
+pf-kai-lounge,prop-kai-diani,lounge,poolside lounge & bar / cabanas / reception,,5,true,false,false,developer,
+pf-kai-green,prop-kai-diani,green_area,hallway atriums + walkable landscaped rooftop,,5,true,false,false,developer,
+pf-kai-gen,prop-kai-diani,backup_generator,backup generator,,5,true,false,false,developer,
+pf-kai-lifts,prop-kai-diani,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,
+pf-kai-cctv,prop-kai-diani,cctv,24/7 CCTV,,5,true,false,false,developer,
+pf-kai-wifi,prop-kai-diani,wifi,high-speed Wi-Fi,,5,true,false,false,developer,
+pf-kai-sec,prop-kai-diani,gated_security,electric fencing / secure parking / 24h security framing,,5,true,false,false,developer,
+pf-kai-parking,prop-kai-diani,parking,basement parking,,5,true,false,false,developer,
+pf-108-solar,prop-108-residences-diani,rooftop_solar,Solar Generated Power,,5,true,false,false,developer,official amenity tiles
+pf-108-gen,prop-108-residences-diani,backup_generator,Backup Generator,,5,true,false,false,developer,
+pf-108-gym,prop-108-residences-diani,gym,Gym,,5,true,false,false,developer,
+pf-108-pool,prop-108-residences-diani,swimming_pool,Swimming Pool,,5,true,false,false,developer,
+pf-108-concierge,prop-108-residences-diani,concierge,24/7 Concierge,,5,true,false,false,developer,
+pf-108-sec,prop-108-residences-diani,gated_security,24/7 Security,,5,true,false,false,developer,
+pf-108-lounge,prop-108-residences-diani,lounge,Rooftop Terrace,,5,true,false,false,developer,
+pf-108-retail,prop-108-residences-diani,convenience_store,108 Lifestyle retail hub,,5,true,false,false,developer,lifestyle page
+pf-108-parking,prop-108-residences-diani,parking,Car Parking 105,,5,true,false,false,developer,
+pf-108-laundry,prop-108-residences-diani,laundry_shared,Laundry Area,,5,true,false,false,developer,rooftop tab
+pf-108-conf,prop-108-residences-diani,conference_room,Multi Purpose Room ×2,,4,true,false,false,developer,rooftop tab soft
+pf-108-kids-nv,prop-108-residences-diani,kids_play,kids' play,,3,false,true,false,agent,Enin/Homes/CPK not on official tiles
+pf-108-green-nv,prop-108-residences-diani,green_area,landscaped gardens,,3,false,true,false,agent,
+pf-108-borehole-nv,prop-108-residences-diani,borehole,well water / borehole,,3,false,true,false,agent,
+pf-108-water-nv,prop-108-residences-diani,water_storage,water storage,,3,false,true,false,agent,
+pf-108-cctv-nv,prop-108-residences-diani,cctv,CCTV / access control / intercom,,3,false,true,false,agent,
+pf-108-lifts-nv,prop-108-residences-diani,high_speed_lifts,elevators each block,,2,false,true,false,agent,HomesInKenya/Mkaazi — official silent on block count
+pf-108-smart-nv,prop-108-residences-diani,smart_home,smart home,,2,false,true,false,agent,Enin
+pf-fv-pool,prop-forestview-residences,swimming_pool,Heated swimming pool + expansive deck,heated,5,true,false,false,developer,
+pf-fv-gym,prop-forestview-residences,gym,gym with ladies’ & gents’ steam rooms,,5,true,false,false,developer,
+pf-fv-sauna,prop-forestview-residences,sauna,steam rooms (ladies & gents),steam,5,true,false,false,developer,
+pf-fv-jog,prop-forestview-residences,jogging_track,jogging track,,5,true,false,false,developer,
+pf-fv-kids,prop-forestview-residences,kids_play,kids’ play area,,5,true,false,false,developer,
+pf-fv-conf,prop-forestview-residences,conference_room,events hall,,5,true,false,false,developer,
+pf-fv-green,prop-forestview-residences,green_area,manicured gardens / rooftop lawn,,5,true,false,false,developer,
+pf-fv-sec,prop-forestview-residences,gated_security,grand lobby + 24/7 security,,5,true,false,false,developer,
+pf-fv-balcony,prop-forestview-residences,balcony,Large balconies,,5,true,false,false,developer,
+pf-fv-kitchen,prop-forestview-residences,fitted_kitchen,designer Italian kitchens with in-built appliances,,5,true,false,false,developer,
+pf-fv-gen,prop-forestview-residences,backup_generator,generator backup all areas,,4,true,false,false,developer,
+pf-fv-borehole,prop-forestview-residences,borehole,borehole,,4,true,false,false,developer,
+pf-fv-cctv,prop-forestview-residences,cctv,CCTV + electric fence,,4,true,false,false,developer,
+pf-fv-parking,prop-forestview-residences,parking,dedicated + visitor parking,,4,true,false,false,developer,
+pf-fv-lifts,prop-forestview-residences,high_speed_lifts,3 panoramic passenger lifts + 1 service lift,,4,true,false,false,developer,
+pf-dh-balcony,prop-donyo-hill-residences,balcony,very large balconies,,5,true,false,false,developer,
+pf-dh-kitchen,prop-donyo-hill-residences,fitted_kitchen,designer Italian kitchens with in-built appliances,,5,true,false,false,developer,
+pf-dh-lounge,prop-donyo-hill-residences,lounge,panoramic rooftop terrace (Karura Forest views),,5,true,false,false,developer,
+pf-dh-sec,prop-donyo-hill-residences,gated_security,grand entrance lobby with 24/7 security,,5,true,false,false,developer,
+pf-dh-reception,prop-donyo-hill-residences,reception,grand entrance lobby,,5,true,false,false,developer,
+pf-dh-pool-nv,prop-donyo-hill-residences,swimming_pool,Heated pool,,2,false,true,false,agent,CPK/Hauzisha chips — not on Elegant page
+pf-dh-gym-nv,prop-donyo-hill-residences,gym,gym + steam,,2,false,true,false,agent,
+pf-dh-kids-nv,prop-donyo-hill-residences,kids_play,kids trampoline/playground,,2,false,true,false,agent,
+pf-dh-gen-nv,prop-donyo-hill-residences,backup_generator,backup generator,,2,false,true,false,agent,
+pf-dh-borehole-nv,prop-donyo-hill-residences,borehole,borehole,,2,false,true,false,agent,
+pf-dh-cctv-nv,prop-donyo-hill-residences,cctv,CCTV,,2,false,true,false,agent,
+pf-48-pool,prop-48-treehouse,swimming_pool,Heated pool + baby pool,heated,5,true,false,false,developer,
+pf-48-gym,prop-48-treehouse,gym,gymnasium,,5,true,false,false,developer,
+pf-48-kids,prop-48-treehouse,kids_play,children’s playground / trampoline,,5,true,false,false,developer,
+pf-48-jog,prop-48-treehouse,jogging_track,jogging track,,5,true,false,false,developer,
+pf-48-conf,prop-48-treehouse,conference_room,entertainment hall,,5,true,false,false,developer,
+pf-48-green,prop-48-treehouse,green_area,green lawns / landscape garden,,5,true,false,false,developer,
+pf-48-sauna,prop-48-treehouse,sauna,steam; sauna,,5,true,false,false,developer,
+pf-48-kitchen,prop-48-treehouse,fitted_kitchen,designer Italian kitchens; Bosch in-built appliances,,5,true,false,false,developer,
+pf-48-smart,prop-48-treehouse,smart_home,"full home automation (curtains, locks, lighting & music)",,5,true,false,false,developer,
+pf-48-smartlock,prop-48-treehouse,smart_lock,smart locks,,5,true,false,false,developer,
+pf-48-balcony,prop-48-treehouse,balcony,gas fireplaces on balconies,,5,true,false,false,developer,
+pf-48-lifts,prop-48-treehouse,high_speed_lifts,2 glass-back elevators per block,,4,true,false,false,developer,
+pf-sp2-pool,prop-sunpark-residence-ii,swimming_pool,semi-Olympic pool + jacuzzi,semi-Olympic,5,true,false,false,developer,
+pf-sp2-jacuzzi,prop-sunpark-residence-ii,jacuzzi,jacuzzi,,5,true,false,false,developer,
+pf-sp2-gym,prop-sunpark-residence-ii,gym,2-level gym (aerobics + spin),,5,true,false,false,developer,
+pf-sp2-kids,prop-sunpark-residence-ii,kids_play,kids’ park,,5,true,false,false,developer,
+pf-sp2-club,prop-sunpark-residence-ii,clubhouse,Clubhouse / events hall,,5,true,false,false,developer,
+pf-sp2-sauna,prop-sunpark-residence-ii,sauna,sauna,,5,true,false,false,developer,
+pf-sp2-kitchen,prop-sunpark-residence-ii,fitted_kitchen,open-plan fitted kitchen & wardrobes,,5,true,false,false,developer,
+pf-sp2-sec-nv,prop-sunpark-residence-ii,gated_security,24/7 security / CCTV / electric fence,,3,false,true,false,agent,
+pf-sp2-gen-nv,prop-sunpark-residence-ii,backup_generator,backup generator,,3,false,true,false,agent,
+pf-sp2-borehole-nv,prop-sunpark-residence-ii,borehole,borehole(s),,3,false,true,false,agent,
+pf-sp2-lifts-nv,prop-sunpark-residence-ii,high_speed_lifts,elevators per block,,2,false,true,false,agent,
+pf-cit-pool,prop-citrine-heights,swimming_pool,Heated adult + kids pools,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-gym,prop-citrine-heights,gym,gym,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-cafe,prop-citrine-heights,restaurant_cafe,cafeteria,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-green,prop-citrine-heights,green_area,rooftop green garden,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-lifts,prop-citrine-heights,high_speed_lifts,lifts,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-gen,prop-citrine-heights,backup_generator,generator,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-borehole,prop-citrine-heights,borehole,borehole,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-cctv,prop-citrine-heights,cctv,CCTV,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-sec,prop-citrine-heights,gated_security,24hr security,,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-cit-parking,prop-citrine-heights,parking,4 parking levels (2 basement + 2 upper),,3,false,true,false,agent,CPK/Craiova/Habari/Hauzisha — no official Citrine amenities
+pf-aur-pool,prop-auris-residence,swimming_pool,Infinity-edge rooftop pool,infinity rooftop,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-gym,prop-auris-residence,gym,rooftop gym,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-yoga,prop-auris-residence,yoga,yoga/wellness deck,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-sauna,prop-auris-residence,sauna,spa/sauna,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-cinema,prop-auris-residence,cinema,8-seat cinema,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-minigolf,prop-auris-residence,mini_golf,20 m indoor mini-golf,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-lounge,prop-auris-residence,lounge,leisure / reading / coffee lounge,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-bbq,prop-auris-residence,barbecue,BBQ,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-kids,prop-auris-residence,kids_play,kids’ play,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-conf,prop-auris-residence,conference_room,business/conference,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-green,prop-auris-residence,green_area,landscaped art gardens,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-gen,prop-auris-residence,backup_generator,backup generator,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-lifts,prop-auris-residence,high_speed_lifts,high-speed lifts,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-parking,prop-auris-residence,parking,2.5-level parking,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-cctv,prop-auris-residence,cctv,24/7 CCTV security,,3,false,true,false,agent,Ace/Craiova/NRE/Ravi agent consensus
+pf-aur-smartlock,prop-auris-residence,smart_lock,smart lock,,3,false,true,false,agent,Craiova smart lock
+pf-sm-gym,prop-serene-manor,gym,Gym,,5,true,false,false,developer,
+pf-sm-kids,prop-serene-manor,kids_play,kids play area,,5,true,false,false,developer,
+pf-sm-parking,prop-serene-manor,parking,ample parking,,5,true,false,false,developer,
+pf-sm-cowork,prop-serene-manor,coworking,cowork space,,5,true,false,false,developer,
+pf-sm-reception,prop-serene-manor,reception,reception,,5,true,false,false,developer,
+pf-sm-lifts,prop-serene-manor,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,
+pf-sm-lounge,prop-serene-manor,lounge,sky lounge,,5,true,false,false,developer,
+pf-sm-club,prop-serene-manor,clubhouse,club house,,5,true,false,false,developer,
+pf-sm-gen,prop-serene-manor,backup_generator,backup power,,5,true,false,false,developer,
+pf-sm-pool,prop-serene-manor,swimming_pool,pool,,5,true,false,false,developer,
+pf-sm-green,prop-serene-manor,green_area,landscape garden,,5,true,false,false,developer,
+pf-sm-borehole-nv,prop-serene-manor,borehole,borehole,,3,false,true,false,agent,Hauzisha/Sir Francis/NRE
+pf-sm-cctv-nv,prop-serene-manor,cctv,CCTV,,3,false,true,false,agent,
+pf-sm-sec-nv,prop-serene-manor,gated_security,24/7 security,,3,false,true,false,agent,
+pf-sm-sauna-nv,prop-serene-manor,sauna,sauna / cafeteria,,3,false,true,false,agent,Craiova
+pf-libra-cctv,prop-libra-residences,cctv,24-hour CCTV,,5,true,false,false,developer,GLBC Amenities
+pf-libra-kids,prop-libra-residences,kids_play,children's play area,,5,true,false,false,developer,GLBC Amenities
+pf-libra-lifts,prop-libra-residences,high_speed_lifts,high-speed elevator,,5,true,false,false,developer,GLBC Amenities
+pf-libra-solar,prop-libra-residences,rooftop_solar,solar lighting,,5,true,false,false,developer,GLBC Amenities
+pf-libra-green,prop-libra-residences,green_area,landscape garden,,5,true,false,false,developer,GLBC Amenities
+pf-libra-pool,prop-libra-residences,swimming_pool,swimming pool,,5,true,false,false,developer,GLBC Amenities
+pf-libra-access,prop-libra-residences,access_control,intercom,,5,true,false,false,developer,GLBC Amenities
+pf-libra-shop,prop-libra-residences,convenience_store,community shop,,5,true,false,false,developer,GLBC Amenities
+pf-libra-gym,prop-libra-residences,gym,modern gym,,5,true,false,false,developer,GLBC Amenities
+pf-libra-club,prop-libra-residences,clubhouse,modern club house,,5,true,false,false,developer,GLBC Amenities
+pf-oy-pool,prop-only-you,swimming_pool,Heated swimming pool,heated,5,true,false,false,developer,onlyounairobi.com
+pf-oy-gym,prop-only-you,gym,gym + boxing area,boxing,5,true,false,false,developer,onlyounairobi.com
+pf-oy-concierge,prop-only-you,concierge,24-hour butler/concierge,,5,true,false,false,developer,onlyounairobi.com
+pf-oy-access,prop-only-you,access_control,Face ID + fingerprint + card access,face+fingerprint+card,5,true,false,false,developer,onlyounairobi.com
+pf-oy-fingerprint,prop-only-you,fingerprint_access,fingerprint access,,5,true,false,false,developer,onlyounairobi.com
+pf-oy-cctv,prop-only-you,cctv,CCTV,,5,true,false,false,developer,onlyounairobi.com
+pf-gaia-kids,prop-gaia-brookside,kids_play,Children's play area,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-cctv,prop-gaia-brookside,cctv,CCTV,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-lifts,prop-gaia-brookside,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-lounge,prop-gaia-brookside,lounge,sky lounge,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-smart,prop-gaia-brookside,smart_home,smart home,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-pool,prop-gaia-brookside,swimming_pool,swimming pool,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-parking,prop-gaia-brookside,parking,car parking,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-gym,prop-gaia-brookside,gym,modern fitted gym,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-reception,prop-gaia-brookside,reception,reception,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-cafe,prop-gaia-brookside,restaurant_cafe,coffee shop,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-conf,prop-gaia-brookside,conference_room,meeting room,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-yoga,prop-gaia-brookside,yoga,yoga room,,5,true,false,false,developer,Wonder amenity chips
+pf-gaia-spa,prop-gaia-brookside,spa,spa,,5,true,false,false,developer,Wonder amenity chips
+pf-dip-pool,prop-diplomat-residencies,swimming_pool,Rooftop pool / Sky Club,rooftop,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-cafe,prop-diplomat-residencies,restaurant_cafe,rooftop restaurant/café,rooftop,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-gym,prop-diplomat-residencies,gym,fitness centre,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-spa,prop-diplomat-residencies,spa,wellness spa,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-yoga,prop-diplomat-residencies,yoga,yoga lounge,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-kids,prop-diplomat-residencies,kids_play,children's playground,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-conf,prop-diplomat-residencies,conference_room,meeting rooms,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-lounge,prop-diplomat-residencies,lounge,residence lounge,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-concierge,prop-diplomat-residencies,concierge,concierge,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-green,prop-diplomat-residencies,green_area,courtyard garden,courtyard,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-padel,prop-diplomat-residencies,padel,padel/tennis,padel/tennis,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-parking,prop-diplomat-residencies,parking,parking,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-sec,prop-diplomat-residencies,gated_security,24/7 security,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-smart,prop-diplomat-residencies,smart_home,smart home,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-borehole,prop-diplomat-residencies,borehole,borehole,,5,true,false,false,developer,Wonder microsite/brochure
+pf-dip-gen,prop-diplomat-residencies,backup_generator,power backup,,5,true,false,false,developer,Wonder microsite/brochure
+pf-aya-pool,prop-aya-luxury-residence,swimming_pool,Heated/infinity pool + sunken lounge,heated/infinity,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-gym,prop-aya-luxury-residence,gym,gym,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-kids,prop-aya-luxury-residence,kids_play,kids' play,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-yoga,prop-aya-luxury-residence,yoga,yoga garden,garden,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-cafe,prop-aya-luxury-residence,restaurant_cafe,on-site restaurant,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-shop,prop-aya-luxury-residence,convenience_store,supermarket,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-lifts,prop-aya-luxury-residence,high_speed_lifts,8 high-speed lifts,8 lifts,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-solar,prop-aya-luxury-residence,rooftop_solar,solar water heating,solar water,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-gen,prop-aya-luxury-residence,backup_generator,full backup generator,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-sec,prop-aya-luxury-residence,gated_security,24hr security,,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-cctv,prop-aya-luxury-residence,cctv,video intercom/CCTV,video intercom,5,true,false,false,developer,AAD launch / Whitehorse
+pf-aya-access,prop-aya-luxury-residence,access_control,video intercom,,4,true,false,false,developer,AAD launch / Whitehorse
+pf-rhapta-gym,prop-rhapta-one,gym,gym,,3,false,true,false,agent,
+pf-rhapta-pool,prop-rhapta-one,swimming_pool,swimming pool,,3,false,true,false,agent,
+pf-rhapta-kids,prop-rhapta-one,kids_play,children's play,,3,false,true,false,agent,
+pf-rhapta-gen,prop-rhapta-one,backup_generator,backup generator,,3,false,true,false,agent,
+pf-rhapta-bore,prop-rhapta-one,borehole,borehole,,3,false,true,false,agent,
+pf-rhapta-cctv,prop-rhapta-one,cctv,CCTV,,3,false,true,false,agent,
+pf-rhapta-sec,prop-rhapta-one,gated_security,24/7 security,,3,false,true,false,agent,
+pf-rhapta-lifts,prop-rhapta-one,high_speed_lifts,high-speed lifts,,3,false,true,false,agent,
+pf-rhapta-solar,prop-rhapta-one,rooftop_solar,solar water heating,,3,false,true,false,agent,
+pf-alina-cafe,prop-alina-valley,restaurant_cafe,coffee house,,3,false,true,false,agent,
+pf-alina-kids,prop-alina-valley,kids_play,kids play + reading,,3,false,true,false,agent,
+pf-alina-gym,prop-alina-valley,gym,gym,,3,false,true,false,agent,
+pf-alina-green,prop-alina-valley,green_area,Zen garden,,3,false,true,false,agent,
+pf-alina-pool,prop-alina-valley,swimming_pool,swimming pool,,3,false,true,false,agent,
+pf-alina-gen,prop-alina-valley,backup_generator,backup generator,,3,false,true,false,agent,
+pf-alina-bore,prop-alina-valley,borehole,borehole,,3,false,true,false,agent,
+pf-alina-cctv,prop-alina-valley,cctv,CCTV,,3,false,true,false,agent,
+pf-alina-lifts,prop-alina-valley,high_speed_lifts,high-speed lifts,,3,false,true,false,agent,
+pf-alina-park,prop-alina-valley,parking,ample parking,,3,false,true,false,agent,
+pf-alina-fp,prop-alina-valley,fingerprint_access,fingerprint locks,,3,false,true,false,agent,
+pf-mb-pool,prop-montbleu,swimming_pool,rooftop pool,,5,true,false,false,developer,
+pf-mb-gym,prop-montbleu,gym,rooftop fitted gym,,5,true,false,false,developer,
+pf-mb-lounge,prop-montbleu,lounge,sky lounge,,5,true,false,false,developer,
+pf-mb-kids,prop-montbleu,kids_play,children's play area,,5,true,false,false,developer,
+pf-mb-conf,prop-montbleu,conference_room,conference room,,5,true,false,false,developer,
+pf-mb-reception,prop-montbleu,reception,reception lobby,,5,true,false,false,developer,
+pf-mb-club,prop-montbleu,clubhouse,social clubhouse,,5,true,false,false,developer,
+pf-mb-cafe,prop-montbleu,restaurant_cafe,restaurant café,,5,true,false,false,developer,
+pf-mb-shop,prop-montbleu,convenience_store,mini-mart,,5,true,false,false,developer,
+pf-mb-spa,prop-montbleu,spa,spa/salon,,5,true,false,false,developer,
+pf-mb-lifts,prop-montbleu,high_speed_lifts,4 high-speed lifts,,5,true,false,false,developer,
+pf-mb-cctv,prop-montbleu,cctv,CCTV,,5,true,false,false,developer,
+pf-mb-access,prop-montbleu,access_control,smart access,,5,true,false,false,developer,
+pf-mb-bore,prop-montbleu,borehole,borehole,,5,true,false,false,developer,
+pf-mb-solar,prop-montbleu,rooftop_solar,solar water heating,,5,true,false,false,developer,
+pf-mb-gen,prop-montbleu,backup_generator,power backup,,5,true,false,false,developer,
+pf-mb-park,prop-montbleu,parking,car parking,,5,true,false,false,developer,
+pf-mb-smart,prop-montbleu,smart_home,smart-home features,,5,true,false,false,developer,
+pf-mb2-pool,prop-marina-bay-2,swimming_pool,rooftop pool,,3,false,true,false,agent,
+pf-mb2-gym,prop-marina-bay-2,gym,rooftop gym,,3,false,true,false,agent,
+pf-mb2-lounge,prop-marina-bay-2,lounge,sky lounge,,3,false,true,false,agent,
+pf-mb2-kids,prop-marina-bay-2,kids_play,kids play,,3,false,true,false,agent,
+pf-mb2-lifts,prop-marina-bay-2,high_speed_lifts,4 high-speed lifts,,3,false,true,false,agent,
+pf-mb2-bore,prop-marina-bay-2,borehole,borehole,,3,false,true,false,agent,
+pf-mb2-solar,prop-marina-bay-2,rooftop_solar,solar water heating,,3,false,true,false,agent,
+pf-mb2-gen,prop-marina-bay-2,backup_generator,full backup generator,,3,false,true,false,agent,
+pf-mb2-cctv,prop-marina-bay-2,cctv,CCTV,,3,false,true,false,agent,
+pf-mb2-park,prop-marina-bay-2,parking,ample parking,,3,false,true,false,agent,
+pf-atr-pool,prop-atreus-brookside,swimming_pool,rooftop/infinity pool,,4,true,false,false,developer,
+pf-atr-gym,prop-atreus-brookside,gym,gym,,4,true,false,false,developer,
+pf-atr-sauna,prop-atreus-brookside,sauna,sauna/wellness,,4,true,false,false,developer,
+pf-atr-lounge,prop-atreus-brookside,lounge,sky lounge,,4,true,false,false,developer,
+pf-atr-kids,prop-atreus-brookside,kids_play,kids play,,4,true,false,false,developer,
+pf-atr-bore,prop-atreus-brookside,borehole,borehole,,4,true,false,false,developer,
+pf-atr-gen,prop-atreus-brookside,backup_generator,backup generator,,4,true,false,false,developer,
+pf-atr-cctv,prop-atreus-brookside,cctv,CCTV,,4,true,false,false,developer,
+pf-atr-sec,prop-atreus-brookside,gated_security,24/7 security,,4,true,false,false,developer,
+pf-atr-lifts,prop-atreus-brookside,high_speed_lifts,high-speed lifts,,4,true,false,false,developer,
+pf-atr-park,prop-atreus-brookside,parking,parking,,4,true,false,false,developer,
+pf-gp-pool,prop-grand-premier,swimming_pool,heated swimming pool,,5,true,false,false,developer,
+pf-gp-gym,prop-grand-premier,gym,fully equipped gym,,5,true,false,false,developer,
+pf-gp-lounge,prop-grand-premier,lounge,lounge deck / rooftop terraces,,5,true,false,false,developer,
+pf-gp-sec,prop-grand-premier,gated_security,exceptional security,,5,true,false,false,developer,
+pf-gp-solar,prop-grand-premier,rooftop_solar,solar water heating,,5,true,false,false,developer,
+pf-gp-lifts,prop-grand-premier,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,
+pf-gp-bore,prop-grand-premier,borehole,borehole,,5,true,false,false,developer,
+pf-gp-gen,prop-grand-premier,backup_generator,generator,,5,true,false,false,developer,
+pf-rw-pool,prop-rosewood-park,swimming_pool,heated/rooftop pool,,5,true,false,false,developer,
+pf-rw-gym,prop-rosewood-park,gym,fitted gym,,5,true,false,false,developer,
+pf-rw-green,prop-rosewood-park,green_area,landscaped gardens,,5,true,false,false,developer,
+pf-rw-bbq,prop-rosewood-park,barbecue,BBQ / entertainment,,5,true,false,false,developer,
+pf-rw-kids,prop-rosewood-park,kids_play,children's play,,5,true,false,false,developer,
+pf-rw-lifts,prop-rosewood-park,high_speed_lifts,high-speed lifts,,5,true,false,false,developer,
+pf-rw-solar,prop-rosewood-park,rooftop_solar,solar water heating,,5,true,false,false,developer,
+pf-rw-bore,prop-rosewood-park,borehole,borehole,,5,true,false,false,developer,
+pf-rw-gen,prop-rosewood-park,backup_generator,full backup generator,,5,true,false,false,developer,
+pf-rw-cctv,prop-rosewood-park,cctv,CCTV,,5,true,false,false,developer,
+pf-rw-sec,prop-rosewood-park,gated_security,24hr security / electric fence,,5,true,false,false,developer,

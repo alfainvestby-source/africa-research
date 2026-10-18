@@ -1,0 +1,7 @@
+- [ ] GitHub sync — research still in Agent Store; push interrupted earlier (docs+media ~910MB)
+- [ ] Bathroom harvest — still sparse
+- [ ] Medium Hauzisha matches — Alba / Gemini 2 / Gaia / Alina Valley still unlinked
+- [x] Draft developments page brief — [brief](/cursor/stores/self/docs/product/draft-developments-page-brief.md)
+- [x] Pandora URL + exact pin
+- [x] Hauzisha property_id links — **17** · corpus **51**
+- [x] Product checklist #1–8 **LOCKED**

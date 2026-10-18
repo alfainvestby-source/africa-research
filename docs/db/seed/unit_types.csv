@@ -1,0 +1,202 @@
+id,property_id,label,bedrooms,bathrooms,has_dsq,has_study,size_sqm,size_measure,plinth_sqm,gross_sqm,is_canonical,needs_verification,confidence,notes
+ut-pandora-3br-study-dsq,prop-pandora-residences,3BR+study+DSQ,3,,true,true,152.68,unknown,,,true,false,5,Brochure floor plans pp.18–19 canonical
+ut-pandora-4br-dsq,prop-pandora-residences,4BR+DSQ,4,,true,false,194.32,unknown,,,true,false,5,Brochure canonical
+ut-pandora-5br-dsq,prop-pandora-residences,5BR+DSQ,5,,true,false,291.21,unknown,,,true,false,5,Brochure p.19; unit mix official conflict with 2/3/4 BR site claim
+ut-pandora-2br-agent,prop-pandora-residences,2BR (agent bands),2,,false,false,,unknown,,,false,true,3,Size bands 85.34–108.8; inventory sold-out contested
+ut-astra-superior-studio,prop-astra-bay-residence,Superior Studio,0,,false,false,,gross_and_plinth,25.5,31.5,true,false,5,Flyer PDF canonical
+ut-astra-studio,prop-astra-bay-residence,Studio,0,,false,false,,gross_and_plinth,21,26.1,true,false,5,Flyer + HTML
+ut-astra-1br-l1,prop-astra-bay-residence,1 Bedroom Layout 1,1,,false,false,,gross_and_plinth,42.74,53.2,true,false,5,Flyer + HTML
+ut-astra-1br-l2,prop-astra-bay-residence,1 Bedroom Layout 2,1,,false,false,,gross_and_plinth,42.74,53.2,true,false,5,Flyer + HTML
+ut-astra-2br-agent,prop-astra-bay-residence,2BR (agent-only),2,,false,false,78.3,unknown,63,,false,true,3,Not on developer site; Block ~78.3 gross / Craiova ~63 plinth
+ut-porini-1br,prop-porini-point,1 Bedroom,1,,false,false,54,total_area,,,true,false,5,Brochure/info-pack Total area; gross/plinth unknown
+ut-porini-2br,prop-porini-point,2 Bedroom Type 01/02,2,,false,false,90,total_area,,,true,false,5,Brochure/info-pack
+ut-porini-3br,prop-porini-point,3 Bedroom,3,,false,false,145,total_area,,,true,false,5,Brochure/info-pack
+ut-galaxy-1br,prop-galaxy-one,1 Bedroom,1,,false,false,,unknown,,,true,false,5,Canonical band 57–60 sqm developer
+ut-galaxy-2br,prop-galaxy-one,2 Bedroom,2,,false,false,,unknown,,,true,false,5,Canonical band 82–91 sqm
+ut-galaxy-3br,prop-galaxy-one,3 Bedroom,3,,false,false,142,unknown,,,true,false,5,Developer 142 sqm band
+ut-gemini2-1br,prop-gemini-residency-phase-2,1 Bedroom,1,,,,,unknown,,,true,false,5,Developer 1BR; agent sizes 58/67 (56 Malluug) secondary
+ut-gemini2-2br,prop-gemini-residency-phase-2,2 Bedroom,2,,,,,unknown,,,true,false,5,Developer 2BR; agent sizes 90/110/122 secondary
+ut-diamond-1br,prop-diamond-bay-residences,1 Bedroom,1,,false,false,68,unknown,,,true,false,5,henbon product
+ut-diamond-2br,prop-diamond-bay-residences,2 Bedroom,2,,,false,,unknown,,,true,false,5,115–145 sqm henbon
+ut-diamond-3br-ph,prop-diamond-bay-residences,3-Bedroom Penthouse/duplex,3,,false,false,134,unknown,,,true,false,5,
+ut-diamond-3br-silver-agent,prop-diamond-bay-residences,3 Bedroom Duplex Silver (agent),3,,false,false,127,unknown,,,false,true,2,Not on henbon product pages
+ut-diamond-4br-study,prop-diamond-bay-residences,4-Bedroom Penthouse + Study,4,,false,true,211,unknown,,,true,false,5,
+ut-diamond-4br-dsq,prop-diamond-bay-residences,4-Bedroom Penthouse + Study + DSQ,4,,true,true,253,unknown,,,true,false,5,
+ut-diamond-5br,prop-diamond-bay-residences,5-Bedroom Duplex / Penthouse + DSQ + Study,5,,true,true,265,unknown,,,true,false,5,
+ut-misty-1br,prop-misty-springs,1 Bedroom,1,,false,false,58,plinth,58,,false,true,3,Own It plinth; no developer schedule
+ut-misty-2br-90,prop-misty-springs,2 Bedroom 90sqm,2,,false,false,90,plinth,90,,false,true,3,Own It plinth
+ut-misty-2br-99,prop-misty-springs,2 Bedroom 99sqm,2,,false,false,99,plinth,99,,false,true,3,Own It plinth
+ut-golden-1br,prop-golden-mansion,1 Bedroom,1,,,,,unknown,,,true,false,5,EIA mix 324 units; agent sizes secondary
+ut-golden-2br,prop-golden-mansion,2 Bedroom,2,,,,,unknown,,,true,false,5,EIA 108
+ut-golden-3br,prop-golden-mansion,3 Bedroom,3,,,,,unknown,,,true,false,5,EIA 8
+ut-golden-studio-a5,prop-golden-mansion,Studio Type A5 (Block),0,,,,41.22,unknown,,,false,true,2,Absent from EIA bedroom mix
+ut-longines-studio,prop-longines-bay-kilimani,Studio,0,,false,false,,unknown,,,true,false,5,39–48 sqm developer
+ut-longines-1br,prop-longines-bay-kilimani,1 Bedroom,1,,false,false,72,unknown,,,true,false,5,
+ut-longines-2br,prop-longines-bay-kilimani,2 Bedroom,2,,false,false,,unknown,,,true,false,5,87–94 sqm developer
+ut-longines-duplex,prop-longines-bay-kilimani,Premium 3- & 5-bedroom duplexes,,,,,,unknown,,,true,false,5,132–179 sqm developer
+ut-berkeley-studio,prop-berkeley-homes,Studio,0,,false,false,,unknown,,,true,false,5,ESIA mix 38 studios
+ut-berkeley-1br,prop-berkeley-homes,1 Bedroom,1,,false,false,,unknown,,,true,false,5,ESIA 152
+ut-berkeley-2br,prop-berkeley-homes,2 Bedroom,2,,false,false,,unknown,,,true,false,5,ESIA 171
+ut-lesonia-1br,prop-lesonia-residences,1 Bedroom,1,,false,false,55,unknown,,,true,false,5,Homepage table 55–68 sqm band
+ut-lesonia-2br,prop-lesonia-residences,2 Bedroom,2,,false,false,110,unknown,,,true,false,5,Homepage 110–115 sqm
+ut-lesonia-3br,prop-lesonia-residences,3 Bedroom,3,,false,false,150,unknown,,,true,false,5,Homepage 150–155 sqm
+ut-plumeria-2br,prop-plumeria-residency,2 Bedroom,2,,false,false,105,plinth,,,true,false,5,NEMA program 2BR; Own It plinth sizes secondary detail
+ut-plumeria-3br,prop-plumeria-residency,3 Bedroom,3,,false,false,130,plinth,,,true,false,5,NEMA program 3BR
+ut-plumeria-4br-ph-nv,prop-plumeria-residency,4BR Penthouse (agent),4,,false,false,233,unknown,,,false,true,2,Agent-only; absent from NEMA 2/3BR program
+ut-plumeria-5br-ph-nv,prop-plumeria-residency,5BR Penthouse (agent),5,,false,false,260,unknown,,,false,true,2,Agent-only NV
+ut-polaris-1br,prop-polaris-residency,1 Bedroom,1,,false,false,60,plinth,,,false,true,3,Own It 650 sq.ft plinth ~60 sqm; no developer
+ut-polaris-1br-study,prop-polaris-residency,1 Bedroom + study,1,,false,true,62,plinth,,,false,true,3,Own It 670/750 plinth bands
+ut-polaris-2br,prop-polaris-residency,2 Bedroom,2,,false,false,90,plinth,,,false,true,3,Own It 970/1150 plinth
+ut-golfscape-1br-e,prop-golfscape-residences,1 Bedroom Type E,1,,false,false,46.1,unknown,,,true,false,5,Official list lowest 1BR 5.6M
+ut-golfscape-1br-a,prop-golfscape-residences,1 Bedroom Type A,1,,false,false,57.56,unknown,,,true,false,5,Official list
+ut-golfscape-2br,prop-golfscape-residences,2 Bedroom,2,,false,false,102.88,unknown,,,true,false,5,Block 3 official
+ut-golfscape-3br,prop-golfscape-residences,3 Bedroom,3,,false,false,114,unknown,,,true,false,5,Block 3 official
+ut-golfscape-ph,prop-golfscape-residences,Penthouse,0,,false,false,221.31,unknown,,,true,false,5,Official penthouse codes A16P*/B16P*; agents style 4BR+DSQ NV
+ut-luna-2br,prop-luna-oak-residency,2 Bedroom,2,,false,false,115,unknown,,,true,false,5,NEMA+Oak agree 2/3/4BR; size agent secondary
+ut-luna-3br,prop-luna-oak-residency,3 Bedroom,3,,false,false,153,unknown,,,true,false,5,Agent size bands 153–160
+ut-luna-3br-dsq,prop-luna-oak-residency,3 Bedroom + DSQ,3,,true,false,209,unknown,,,true,false,5,Select +DSQ
+ut-luna-4br-dsq,prop-luna-oak-residency,4 Bedroom + DSQ,4,,true,false,247,unknown,,,true,false,5,
+ut-alba-studio,prop-alba-apartments,Studio,0,,false,false,22,plinth,,,false,true,3,Own It/agent; plinth on selected rows
+ut-alba-junior-1br,prop-alba-apartments,Junior 1 Bedroom,1,,false,false,31,plinth,,,false,true,3,
+ut-alba-1br,prop-alba-apartments,1 Bedroom (Big),1,,false,false,40,plinth,,,false,true,3,
+ut-alba-2br,prop-alba-apartments,2 Bedroom,2,,false,false,53,plinth,,,false,true,3,
+ut-libra-3br-sq,prop-libra-residences,3 Bedroom + SQ,3,,true,false,193,unknown,,,true,false,5,GLBC Plans 3B+SQ
+ut-libra-4br-dsq-250,prop-libra-residences,4 Bedroom + DSQ,4,,true,false,250,unknown,,,true,false,5,GLBC Plans
+ut-libra-4br-sq-258,prop-libra-residences,4 Bedroom + SQ (258),4,,true,false,258,unknown,,,true,false,5,GLBC Plans variant
+ut-libra-4br-sq-264,prop-libra-residences,4 Bedroom + SQ (264),4,,true,false,264,unknown,,,true,false,5,GLBC Plans variant
+ut-libra-4br-sq-265,prop-libra-residences,4 Bedroom + SQ (265),4,,true,false,265,unknown,,,true,false,5,GLBC Plans variant
+ut-libra-5br-sq,prop-libra-residences,5 Bedroom + SQ,5,,true,false,285,unknown,,,true,false,5,GLBC Plans 285; Overview band 284 soft conflict
+ut-oy-3br,prop-only-you,3 Bedroom + DSQ,3,,true,false,210,unknown,,,true,false,5,EIA mix 38; size agent ~205–217 conf3
+ut-oy-4br,prop-only-you,4 Bedroom + DSQ,4,,true,false,290,unknown,,,true,false,5,EIA mix 57; size agent ~276–302 conf3
+ut-oy-5br,prop-only-you,5 Bedroom + DSQ,5,,true,false,359,unknown,,,true,false,5,EIA mix 19; size agent ~358–360 conf3
+ut-oy-ph,prop-only-you,Penthouse (4/5/6BR),5,,false,false,,unknown,,,true,false,5,EIA 1+3+2 penthouses; size agent up to ~521 conf3
+ut-gaia-3br,prop-gaia-brookside,3 Bedroom,3,,false,false,180,unknown,,,false,true,3,Agent claim set; Wonder soft 3/4/5BR
+ut-gaia-3br-dsq,prop-gaia-brookside,3 Bedroom + DSQ,3,,true,false,210,unknown,,,false,true,3,Agent densest 192/210/219
+ut-gaia-4br,prop-gaia-brookside,4 Bedroom,4,,false,false,256,unknown,,,false,true,3,Agent
+ut-gaia-4br-dsq,prop-gaia-brookside,4 Bedroom + DSQ,4,,true,false,275,unknown,,,false,true,3,Agent
+ut-gaia-5br-dsq,prop-gaia-brookside,5 Bedroom + DSQ,5,,true,false,365,unknown,,,false,true,3,Agent 365/387
+ut-dip-1br-a,prop-diplomat-residencies,Mini 1BR / Studio Type A,1,,false,false,43,unknown,,,false,true,3,Agent; Hauzisha Studio chip vs developer 1&2BR NV
+ut-dip-1br-b,prop-diplomat-residencies,1 Bedroom Type B,1,,false,false,52,unknown,,,false,true,3,Agent
+ut-dip-1br-c,prop-diplomat-residencies,1 Bedroom Type C,1,,false,false,76,unknown,,,false,true,3,Agent; some sold out claims
+ut-dip-1br-d,prop-diplomat-residencies,1 Bedroom Type D,1,,false,false,88,unknown,,,false,true,3,Agent; some sold out claims
+ut-dip-2br-e,prop-diplomat-residencies,2 Bedroom Type E,2,,false,false,113,unknown,,,false,true,3,Agent
+ut-dip-2br-f,prop-diplomat-residencies,2 Bedroom Type F / executive,2,,false,false,142,unknown,,,false,true,3,Agent; KF 139 soft
+ut-aya-1br,prop-aya-luxury-residence,Mini 1BR / studio,1,,false,false,49,unknown,,,false,true,4,Agent matrix
+ut-aya-2br,prop-aya-luxury-residence,2 Bedroom,2,,false,false,125,unknown,,,false,true,4,Agent matrix
+ut-aya-3br-dsq,prop-aya-luxury-residence,3 Bedroom + DSQ,3,,true,false,208,unknown,,,false,true,4,Agent matrix
+ut-aya-4br-dsq,prop-aya-luxury-residence,4 Bedroom + DSQ,4,,true,false,262,unknown,,,false,true,4,Agent matrix
+ut-aya-3br-duplex,prop-aya-luxury-residence,3 Bedroom duplex + DSQ,3,,true,false,221,unknown,,,false,true,4,Agent 221/265/280
+ut-aya-4br-duplex,prop-aya-luxury-residence,4 Bedroom duplex + DSQ,4,,true,false,400,unknown,,,false,true,4,Agent matrix
+ut-aya-villa-3br,prop-aya-luxury-residence,3 Bedroom duplex garden villa,3,,false,false,255,unknown,,,false,true,4,Agent 255/347
+ut-aya-villa-4br,prop-aya-luxury-residence,4 Bedroom duplex garden villa,4,,false,false,609,unknown,,,false,true,4,Agent matrix
+ut-aya-villa-6br,prop-aya-luxury-residence,6 Bedroom duplex garden villa,6,,false,false,740,unknown,,,false,true,4,Agent matrix
+ut-aya-sky-5br,prop-aya-luxury-residence,5 Bedroom duplex sky villa,5,,false,false,488,unknown,,,false,true,4,Agent matrix
+ut-aya-sky-6br,prop-aya-luxury-residence,6 Bedroom duplex sky villa,6,,false,false,503,unknown,,,false,true,4,Agent matrix
+ut-aya-triplex-5br,prop-aya-luxury-residence,5 Bedroom triplex sky villa,5,,false,false,360,unknown,,,false,true,4,Agent 360/418/580
+ut-kings-summit-3br,prop-kings-summit-nakuru,3 Bedroom,3,2,false,false,120,plinth,120,,true,false,5,Developer 120 sqm; Craiova tags plinth; bathrooms=2 developer project page conf5 (2026-10-17 hygiene)
+ut-nouveau-1br,prop-nouveau,1 Bedroom,1,,false,false,51,unknown,,,true,false,5,HassConsult 1&2 bed; size Altra 51 sqm NV detail
+ut-nouveau-2br,prop-nouveau,2 Bedroom,2,,false,false,,unknown,,,true,false,5,
+ut-nouveau-mini-1br-nv,prop-nouveau,Mini one-bedroom (blog),1,,false,false,,unknown,,,false,true,2,Rent table only — not sales typology on project page
+ut-sensei-1br,prop-sensei-nyali,1 Bedroom,1,,false,false,,unknown,,,true,false,5,HassConsult 1–4 bed residences
+ut-sensei-2br,prop-sensei-nyali,2 Bedroom,2,,false,false,,unknown,,,true,false,5,
+ut-sensei-3br,prop-sensei-nyali,3 Bedroom,3,,false,false,,unknown,,,true,false,5,
+ut-sensei-duplex,prop-sensei-nyali,1–4 Bedroom duplex residences,0,,false,false,,unknown,,,true,false,5,Investment Collection beds 1–4
+ut-ksq-eld-2br,prop-kings-square-eldoret-ph2,2 Bedroom,2,,false,false,89,unknown,,,true,false,5,Developer Phase 2 typed
+ut-ksq-eld-3br,prop-kings-square-eldoret-ph2,3 Bedroom,3,,false,false,101,unknown,,,true,false,5,Developer Phase 2 typed
+ut-capricorn-1br,prop-capricorn-kilimani,1 Bedroom,1,,false,false,70.3,unknown,,,true,false,5,Proxima PDF floor plan
+ut-capricorn-2br,prop-capricorn-kilimani,2 Bedroom,2,,false,false,102.5,unknown,,,true,false,5,Proxima PDF
+ut-capricorn-3br,prop-capricorn-kilimani,3 Bedroom,3,,false,false,131.2,unknown,,,true,false,5,PDF 131.2; A-list 131.1
+ut-canto-studio,prop-canto,Studio,0,,false,false,,unknown,,,true,false,5,VAAL studio+1BR program
+ut-canto-1br,prop-canto,1 Bedroom,1,,false,false,,unknown,,,true,false,5,
+ut-ankori-1br,prop-ankori,1 Bedroom,1,,false,false,,unknown,,,true,false,5,City Side / Valley Side dual living
+ut-ankori-2br,prop-ankori,2 Bedroom,2,,false,false,,unknown,,,true,false,5,
+ut-ankori-3br,prop-ankori,3 Bedroom,3,,false,false,,unknown,,,true,false,5,Valley Side
+ut-brook-1br-65,prop-brookside-oak,Classic 1BR 65㎡,1,,false,false,65,unknown,,,true,false,5,Microsite
+ut-brook-1br-75,prop-brookside-oak,Premier 1BR 75㎡,1,,false,false,75,unknown,,,true,false,5,
+ut-brook-1br-89,prop-brookside-oak,Luxurious 1BR 89㎡,1,,false,false,89,unknown,,,true,false,5,
+ut-brook-2br-100,prop-brookside-oak,Classic 2BR 100㎡,2,,false,false,100,unknown,,,true,false,5,
+ut-brook-2br-118,prop-brookside-oak,Premier 2BR 118㎡,2,,false,false,118,unknown,,,true,false,5,
+ut-brook-3br-145,prop-brookside-oak,Classic 3BR 145㎡,3,,false,false,145,unknown,,,true,false,5,
+ut-brook-3br-dsq,prop-brookside-oak,Luxurious 3BR+DSQ 172㎡,3,,true,false,172,unknown,,,true,false,5,
+ut-brook-3br-study-dsq,prop-brookside-oak,Luxury 3BR+Study+DSQ 200㎡,3,,true,true,200,unknown,,,true,false,5,Penthouse-labelled on forms
+ut-kai-1br,prop-kai-diani,1 Bedroom,1,,false,false,,unknown,,,false,false,4,Marketed 1&2BR; taxonomy NDI with studio/mini
+ut-kai-2br,prop-kai-diani,2 Bedroom,2,,false,false,,unknown,,,false,false,4,
+ut-kai-studio-nv,prop-kai-diani,Studio (architect/award),0,,false,false,,unknown,,,false,true,3,OMT/IADA — NDI vs marketed mix
+ut-kai-mini-1br-nv,prop-kai-diani,Mini 1 Bed (brochure plan),1,,false,false,,unknown,,,false,true,3,Brochure floor plan; NDI
+ut-108-studio,prop-108-residences-diani,Studio,0,,false,false,50,unknown,,,true,false,5,Official 50/67 sqm types
+ut-108-1br,prop-108-residences-diani,1 Bedroom,1,,false,false,83,unknown,,,true,false,5,Official 83/92
+ut-108-2br,prop-108-residences-diani,2 Bedroom,2,,false,false,108,unknown,,,true,false,5,Official 108/129
+ut-108-3br,prop-108-residences-diani,3 Bedroom,3,,false,false,190,unknown,,,true,false,5,
+ut-fv-2br,prop-forestview-residences,2 Bedroom,2,,false,false,193,unknown,,,true,false,4,A-list 193/195; brochure Unit 01/02 ~192.78/194.89
+ut-fv-2br-dsq,prop-forestview-residences,2 Bedroom + DSQ,2,,true,false,216,unknown,,,true,false,4,Brochure Unit 05 215.75
+ut-fv-3br,prop-forestview-residences,3 Bedroom,3,,false,false,244,unknown,,,true,false,4,Brochure Unit 03 243.72
+ut-fv-3br-dsq,prop-forestview-residences,3 Bedroom + DSQ,3,,true,false,270,unknown,,,true,false,4,Brochure 270/338/340 band
+ut-dh-2br,prop-donyo-hill-residences,2 Bedroom,2,,false,false,228,unknown,,,true,false,5,Official band entry ~2450 sqft; agents 228/236
+ut-dh-3br,prop-donyo-hill-residences,3 Bedroom,3,,false,false,,unknown,,,true,false,5,Within official sqft band; agent typed 275–335
+ut-dh-4br,prop-donyo-hill-residences,4 Bedroom,4,,false,false,550,unknown,,,true,false,5,~5920 sqft top of Featured band
+ut-48th-4br,prop-48-treehouse,4 Bedroom,4,5,false,false,,unknown,,,true,true,5,Single typology; brochure 5280/5455 sqft; Featured from 5338 NDI; bathrooms=5 agent/portal conf3 NV (Hauzisha/Block) — 2026-10-17 hygiene
+ut-sp2-2br,prop-sunpark-residence-ii,2 Bedroom,2,,false,false,107,unknown,,,true,false,5,Official from 1150 sqft; agents ~1152
+ut-sp2-3br,prop-sunpark-residence-ii,3 Bedroom,3,,false,false,150,unknown,,,true,false,5,Official 2&3BR program
+ut-sp2-1br-nv,prop-sunpark-residence-ii,1 Bedroom (agent),1,,false,false,103,unknown,,,false,true,3,Agent Phase II tables only — not on Elegant II page
+ut-sp2-2br-dsq-nv,prop-sunpark-residence-ii,2 Bedroom + DSQ (agent),2,,true,false,121,unknown,,,false,true,3,Agent only
+ut-sp2-3br-dsq-nv,prop-sunpark-residence-ii,3 Bedroom + DSQ (agent),3,,true,false,169,unknown,,,false,true,3,Agent only
+ut-cit-1br,prop-citrine-heights,1 Bedroom,1,,false,false,68,unknown,,,false,true,3,Agent typed — no official Citrine page
+ut-cit-2br,prop-citrine-heights,2 Bedroom,2,,false,false,105,unknown,,,false,true,3,
+ut-cit-2br-dsq,prop-citrine-heights,2 Bedroom + DSQ,2,,true,false,125,unknown,,,false,true,3,Hauzisha mix omits DSQ
+ut-aur-studio,prop-auris-residence,Studio,0,,false,false,36,unknown,,,false,true,3,Multi-agent consensus
+ut-aur-1br,prop-auris-residence,1 Bedroom,1,,false,false,72,unknown,,,false,true,3,Also 75 sqm variant
+ut-aur-2br,prop-auris-residence,2 Bedroom,2,,false,false,105,unknown,,,false,true,3,Also 110 sqm variant
+ut-sm-1br,prop-serene-manor,1 Bedroom,1,,false,false,56,unknown,,,true,false,5,Official 1–4BR program; size agent
+ut-sm-2br,prop-serene-manor,2 Bedroom,2,,false,false,,unknown,,,true,false,5,
+ut-sm-3br,prop-serene-manor,3 Bedroom,3,,false,false,,unknown,,,true,false,5,
+ut-sm-4br,prop-serene-manor,4 Bedroom,4,,false,false,,unknown,,,true,false,5,
+ut-sm-8br-ph,prop-serene-manor,8 Bedroom duplex penthouse,8,,false,false,,unknown,,,true,false,5,Official exclusive duplex PH
+ut-sm-studio-nv,prop-serene-manor,Studio (Hauzisha),0,,false,false,28,unknown,,,false,true,2,Portal only — not on official mix
+ut-rhapta-1br,prop-rhapta-one,1 Bedroom,1,,false,false,71,unknown,,,false,true,3,Agent consensus
+ut-rhapta-2br,prop-rhapta-one,2 Bedroom all en-suite,2,,false,false,110,unknown,,,false,true,3,Agent
+ut-rhapta-2br-dsq,prop-rhapta-one,2 Bedroom + DSQ,2,,true,false,131,unknown,,,false,true,3,Agent
+ut-alina-2br,prop-alina-valley,2 Bedroom,2,,false,false,102,unknown,,,false,true,3,Agent ~100–112
+ut-alina-2br-dsq,prop-alina-valley,2 Bedroom + DSQ,2,,true,false,127,unknown,,,false,true,3,Agent
+ut-alina-3br,prop-alina-valley,3 Bedroom,3,,false,false,132,unknown,,,false,true,3,Agent
+ut-alina-4br,prop-alina-valley,4 Bedroom,4,,false,false,156,unknown,,,false,true,3,Agent
+ut-alina-4br-dsq,prop-alina-valley,4 Bedroom + DSQ,4,,true,false,175,unknown,,,false,true,3,Agent denser
+ut-mb-1br-std,prop-montbleu,Standard 1BR Type B/F,1,,false,false,60,unknown,,,true,false,5,montbleu.co.ke
+ut-mb-1br-prem,prop-montbleu,Premium 1BR Type C/G,1,,false,false,61,unknown,,,true,false,4,Official
+ut-mb-2br-std,prop-montbleu,Standard 2BR Type D/H,2,,false,false,104,unknown,,,true,false,4,Official
+ut-mb-2br-prem,prop-montbleu,Premium 2BR + DSQ Type A/E,2,,true,false,116,unknown,,,true,false,4,Official
+ut-marina2-1br,prop-marina-bay-2,1 Bedroom,1,,false,false,67,unknown,,,false,true,4,Agent; widely sold out claims
+ut-marina2-1br-p,prop-marina-bay-2,1 Bedroom premium,1,,false,false,70,unknown,,,false,true,4,Agent
+ut-marina2-2br-dsq,prop-marina-bay-2,2 Bedroom + DSQ,2,,true,false,135,unknown,,,false,true,4,Agent 130/135/145
+ut-marina2-3br-dsq,prop-marina-bay-2,3 Bedroom + DSQ,3,,true,false,198,unknown,,,false,true,4,Agent
+ut-atreus-1br,prop-atreus-brookside,1 Bedroom,1,,false,false,65,unknown,,,true,false,5,EIA mix 18; size agent
+ut-atreus-1br-study,prop-atreus-brookside,1 Bedroom + Study,1,,false,true,73,unknown,,,true,false,5,EIA 36
+ut-atreus-2br,prop-atreus-brookside,2 Bedroom,2,,false,false,101,unknown,,,true,false,5,EIA 18; size agent
+ut-atreus-2br-study,prop-atreus-brookside,2 Bedroom + Study,2,,false,true,112,unknown,,,true,false,5,EIA 54
+ut-atreus-2br-dsq,prop-atreus-brookside,2 Bedroom + DSQ,2,,true,false,132,unknown,,,true,false,5,EIA 36
+ut-atreus-3br-dsq,prop-atreus-brookside,3 Bedroom + DSQ,3,,true,false,169,unknown,,,true,false,5,EIA 36; total 198
+ut-gp-1br,prop-grand-premier,1 Bedroom,1,,false,false,74,unknown,,,false,true,4,Samambo/CPK ~73.8–75
+ut-gp-2br,prop-grand-premier,2 Bedroom,2,,false,false,140,unknown,,,false,true,4,Samambo ~139.8
+ut-gp-3br-dsq,prop-grand-premier,3 Bedroom + DSQ,3,,true,false,183,unknown,,,false,true,4,Samambo
+ut-gp-duplex,prop-grand-premier,3 Bedroom duplex,3,,false,false,,unknown,,,false,true,2,AAD/Hauzisha — size unknown
+ut-rw-3br-dsq,prop-rosewood-park,3 Bedroom + DSQ Types A–F,3,,true,false,210,unknown,,,true,false,5,Milligan mix; size agent ~194–230
+ut-lulu-mini,prop-237-lulu,Mini 1 / Studio,0,,,,41,unknown,,,true,false,4,Mi Vida/CPK ~41
+ut-lulu-1br,prop-237-lulu,1 Bedroom,1,,,,50,unknown,,,true,false,5,Mi Vida typed
+ut-lulu-2br,prop-237-lulu,2 Bedroom,2,,,,73,unknown,,,true,false,5,Mi Vida typed
+ut-lulu-3br,prop-237-lulu,3 Bedroom,3,,,,102,unknown,,,true,false,5,Mi Vida typed
+ut-hp336-2br,prop-highpoint-336,2 Bedroom,2,,,,99.1,unknown,,,false,true,3,NRE matrix low
+ut-hp336-3br,prop-highpoint-336,3 Bedroom,3,,,,,unknown,,,false,true,3,Agent matrices
+ut-hp336-4br-ph,prop-highpoint-336,4 Bedroom + DSQ duplex PH,4,,true,,,unknown,,,false,true,3,Agent
+ut-jabali-studio,prop-jabali-towers,Studio,0,,,,49,unknown,,,false,true,4,Now-selling 49 vs FAQ 41–74 NDI
+ut-jabali-1br,prop-jabali-towers,1 Bedroom,1,,,,,unknown,,,true,true,5,FAQ types; size NDI
+ut-jabali-2br,prop-jabali-towers,2 Bedroom,2,,,,,unknown,,,true,true,5,Size NDI
+ut-jabali-3br,prop-jabali-towers,3 Bedroom,3,,,,,unknown,,,true,true,5,Size NDI
+ut-jabali-3br-duplex,prop-jabali-towers,3 Bedroom Duplex,3,,,,,unknown,,,true,true,5,FAQ
+ut-jabali-ph,prop-jabali-towers,Penthouse,,,,,,unknown,,,true,true,5,FAQ
+ut-balkis-1br,prop-balkis-residences,1 Bedroom,1,,,,66,gross,,,false,true,3,Agent matrix; official size NDI
+ut-balkis-2br,prop-balkis-residences,2 Bedroom,2,,,,109,gross,,,false,true,3,Agent
+ut-balkis-2br-dsq,prop-balkis-residences,2 Bedroom + DSQ,2,,true,,128,gross,,,false,true,3,Agent
+ut-balkis-3br-dsq,prop-balkis-residences,3 Bedroom + DSQ,3,,true,,200,gross,,,false,true,3,Agent
+ut-hephe-studio,prop-hephe-palace,Studio,0,,,,48,unknown,,,false,true,3,Agent sheet
+ut-hephe-1br,prop-hephe-palace,1 Bedroom,1,,,,69,unknown,,,false,true,3,Agent 67–72
+ut-hephe-2br,prop-hephe-palace,2 Bedroom,2,,,,109,unknown,,,false,true,3,Agent
+ut-hephe-3br-dsq,prop-hephe-palace,3 Bedroom + DSQ,3,,true,,158,unknown,,,false,true,3,Agent 158–168

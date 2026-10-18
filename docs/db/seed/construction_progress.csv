@@ -1,0 +1,16 @@
+id,property_id,as_of_date,pct_complete,floor_label,block_label,confidence,is_canonical,needs_verification,needs_developer_input,notes
+prog-galaxy-product-63,prop-galaxy-one,2026-10-15,63,12 of 19,,3,false,false,true,lionston product page — official snapshot A; conflicts with tracker; NDI; candidate field
+prog-galaxy-tracker-42,prop-galaxy-one,2026-09-01,42,9 of 19,Block A,3,false,false,true,construction tracker ~Sep 2026; do not average with 63%; NDI
+prog-galaxy-tracker-b7,prop-galaxy-one,2026-09-01,,7 of 19,Block B,3,false,false,true,Same tracker snapshot Block B; NDI set with sibling progress rows
+prog-gemini2-excavation-97,prop-gemini-residency-phase-2,2026-08-31,,97% excavation,Phase 2,4,false,false,false,Staroot LinkedIn 31 Aug 2026 — candidate field; developer social
+prog-diamond-jan7,prop-diamond-bay-residences,2026-01-01,,7th floor,,4,false,false,false,Henbon LinkedIn Jan 2026
+prog-diamond-apr17,prop-diamond-bay-residences,2026-04-01,,17th floor,,4,false,false,false,Henbon LinkedIn Apr 2026
+prog-diamond-jul25,prop-diamond-bay-residences,2026-07-01,,25th and final floor shell,,4,false,false,false,Henbon LinkedIn Jul 2026 — shell complete; conflicts with agent 23/22 storey claims (separate NV)
+prog-lesonia-nre-58,prop-lesonia-residences,2026-10-16,58,,,1,false,true,false,NRE UI only — no developer tracker
+prog-plumeria-nre-88,prop-plumeria-residency,2026-10-16,88,,,2,false,true,false,NRE Finishing 88% — agent UI NV
+prog-golfscape-home-85,prop-golfscape-residences,2026-10-16,85,,,3,false,false,true,Home Finishing 85% — conflicts progress-page 7th floor / countdown Feb 2026 — NDI
+prog-golfscape-7th-sep2025,prop-golfscape-residences,2025-09-01,,7th Floor,,3,false,false,true,Progress posts Sep 2025 — NDI vs 85% finishing widget
+prog-luna-nre-10,prop-luna-oak-residency,2026-10-16,10,,,1,false,true,false,NRE widget 10% only — NV
+prog-libra-nre-58,prop-libra-residences,2026-10-17,58,,,2,false,true,false,NRE UI only — no developer tracker
+prog-gaia-nre-58,prop-gaia-brookside,2026-10-17,58,,,1,false,true,false,NRE widget only — NV
+prog-aya-nre-92,prop-aya-luxury-residence,2026-10-17,92,,,2,false,true,false,NRE UC 92% — NV; Whitehorse LinkedIn Oct 2025 progress no %

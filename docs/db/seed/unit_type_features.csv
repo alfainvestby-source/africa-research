@@ -1,0 +1,34 @@
+id,unit_type_id,feature_id,raw_text,confidence,is_canonical,needs_verification,publisher_class,notes
+utf-pandora-3br-dsq,ut-pandora-3br-study-dsq,dsq,3BR+study+DSQ,5,true,false,developer,Brochure typology label
+utf-pandora-3br-study,ut-pandora-3br-study-dsq,study,3BR+study+DSQ,5,true,false,developer,
+utf-pandora-4br-dsq,ut-pandora-4br-dsq,dsq,4BR+DSQ,5,true,false,developer,
+utf-pandora-5br-dsq,ut-pandora-5br-dsq,dsq,5BR+DSQ,5,true,false,developer,
+utf-porini-1br-balcony,ut-porini-1br,balcony,private balcony,5,true,false,developer,Developer: every unit has private balcony
+utf-porini-2br-balcony,ut-porini-2br,balcony,private balcony,5,true,false,developer,
+utf-porini-3br-balcony,ut-porini-3br,balcony,private balcony,5,true,false,developer,
+utf-porini-1br-kitchen,ut-porini-1br,fitted_kitchen,fitted kitchen hob/hood/oven,5,true,false,developer,
+utf-porini-2br-kitchen,ut-porini-2br,fitted_kitchen,fitted kitchen hob/hood/oven,5,true,false,developer,
+utf-porini-3br-kitchen,ut-porini-3br,fitted_kitchen,fitted kitchen hob/hood/oven,5,true,false,developer,
+utf-porini-1br-bay,ut-porini-1br,parking_bay,one parking space,5,true,false,developer,Info-pack footnote
+utf-porini-2br-bay,ut-porini-2br,parking_bay,one parking space,5,true,false,developer,
+utf-porini-3br-bay,ut-porini-3br,parking_bay,two parking spaces,5,true,false,developer,
+utf-porini-3br-ensuite,ut-porini-3br,ensuite,ensuite bedroom / ensuite bathroom,5,true,false,developer,Floor plan labels
+utf-porini-3br-wic,ut-porini-3br,walk_in_closet,walk-in-closet,5,true,false,developer,
+utf-porini-3br-laundry,ut-porini-3br,in_unit_laundry,laundry,5,true,false,developer,
+utf-diamond-4br-study,ut-diamond-4br-study,study,4-Bedroom Penthouse + Study,5,true,false,developer,
+utf-diamond-4br-dsq-study,ut-diamond-4br-dsq,study,4-Bedroom Penthouse + Study + DSQ,5,true,false,developer,
+utf-diamond-4br-dsq,ut-diamond-4br-dsq,dsq,4-Bedroom Penthouse + Study + DSQ,5,true,false,developer,
+utf-diamond-5br-dsq,ut-diamond-5br,dsq,5-Bedroom Duplex / Penthouse + DSQ + Study,5,true,false,developer,
+utf-diamond-5br-study,ut-diamond-5br,study,5-Bedroom Duplex / Penthouse + DSQ + Study,5,true,false,developer,
+utf-misty-1br-kitchen,ut-misty-1br,fitted_kitchen,fitted kitchen,3,false,false,agent,Agent consensus; no developer schedule
+utf-misty-2br90-kitchen,ut-misty-2br-90,fitted_kitchen,fitted kitchen,3,false,false,agent,
+utf-misty-2br99-kitchen,ut-misty-2br-99,fitted_kitchen,fitted kitchen,3,false,false,agent,
+utf-lesonia-1br-balcony,ut-lesonia-1br,balcony,private balcony garden,3,false,false,agent,balcony garden concept
+utf-lesonia-2br-balcony,ut-lesonia-2br,balcony,private balcony garden,3,false,false,agent,
+utf-lesonia-3br-balcony,ut-lesonia-3br,balcony,private balcony garden,3,false,false,agent,
+utf-luna-3br-dsq,ut-luna-3br-dsq,dsq,3BR+DSQ,5,true,false,developer,Oak/NEMA select +DSQ
+utf-luna-4br-dsq,ut-luna-4br-dsq,dsq,4BR+DSQ,5,true,false,developer,
+utf-golfscape-ph-dsq-nv,ut-golfscape-ph,dsq,4BR+DSQ duplex (agent),2,false,true,agent,Official says Penthouse only
+utf-polaris-1br-study,ut-polaris-1br-study,study,1BR+study,3,false,false,agent,
+utf-ks-3br-balcony,ut-kings-summit-3br,balcony,balcony with lake view,5,true,false,developer,
+utf-ks-3br-bay,ut-kings-summit-3br,parking_bay,1 parking per apartment,5,true,false,developer,

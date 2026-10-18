@@ -1,0 +1,52 @@
+property_id,external_id,slug,completion_display,completion_status,completion_raw,completion_needs_developer_input
+prop-pandora-residences,NBO-002,pandora-residences,December 2028 / CSV Q4 2028,window,December 2028 / CSV Q4 2028,false
+prop-astra-bay-residence,NBO-005,astra-bay-residence,2027 (dates conflict — confirm),conflict,"June / Q2 2027 (CSV, Block, Vorsa, Craiova) vs Q3 2027 (A-list)",true
+prop-porini-point,NBO-004,porini-point,First apartments Q1 2027; entire development September 2029,agreed,First apartments Q1 2027; entire development September 2029,false
+prop-galaxy-one,NBO-013,galaxy-one,Late 2027 (target / handover); staged Q2–Q3 2027 finishing on timelines,window,Late 2027 (target / handover); staged Q2–Q3 2027 finishing on timelines,false
+prop-riara-oasis,NBO-003,riara-oasis,2025–2028 (dates conflict — confirm),conflict,Multi-agent December / Q4 2027; A-list June 2027; Craiova March 2028; CPK page also slips December 2025 in two sentences — CONFLICT,true
+prop-gemini-residency-phase-2,NBO-009,gemini-residency-phase-2,2026–2029 (dates conflict — confirm),conflict,Site Mar 2029 vs LinkedIn 2026–2028,true
+prop-diamond-bay-residences,NBO-007,diamond-bay-residences,September 2027,agreed,September 2027,false
+prop-misty-springs,NBO-017,misty-springs,2025–2026 (dates conflict — confirm),conflict,CSV Q4 2025; OGRE December 2025; Klin/Azipa/OGRE alt Q3 2026; CPK/A-list/GNA complete / ready,true
+prop-golden-mansion,NBO-001,golden-mansion,2028 (dates conflict — confirm),conflict,"30 April 2028 / April 2028 (Block, Sir Francis, Craiova) vs May 2028 / 30 May 2028 (NRE, Realtors, CPK) vs Q2 2028 (Masterways, A-list, CSV)",true
+prop-longines-bay-kilimani,NBO-008,longines-bay-kilimani,Q4 2029 anticipated handover (FAQ); homepage KPI 2029 Anticipated Handover;…,agreed,Q4 2029 anticipated handover (FAQ); homepage KPI 2029 Anticipated Handover; multi-agent 2029,false
+prop-berkeley-homes,NBO-010,berkeley-homes,April 2028 / Q2 2028,window,April 2028 / Q2 2028,false
+prop-lesonia-residences,NBO-011,lesonia-residences,December 2028 handover,agreed,December 2028 handover,false
+prop-plumeria-residency,NBO-015,plumeria-residency,2026 (dates conflict — confirm),conflict,Modal: October / Q4 / December 2026; CSV Q4 2026,true
+prop-polaris-residency,NBO-016,polaris-residency,2025–2026 (dates conflict — confirm),conflict,"CSV 2025; agents December 2025 / occupation Jan 2026 (Azipa) vs ready/complete (Sir Francis, CPK, Block, GNA)",true
+prop-golfscape-residences,NBO-006,golfscape-residences,2026–2027 (dates conflict — confirm),conflict,"Official widgets disagree: home progress Jun 2027 vs progress-page countdown Feb 23, 2026 vs indexed/historical Dec 2026; agents Apr / Jun / Jul 2027; Hauzisha Dec 2026; CSV Q3 2027",true
+prop-luna-oak-residency,NBO-012,luna-oak-residency,2028–2029 (dates conflict — confirm),conflict,NRE/CPK/BuyRent: September 2029; CSV Q3 2029; Vorsa Q4 2028; Own It 2028; Rose TBA. Oak Group HTML silent this pass,true
+prop-alba-apartments,NBO-014,alba-apartments,2026 (dates conflict — confirm),conflict,"April 2026 (Own It, A-list body, Klin, Musilli-1, CPK body); March 2026 (Hauzisha; Musilli-1 “Phase 1 March”; CPK detail line); January 2026 (A-list footer); Q3 2026 (Musilli-2); CSV Q2 2026 check",true
+prop-kings-summit-nakuru,NAK-001,kings-summit-nakuru,,unknown,Developer Summit page: no date. Agents: Last Quarter 2026 (Craiova Summit) vs December 2026 / early 2027 (Craiova twin + Jumuika),false
+prop-nouveau,DISC-NBO-005,nouveau,Q4 2028,agreed,Q4 2028,false
+prop-sensei-nyali,MSA-001,sensei-nyali,Q3 2029,agreed,Q3 2029,false
+prop-kings-square-eldoret-ph2,ELD-001,kings-square-eldoret-ph2,,unknown,Not stated on Phase 2 project / listing pages this pass,false
+prop-capricorn-kilimani,DISC-CAPRICORN,capricorn-kilimani,2024–2026 (dates conflict — confirm),conflict,Staroot developments: 2026. Agents: September 2026 (Jimarket/Mascott) vs November 2026 (A-list) vs year-only (Hauzisha). LinkedIn About: Capricorn 2024–2026,true
+prop-canto,DISC-NBO-001,canto,April 2028,agreed,April 2028,false
+prop-ankori,DISC-NBO-004,ankori,Q4 2028,agreed,Q4 2028,false
+prop-brookside-oak,DISC-NBO-006,brookside-oak,June 2029 / Q2 2029; construction window 2026–2029,window,June 2029 / Q2 2029; construction window 2026–2029,false
+prop-kai-diani,KWA-001,kai-diani,2024–2028 (dates conflict — confirm),conflict,Hass project: Q1 2028. OMT: timeframe 2024 – 2027. Innova blog: Q4 2027. Brochure silent. No assumed canonical among disagreeing professional / marketing sources; Ayce microsite date not found,true
+prop-108-residences-diani,DIA-001,108-residences-diani,Start Mar 2025; complete Dec 2026; handover Jan 2027,window,Start Mar 2025; complete Dec 2026; handover Jan 2027 — Enin + HomesInKenya + BuyRent + CPK. Not found on 108residences.com pages this pass → not developer-canonical,false
+prop-forestview-residences,DISC-NBO-012,forestview-residences,2027 (dates conflict — confirm),conflict,June 2027 (Elegant Featured) vs agent “end of 2027” (CPK; Citiscape; one BRK),true
+prop-donyo-hill-residences,DISC-NBO-013,donyo-hill-residences,2027 (dates conflict — confirm),conflict,End 2027 (CPK / Block echo) vs December 2027 (Hauzisha) — year agrees,true
+prop-48-treehouse,DISC-NBO-014,48-treehouse,December 2027,window,December 2027 (Featured + Hauzisha + Realtor Kenya echo),false
+prop-sunpark-residence-ii,DISC-NBO-015,sunpark-residence-ii,,unknown,Official: no dated handover on II / Featured this pass (progress to Feb 2026). Agents: Dec 2025 (Complete Circle; Craiova; GNA era copy) · April 2026 (Hauzisha; RealtorKenya) · June 2026 (expired BRK listing snippet),false
+prop-citrine-heights,DISC-NBO-016,citrine-heights,2026–2028 (dates conflict — confirm),conflict,June 2028 (CPK; Habari) vs August 2028 (Craiova); sales launch Q3 2026 ≠ handover,true
+prop-auris-residence,DISC-NBO-017,auris-residence,2027–2028 (dates conflict — confirm),conflict,Hauzisha December 2027 vs Craiova May 2028 vs Ace/Ladva/Ravi/NRE end of 2028 / Q4 2028 → `needs_verification` + `needs_developer_input`,true
+prop-serene-manor,DISC-NBO-018,serene-manor,,unknown,Official silent on date. Hauzisha Oct–Dec 2027 / December 2027; majority agents Dec 2027 / Q4 2027; UrbanCore / Villa Lee Dec 2028; CPK stale Dec 2026,false
+prop-libra-residences,DISC-NBO-019,libra-residences,Developer Handover 2027; agents December / Q4 / November 2027,window,Developer Handover 2027; agents December / Q4 / November 2027,false
+prop-only-you,DISC-NBO-020,only-you,2026–2027 (dates conflict — confirm),conflict,December 2026 (Hauzisha; CPK; Erysler; Azipa; Almasi) vs Q1 2027 (NRE; GNA) vs year-only 2026 (Vorsa),true
+prop-gaia-brookside,DISC-NBO-021,gaia-brookside,2027–2028 (dates conflict — confirm),conflict,June 2028 cluster vs older Dec 2027 vs Q3 2027 widget vs Dec 2028 outliers — `needs_developer_input` (no plaintext completion on Wonder HTML; brochure PDF image-heavy / not text-extracted this pass),true
+prop-diplomat-residencies,DISC-NBO-022,diplomat-residencies,2027–2028 (dates conflict — confirm),conflict,March 2028 (Hauzisha; Almasi; Vorsa; Palmier; Block) vs Q1 2028 (Ravi) vs Q2 2028 (GNA; Space Kenya) vs December 2027 (Knight Frank),true
+prop-aya-luxury-residence,DISC-NBO-023,aya-luxury-residence,2026–2028 (dates conflict — confirm),conflict,December 2028 vs Q3 2028 vs NRE Q1 2026 (reject as stale / conflict),true
+prop-rhapta-one,DISC-NBO-024,rhapta-one,2026 (dates conflict — confirm),conflict,Hauzisha Oct 2026; Sicily / Oaklane Dec 2026; Craiova Sep 2026; Vorsa / Own It / CPK Mar 2026; GNA Q4 2026 (search) — `needs_verification`,true
+prop-alina-valley,DISC-NBO-025,alina-valley,2026–2028 (dates conflict — confirm),conflict,Q2 / May 2027 cluster vs Q1 2027 vs Dec 2026 vs Mar 2028 vs older Mar / Q3 2026 — `needs_developer_input` (no plaintext completion on Wonder HTML this pass),true
+prop-montbleu,DISC-NBO-026,montbleu,2027 (dates conflict — confirm),conflict,November 2027 vs December 2027 — agree year; month soft,true
+prop-marina-bay-2,DISC-NBO-027,marina-bay-2,2026–2027 (dates conflict — confirm),conflict,Majority December 2026 vs GNA Q1 2027 occupation vs one Realtors 1BR card November 2026 → `needs_verification`,true
+prop-atreus-brookside,DISC-NBO-028,atreus-brookside,2027 (dates conflict — confirm),conflict,June 2027 vs July 2027 vs Q3 2027 vs Q4 2027 (year mostly 2027),true
+prop-grand-premier,DISC-NBO-029,grand-premier,2021–2026 (dates conflict — confirm),conflict,"Apex target 2021; Kenya Insights dispute narrative expected Dec 2023 / incomplete as of Nov 2024 (news, conf low); CPK “now complete” (2025–2026 listing)",true
+prop-rosewood-park,DISC-NBO-030,rosewood-park,,unknown,No future completion date on retained sources; Ready-language + rentals imply delivered stock — `needs_developer_input`,true
+prop-237-lulu,DISC-NBO-007,237-lulu,2028 (dates conflict — confirm),conflict,Q3 2028 (developer) vs July 2028 (CPK) vs July–August 2028 (WAC) vs August 2028 (Hauzisha),true
+prop-highpoint-336,DISC-NBO-008,highpoint-336,2027–2028 (dates conflict — confirm),conflict,Q2 2028 (NRE) vs June 2028 (BuyRent/Malluu) vs older July 2027 search noise,true
+prop-jabali-towers,DISC-NBO-009,jabali-towers,December 2028,agreed,December 2028,false
+prop-balkis-residences,DISC-NBO-010,balkis-residences,2028 (dates conflict — confirm),conflict,March 2028 vs Q4 2028 (year agrees),true
+prop-hephe-palace,DISC-NBO-011,hephe-palace,2028 (dates conflict — confirm),conflict,September 2028 (agents / SSC) vs Q3 2028 (NRE) — agree year/quarter band,true

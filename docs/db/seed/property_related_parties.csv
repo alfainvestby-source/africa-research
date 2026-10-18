@@ -1,0 +1,37 @@
+property_id,related_party_id,developer_id,role_notes
+prop-astra-bay-residence,rp-laureland-homes,dev-wimax-homes,marketing_partner only — flyer footer brand overlap; no property_developer edge
+prop-porini-point,rp-tatu-city-limited,dev-rendeavour,co_developer RelatedParty — dual with property_developers co_developer edge on dev-tatu-city-limited
+prop-riara-oasis,rp-aimasi-real-estate,dev-riara-oasis-limited,marketing_partner — Netlify/LinkedIn sales surface; not SPV
+prop-riara-oasis,rp-oasis-group,dev-riara-oasis-limited,marketing_partner name only — unproven parent from Block portfolio page
+prop-gemini-residency-phase-2,rp-proxima-real-estate,dev-staroot-real-estate,marketing_partner — Phase 1 partnership; not co_developer
+prop-golden-mansion,rp-xiangfeng-group,dev-summit-vista-company-limited,co_developer RelatedParty — dual with property_developers edge
+prop-golden-mansion,rp-skypeak-limited,dev-summit-vista-company-limited,marketing_partner / development platform — not EIA developer
+prop-longines-bay-kilimani,rp-nanchong-longines-island,dev-nanchong-longines-bay-limited,Related filing entity different Westlands project — do not merge
+prop-golfscape-residences,rp-highpoint-residences,dev-wh-harmony-investment,marketing_partner — Highpoint 336 brand overlap; not GroupCompany
+prop-luna-oak-residency,rp-oak-group-residences,dev-mingland-company,marketing_partner — oakgroup.co.ke; not proven Mingland parent; not co_developer
+prop-alba-apartments,rp-alba-garden,dev-nanchang-investment,related_brand_project — different Kilimani asset; do not merge
+prop-kings-summit-nakuru,rp-elp-kenya,dev-kings-developers-ltd,other — property management FAQ; not Summit sales partner
+prop-kings-square-eldoret-ph2,rp-kings-square-eldoret-ph1,dev-kings-developers-ltd,prior_phase — completed Kings Square Eldoret; do not merge into Phase 2
+prop-capricorn-kilimani,rp-mulika-garden,dev-staroot-real-estate,co_developer RelatedParty — dual with property_developers edge
+prop-capricorn-kilimani,rp-proxima-real-estate,dev-staroot-real-estate,marketing_partner / development consultant — hosts Capricorn PDF
+prop-brookside-oak,rp-oak-group-residences,dev-van-tung-company,marketing_partner — oakgroup.co.ke Brookside page + from 8.2M; same pattern as Luna Oak; do not merge projects
+prop-kai-diani,rp-innova-properties,dev-ayce-investments-limited,RelatedParty publisher/progress — not brochure Developer
+prop-kai-diani,rp-hassconsult-kai,dev-ayce-investments-limited,exclusive selling agent — operating_sales; Hass ≠ primary developer here
+prop-108-residences-diani,rp-daiga-properties,dev-omicron-resources,marketing_partner / sales office on official contacts
+prop-108-residences-diani,rp-dunhill-consulting,dev-omicron-resources,marketing_partner / co-marketer + furnished listing
+prop-sunpark-residence-ii,rp-sic-prime,dev-elegant-properties,marketing_partner candidate conf 2 — SIC Prime channel; not SPV
+prop-libra-residences,rp-nmn-law-associates,dev-glbc-group,legal_partner portfolio-level — not Libra SPV
+prop-libra-residences,rp-leos-realty-group,dev-glbc-group,marketing_partner candidate conf 2 NV
+prop-only-you,rp-onlyou-investments,,legal_spv / land_owner EIA — primary_developer left NULL
+prop-only-you,rp-glbc-only-you,,marketing_partner only — do NOT set primary_developer=GLBC
+prop-gaia-brookside,rp-fameve-gaia,dev-wonder-properties,marketing/ops conf 2 NV
+prop-aya-luxury-residence,rp-aad-real-estate-prior,dev-whitehorse-real-estate,prior_trading_name AAD → Whitehorse rebrand
+prop-aya-luxury-residence,rp-sandoral-developers,dev-whitehorse-real-estate,unverified_developer_attribution NDI conf 1 — never primary
+prop-montbleu,rp-muthithi-square-dev,,named_developer_face / likely SPV — primary left NULL NDI
+prop-montbleu,rp-m-group-montbleu,,marketing_partner only — do NOT set primary=M-Group
+prop-marina-bay-2,rp-marina-bay-square-ph1,dev-m-group-developer,Phase 1 EIA sibling — not Phase 2 SPV
+prop-atreus-brookside,rp-sunmon-atreus,dev-atreus-ventures-ltd,claimed_developer_face Hauzisha — never primary
+prop-atreus-brookside,rp-lesto-atreus,dev-atreus-ventures-ltd,claimed_developer_face — never primary; ≠ Lesto Ojijo
+prop-grand-premier,rp-aad-grand-premier,dev-whitehorse-real-estate,prior_trading_name AAD → Whitehorse
+prop-rosewood-park,rp-aad-rosewood,dev-whitehorse-real-estate,prior_trading_name AAD → Whitehorse
+prop-hephe-palace,rp-sequoia-china-limited,,

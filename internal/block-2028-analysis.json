@@ -1,0 +1,401 @@
+{
+  "filter": "Completion == 2028 exact",
+  "total_csv": 220,
+  "exact_2028": 74,
+  "true_corpus_overlaps": [
+    {
+      "Title": "Luna Oak Residency",
+      "URL": "https://block.ke/project/luna-oak-residency/",
+      "Listings": "5",
+      "corpus": "luna-oak-residency"
+    },
+    {
+      "Title": "Golden Mansion",
+      "URL": "https://block.ke/project/golden-mansion/",
+      "Listings": "3",
+      "corpus": "golden-mansion"
+    },
+    {
+      "Title": "Pandora Residences",
+      "URL": "https://block.ke/project/pandora-residences/",
+      "Listings": "3",
+      "corpus": "pandora-residences"
+    },
+    {
+      "Title": "Canto",
+      "URL": "https://block.ke/project/canto/",
+      "Listings": "2",
+      "corpus": "canto"
+    },
+    {
+      "Title": "Berkeley Homes Apartments",
+      "URL": "https://block.ke/project/berkeley-homes-apartments/",
+      "Listings": "1",
+      "corpus": "berkeley-homes"
+    },
+    {
+      "Title": "Lesonia Residences",
+      "URL": "https://block.ke/project/lesonia-residences/",
+      "Listings": "1",
+      "corpus": "lesonia-residences"
+    }
+  ],
+  "near_misses_treated_as_new": [
+    {
+      "Title": "Gaia Brookside",
+      "URL": "https://block.ke/project/gaia-brookside/",
+      "Listings": "4",
+      "note": "\u2260 Brookside Oak (NBO corpus) \u2014 different project; already in kenya-offplan-leads"
+    },
+    {
+      "Title": "Golden Apple",
+      "URL": "https://block.ke/project/golden-apple/",
+      "Listings": "4",
+      "note": "\u2260 Golden Mansion \u2014 name only shares 'Golden'"
+    },
+    {
+      "Title": "Kings Lotus",
+      "URL": "https://block.ke/project/kings-lotus/",
+      "Listings": "4",
+      "note": "\u2260 Kings Square Eldoret / Kings Summit Nakuru \u2014 brand token only"
+    },
+    {
+      "Title": "Golden Hill",
+      "URL": "https://block.ke/project/golden-hill/",
+      "Listings": "3",
+      "note": "\u2260 Golden Mansion \u2014 name only shares 'Golden'"
+    },
+    {
+      "Title": "Amethyst Springs Residences",
+      "URL": "https://block.ke/project/amethyst-springs-residences/",
+      "Listings": "2",
+      "note": "\u2260 Misty Springs \u2014 different Springs project"
+    },
+    {
+      "Title": "Avana Oasis",
+      "URL": "https://block.ke/project/avana-oasis/",
+      "Listings": "2",
+      "note": "\u2260 Riara Oasis \u2014 'Oasis' token only"
+    },
+    {
+      "Title": "Kings Pinnacle",
+      "URL": "https://block.ke/project/kings-pinnacle/",
+      "Listings": "1",
+      "note": "\u2260 Kings Square Eldoret / Kings Summit Nakuru \u2014 brand token only"
+    },
+    {
+      "Title": "Mogotio Oasis",
+      "URL": "https://block.ke/project/mogotio-oasis/",
+      "Listings": "1",
+      "note": "\u2260 Riara Oasis \u2014 known false geographic match; do not merge"
+    }
+  ],
+  "discovery_prior_hits": [
+    {
+      "Title": "Ivy Park Residences",
+      "URL": "https://block.ke/project/ivy-park-residences/",
+      "Listings": "5",
+      "note": "kenya-offplan-leads: Ivy Park Residence (Kirichwa / Ivy Group)"
+    },
+    {
+      "Title": "Fountain Residency",
+      "URL": "https://block.ke/project/fountain-residency/",
+      "Listings": "3",
+      "note": "kenya-offplan-leads: Fountain Residency (thin)"
+    }
+  ],
+  "brand_new_ranked": [
+    {
+      "Title": "Balkis Residences",
+      "URL": "https://block.ke/project/balkis-residences/",
+      "Listings": "7"
+    },
+    {
+      "Title": "Gamil Heights",
+      "URL": "https://block.ke/project/gamil-heights/",
+      "Listings": "6"
+    },
+    {
+      "Title": "Hephe Palace",
+      "URL": "https://block.ke/project/hephe-palace/",
+      "Listings": "6"
+    },
+    {
+      "Title": "Karura Forest Views",
+      "URL": "https://block.ke/project/karura-forest-views/",
+      "Listings": "6"
+    },
+    {
+      "Title": "237 Lulu Garden City",
+      "URL": "https://block.ke/project/237-lulu-garden-city/",
+      "Listings": "5"
+    },
+    {
+      "Title": "AYA Residence",
+      "URL": "https://block.ke/project/aya-residence/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Amber Bay Heights",
+      "URL": "https://block.ke/project/amber-bay-heights/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Cambridge Garden",
+      "URL": "https://block.ke/project/cambridge-garden/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Chestnut City",
+      "URL": "https://block.ke/project/chestnut-city/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Highpoint 336 Residences",
+      "URL": "https://block.ke/project/highpoint-336-residences/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Jabali Towers",
+      "URL": "https://block.ke/project/jabali-towers/",
+      "Listings": "5"
+    },
+    {
+      "Title": "KEZA Riruta",
+      "URL": "https://block.ke/project/keza-riruta/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Morvara Hotel Style Apartments",
+      "URL": "https://block.ke/project/morvara-hotel-style-apartments/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Seasons Riverside",
+      "URL": "https://block.ke/project/seasons-riverside/",
+      "Listings": "5"
+    },
+    {
+      "Title": "Aether Residences",
+      "URL": "https://block.ke/project/aether-residences/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Auris Residence",
+      "URL": "https://block.ke/project/auris-residence/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Baystar",
+      "URL": "https://block.ke/project/baystar/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Butterfly Palace",
+      "URL": "https://block.ke/project/butterfly-palace/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Calla Residency",
+      "URL": "https://block.ke/project/calla-residency/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Executive Suites",
+      "URL": "https://block.ke/project/executive-suites/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Forest One Residency",
+      "URL": "https://block.ke/project/forest-one-residency/",
+      "Listings": "4"
+    },
+    {
+      "Title": "KEZA Laika",
+      "URL": "https://block.ke/project/keza-laika/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Mara Grove Apartments",
+      "URL": "https://block.ke/project/mara-grove-apartments/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Riverside Azure",
+      "URL": "https://block.ke/project/riverside-azure/",
+      "Listings": "4"
+    },
+    {
+      "Title": "Space Residence",
+      "URL": "https://block.ke/project/space-residence/",
+      "Listings": "4"
+    },
+    {
+      "Title": "6040 Vista",
+      "URL": "https://block.ke/project/6040-vista/",
+      "Listings": "3"
+    },
+    {
+      "Title": "97 Alta",
+      "URL": "https://block.ke/project/97-alta/",
+      "Listings": "3"
+    },
+    {
+      "Title": "Bahari Central",
+      "URL": "https://block.ke/project/bahari-central/",
+      "Listings": "3"
+    },
+    {
+      "Title": "Diplomat Residences",
+      "URL": "https://block.ke/project/diplomat-residences/",
+      "Listings": "3"
+    },
+    {
+      "Title": "Himalaya Halo",
+      "URL": "https://block.ke/project/himalaya-halo/",
+      "Listings": "3"
+    },
+    {
+      "Title": "Panda Towers 001",
+      "URL": "https://block.ke/project/panda-towers-001/",
+      "Listings": "3"
+    },
+    {
+      "Title": "The Oxford Homes",
+      "URL": "https://block.ke/project/the-oxford-homes/",
+      "Listings": "3"
+    },
+    {
+      "Title": "156 Elara",
+      "URL": "https://block.ke/project/156-elara/",
+      "Listings": "2"
+    },
+    {
+      "Title": "Amani Residence",
+      "URL": "https://block.ke/project/amani-residence/",
+      "Listings": "2"
+    },
+    {
+      "Title": "East Vista Residence",
+      "URL": "https://block.ke/project/east-vista-residence/",
+      "Listings": "2"
+    },
+    {
+      "Title": "Fortis One",
+      "URL": "https://block.ke/project/fortis-one/",
+      "Listings": "2"
+    },
+    {
+      "Title": "Oak Breeze Residences",
+      "URL": "https://block.ke/project/oak-breeze-residences/",
+      "Listings": "2"
+    },
+    {
+      "Title": "San Remo Heights",
+      "URL": "https://block.ke/project/san-remo-heights/",
+      "Listings": "2"
+    },
+    {
+      "Title": "Stellar Bay",
+      "URL": "https://block.ke/project/stellar-bay/",
+      "Listings": "2"
+    },
+    {
+      "Title": "Stellar Bay Apartments",
+      "URL": "https://block.ke/project/stellar-bay-apartments/",
+      "Listings": "2"
+    },
+    {
+      "Title": "A-One Acacia",
+      "URL": "https://block.ke/project/a-one-acacia/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Amalia Meadow Villas",
+      "URL": "https://block.ke/project/amalia-meadow-villas/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Azure Apex Residences",
+      "URL": "https://block.ke/project/azure-apex-residences/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Beulah Genesis Apartments",
+      "URL": "https://block.ke/project/beulah-genesis-apartments/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Bomexa 6 Towers",
+      "URL": "https://block.ke/project/bomexa-6-towers/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Capital Vista",
+      "URL": "https://block.ke/project/capital-vista/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Cheval Riverside",
+      "URL": "https://block.ke/project/cheval-riverside/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Enaki Forestside",
+      "URL": "https://block.ke/project/enaki-forestside/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Expressview Residency",
+      "URL": "https://block.ke/project/expressview-residency/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Five Star Hills",
+      "URL": "https://block.ke/project/five-star-hills/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Hibo Manor",
+      "URL": "https://block.ke/project/hibo-manor/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Ikhaya Sunrise",
+      "URL": "https://block.ke/project/ikhaya-sunrise/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Lakehills",
+      "URL": "https://block.ke/project/lakehills/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Luminara Residency",
+      "URL": "https://block.ke/project/luminara-residency/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Silver Hill Tatu City",
+      "URL": "https://block.ke/project/silver-hill-tatu-city/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Terreno",
+      "URL": "https://block.ke/project/terreno/",
+      "Listings": "1"
+    },
+    {
+      "Title": "The Opal",
+      "URL": "https://block.ke/project/the-opal/",
+      "Listings": "1"
+    },
+    {
+      "Title": "Ubora Living",
+      "URL": "https://block.ke/project/ubora-living/",
+      "Listings": "1"
+    }
+  ],
+  "new_total_including_near_and_discovery": 68,
+  "caveat_block_hubs": "Block /project/ pages are thin archives; property cards scraped from hubs were identical site-wide unrelated listings (Le Vert Riverside, Kongoni warehouses) \u2014 do not use those for location/price."
+}
