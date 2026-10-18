@@ -202,3 +202,15 @@ ct-spectre-karim-email,email,sales@karimexclusives.com,related_party,rp-karim-ex
 ct-spectre-karim-url,url,https://www.karimexclusives.com,related_party,rp-karim-exclusives-spectre,Karim Exclusives,true
 ct-spectre-cpk-phone,phone,+254 78 444 8888,agent,agent-cpk,CPK Spectre listing (secondary),false
 ct-spectre-nre-phone,phone,+254 700 624 620,agent,agent-nairobi-realty,Nairobi Realty Spectre listing (secondary),false
+ct-ivy-myst-dev-phone,phone,+254 118 266 666,developer,dev-ivy-group,Ivy Group sales,true
+ct-ivy-myst-dev-email,email,marketing.ivy-group@rsunproperty.net,developer,dev-ivy-group,Ivy Group marketing,true
+ct-ivy-myst-dev-url,url,https://www.ivygroup.ke/,developer,dev-ivy-group,The Ivy Group,true
+ct-ivy-myst-dev-project-url,url,https://www.ivygroup.ke/ivy-myst,developer,dev-ivy-group,Ivy Myst on Ivy Group hub,false
+ct-ivy-myst-prop-url,url,https://ivymyst.ke/,property,prop-ivy-myst,Official project site (JS-thin this pass),true
+ct-ivy-myst-prop-hub-url,url,https://www.ivygroup.ke/ivy-myst,property,prop-ivy-myst,Developer project page (field-rich),false
+ct-ivy-myst-karim-phone,phone,+254 140 000 700,related_party,rp-karim-exclusives-ivy-myst,Karim Exclusives brochure CTA,true
+ct-ivy-myst-karim-phone-750,phone,+254 750 070 053,related_party,rp-karim-exclusives-ivy-myst,Karim Exclusives secondary,false
+ct-ivy-myst-karim-email,email,sales@karimexclusives.com,related_party,rp-karim-exclusives-ivy-myst,Karim sales,true
+ct-ivy-myst-karim-url,url,https://www.karimexclusives.com,related_party,rp-karim-exclusives-ivy-myst,Karim Exclusives,true
+ct-ivy-myst-nre-phone,phone,+254 700 624 620,agent,agent-nairobi-realty,Nairobi Realty Ivy Myst listing,false
+ct-ivy-myst-realtors-phone,phone,+254 791 138 831,agent,agent-realtors,Realtors.co.ke Ivy Myst listing,false

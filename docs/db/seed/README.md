@@ -3,13 +3,13 @@
 **Rule:** rows come only from verified dossier claims. No invented property facts.  
 CSV `/cursor/stores/self/internal/nairobi_off_plan_projects.csv` = **lead index only**.
 
-**Full inventory:** [corpus-rollup.md](corpus-rollup.md) (**52** properties — NBO + NAK/MSA/ELD/KWA/DIA + DISC)  
+**Full inventory:** [corpus-rollup.md](corpus-rollup.md) (**53** properties — NBO + NAK/MSA/ELD/KWA/DIA + DISC)  
 **Coverage pass:** [db-coverage-pass-2026-10-18.md](../../../internal/db-coverage-pass-2026-10-18.md)  
 **Card facets harvest (0.1.21):** [property-card-facets-harvest-report-2026-10-18.md](../../../internal/property-card-facets-harvest-report-2026-10-18.md)  
 **Prior Wave B slice:** [wave-b-rollup.md](wave-b-rollup.md)  
 **Locks:** [decisions.md](../../decisions.md)
 
-## Coverage (52 properties)
+## Coverage (53 properties)
 
 ### National / discovery
 | external_id | Project | Included |
@@ -49,6 +49,7 @@ CSV `/cursor/stores/self/internal/nairobi_off_plan_projects.csv` = **lead index 
 | DISC-NBO-029 | Grand Premier | Yes — Whitehorse; `off_plan`; Ready lean NDI |
 | DISC-NBO-030 | Rosewood Park | Yes — Whitehorse; `off_plan`; Ready lean NDI |
 | DISC-NBO-031 | Spectre Residences | Yes — **AYA Real Estate** NEW (≠ Whitehorse / AYA Luxury); `off_plan`; price NDI → POA; payment developer canonical |
+| DISC-NBO-032 | Ivy Myst Residence | Yes — **Ivy Group** promoted + R-Sun GC; `building`; 8.8 vs 7.9 NDI → POA; Karim mkt; Maps place exact |
 
 ### Nairobi (17)
 
@@ -76,7 +77,7 @@ CSV `/cursor/stores/self/internal/nairobi_off_plan_projects.csv` = **lead index 
 
 | File | Contents |
 |------|----------|
-| `corpus-rollup.md` | **Full 51-property inventory** (NBO + NAK/MSA/ELD/KWA/DIA + DISC) |
+| `corpus-rollup.md` | **Full 53-property inventory** (NBO + NAK/MSA/ELD/KWA/DIA + DISC) |
 | `wave-b-rollup.md` | Earlier Wave B / half-batch slice |
 | `group_companies.csv` | Evidenced / proposed parents (Nanchong; Nanchang Foreign Engineering proposed) |
 | `geo_places.csv` | Places + master-planned communities |

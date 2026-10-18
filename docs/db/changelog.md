@@ -1,5 +1,39 @@
 # DB model changelog
 
+## 0.1.27 — 2026-10-18 — Ivy Myst seed (DISC-NBO-032)
+
+### Seeded
+| ID | Project | Notes |
+|----|---------|-------|
+| DISC-NBO-032 | Ivy Myst Residence | `inventory_class=building`; Gatundu Rd / Kileleshwa |
+
+### Developer / parties
+- **PROMOTE** `dev-lead-ivy-group-kenya` → **`dev-ivy-group`** (trading conf **5**; website ivygroup.ke)
+- **NEW** GroupCompany `gc-r-sun-properties` (ivygroup.ke “part of R-Sun Properties”, conf **4**)
+- RelatedParty `rp-karim-exclusives-ivy-myst` = **marketing_partner** (conceptualizer + brochure) — **not** primary; do **not** auto-merge `rp-karim-exclusives-spectre` / `stk-karim-cg`
+- Agents claiming Karim as developer → rejected for primary
+
+### Prices / payment
+- Multi `price_observations` — Ivy Group **8.8M** 1BR floor vs brochure/agents **7.9M** → **`needs_developer_input`**; public hero **POA**
+- 2BR from **14.2M** agrees; 3BR user **19.6M** vs official **19.8M** soft
+- Payment: **20%** in 7 days / **10%×5** quarters / **30%** completion (brochure + NRE + user; Ivy soft “typically 20%”) — must-have **soft-met**; tenor detail **`needs_verification`** vs LOO
+
+### Geo
+- User Maps short link → place **IVY MYST RESIDENCE** **−1.2774498, 36.7854601** (CID `16200090799603607907`) — `geo_method=official` conf **4**, `map_tier=exact`; promoted to `properties.lat/lng`
+- Nominatim Gatundu Rd **−1.278297, 36.784821** conf **2** demoted secondary
+- Address claim: Gatundu Rd, Kileleshwa — “Nairobi's Most Coveted Address”
+
+### Locks
+- Block.ke low-trust; **never** `0730`; storeys **NDI** (22 vs 23–25 vs 24)
+
+### Rollup
+- [`seed/corpus-rollup.md`](seed/corpus-rollup.md) — **53** properties (40 `building` / 13 `off_plan`)
+
+### Docs
+- Dossier [`projects/ivy-myst.md`](../projects/ivy-myst.md) · handoff [`../../internal/ivy-myst-steward-handoff-2026-10-18.md`](../../internal/ivy-myst-steward-handoff-2026-10-18.md) · ingest [`../../internal/ivy-myst-seed-ingest.md`](../../internal/ivy-myst-seed-ingest.md)
+
+---
+
 ## 0.1.26 — 2026-10-18 — Spectre Residences seed (DISC-NBO-031)
 
 ### Seeded

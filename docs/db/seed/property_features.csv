@@ -26,7 +26,7 @@ pf-astra-gaming,prop-astra-bay-residence,indoor_gaming,indoor gaming,,5,true,fal
 pf-astra-social,prop-astra-bay-residence,social_corridor,social corridor,,5,true,false,false,developer,flyer
 pf-astra-track,prop-astra-bay-residence,tracking_range,tracking range,,5,true,false,false,developer,flyer
 pf-astra-net,prop-astra-bay-residence,internet_cable,internet/cable,,5,true,false,false,developer,flyer
-pf-astra-retail-nv,prop-astra-bay-residence,retail_boulevard,"1800 sqm retail + Carrefour/Naivas",,1,false,true,false,agent,Craiova — needs_verification
+pf-astra-retail-nv,prop-astra-bay-residence,retail_boulevard,1800 sqm retail + Carrefour/Naivas,,1,false,true,false,agent,Craiova — needs_verification
 pf-astra-solar-nv,prop-astra-bay-residence,rooftop_solar,rooftop solar,,1,false,true,false,agent,Craiova
 pf-astra-pool-nv,prop-astra-bay-residence,swimming_pool,pool,,1,false,true,false,agent,Foresee stub / not on developer — NV
 pf-porini-club,prop-porini-point,clubhouse,clubhouse,,5,true,false,false,developer,
@@ -617,3 +617,22 @@ pf-spectre-cinema,prop-spectre-residences,cinema,Private Cinema,,5,true,false,fa
 pf-spectre-sky-lounge,prop-spectre-residences,lounge,Sky terrace / sky lounge,11th-floor sky terrace / 21st-floor sky lounge,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)
 pf-spectre-cowork,prop-spectre-residences,coworking,Business / co-working,business centre / meeting,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)
 pf-spectre-games,prop-spectre-residences,indoor_gaming,Games room,indoor gaming,5,true,false,false,developer,spectre.ke THE AMENITIES (extended)
+pf-ivy-myst-courtyard,prop-ivy-myst,green_area,Courtyard,mezzanine courtyard,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-zen-garden,prop-ivy-myst,green_area,Indoor Zen Garden,indoor zen / sky garden variant,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-thermal-pool,prop-ivy-myst,swimming_pool,Thermal Heated Pool,heated / thermal mezzanine,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-work,prop-ivy-myst,coworking,Work Sanctuary,coworking,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-kids,prop-ivy-myst,kids_play,Kids Play Room,,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-strength-gym,prop-ivy-myst,gym,Strength Gym,mezzanine strength gym,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-sauna,prop-ivy-myst,sauna,Sauna and Massage Room,sauna half,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-spa,prop-ivy-myst,spa,Sauna and Massage Room,spa / massage half,5,true,false,false,developer,brochure mezzanine
+pf-ivy-myst-aqua-bar,prop-ivy-myst,restaurant_cafe,Aqua Sky Bar,bar variant; brochure 23rd,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-water-lounge,prop-ivy-myst,lounge,Upper Water Lounge,brochure 24th,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-firepit-lounge,prop-ivy-myst,lounge,Fire-pit Lounge,fire-pit lounge; brochure 24th,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-firepit,prop-ivy-myst,fire_pit,Fire-pit Lounge,fire pit,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-celestial-pool,prop-ivy-myst,swimming_pool,Celestial Pool,celestial / infinity variant; brochure 25th,5,true,false,false,developer,brochure rooftop + Ivy Group gallery
+pf-ivy-myst-cardio-gym,prop-ivy-myst,gym,Cardio Gym,rooftop cardio; brochure 25th,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-sky-yoga,prop-ivy-myst,yoga,Sky Yoga,brochure 25th,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-sky-restaurant,prop-ivy-myst,restaurant_cafe,Sky Restaurant,brochure 25th,5,true,false,false,developer,brochure rooftop
+pf-ivy-myst-reception,prop-ivy-myst,reception,Grand reception,,5,true,false,false,developer,brochure / marketing
+pf-ivy-myst-parking,prop-ivy-myst,parking,Basement parking,basement,5,true,false,false,developer,Ivy Group
+pf-ivy-myst-balcony-green,prop-ivy-myst,green_area,Living garden balconies,apartment living gardens (also unit balcony),5,true,false,false,developer,brochure / Ivy Group

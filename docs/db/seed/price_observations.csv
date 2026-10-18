@@ -197,3 +197,17 @@ price-spectre-aya-1br-65-112,prop-spectre-residences,ut-spectre-1br-65,11200000,
 price-spectre-aya-2br-100-167,prop-spectre-residences,ut-spectre-2br-100,16700000,KES,list_price,,aya_developments_hub,4,false,false,true,developer,AYA hub — NDI vs spectre.ke 18.4M,2026-10-18
 price-spectre-agent-from-88,prop-spectre-residences,ut-spectre-1br-50,8800000,KES,from_hero,,cpk_nairobi_realty,3,false,true,false,agent,CPK / Nairobi Realty / Karim social echo older ladder,2026-10-18
 price-spectre-agent-2br-from-167,prop-spectre-residences,ut-spectre-2br-100,16700000,KES,from_hero,,nairobi_realty,3,false,true,false,agent,Nairobi Realty 2BR from 16.7M,2026-10-18
+price-ivy-myst-ivy-1br-from-88,prop-ivy-myst,ut-ivy-myst-1br,8800000,KES,from_hero,,ivygroup_typed_floor,5,false,false,true,developer,Ivy Group hub 1BR from 8.8M — NDI vs brochure/agents 7.9M,2026-10-18
+price-ivy-myst-ivy-1br-to-105,prop-ivy-myst,ut-ivy-myst-1br,10500000,KES,list_price,,ivygroup_band_ceiling,5,false,false,false,developer,Ivy Group 1BR band to 10.5M,2026-10-18
+price-ivy-myst-ivy-2br-from-142,prop-ivy-myst,ut-ivy-myst-2br,14200000,KES,from_hero,,ivygroup_typed_floor,5,false,false,false,developer,Ivy Group + brochure + user agree 2BR from 14.2M,2026-10-18
+price-ivy-myst-ivy-2br-to-204,prop-ivy-myst,ut-ivy-myst-2br,20400000,KES,list_price,,ivygroup_band_ceiling,5,false,false,false,developer,Ivy Group 2BR band to 20.4M,2026-10-18
+price-ivy-myst-ivy-3br-from-198,prop-ivy-myst,ut-ivy-myst-3br-dsq,19800000,KES,from_hero,,ivygroup_typed_floor,5,false,false,false,developer,Ivy Group/brochure 3BR+DSQ from 19.8M — soft vs user 19.6M,2026-10-18
+price-ivy-myst-ivy-3br-to-296,prop-ivy-myst,ut-ivy-myst-3br-dsq,29600000,KES,list_price,,ivygroup_band_ceiling,5,false,false,false,developer,Ivy Group 3BR+DSQ band to 29.6M,2026-10-18
+price-ivy-myst-brochure-1br-from-79,prop-ivy-myst,ut-ivy-myst-1br,7900000,KES,from_hero,,brochure_typed_floor,4,false,false,true,brochure,Karim brochure 1BR from 7.9M — NDI vs Ivy Group 8.8M; needs_developer_input,2026-10-18
+price-ivy-myst-brochure-roi-1br-79,prop-ivy-myst,ut-ivy-myst-1br,7900000,KES,list_price,,brochure_roi_sample,4,false,false,true,brochure,Brochure ROI sample 7.9M,2026-10-18
+price-ivy-myst-brochure-roi-2br-14242,prop-ivy-myst,ut-ivy-myst-2br,14242000,KES,list_price,,brochure_roi_sample,4,false,true,false,brochure,Brochure ROI sample 14.242M,2026-10-18
+price-ivy-myst-brochure-roi-3br-19898,prop-ivy-myst,ut-ivy-myst-3br-dsq,19898000,KES,list_price,,brochure_roi_sample,4,false,true,false,brochure,Brochure ROI sample 19.898M,2026-10-18
+price-ivy-myst-agent-from-79,prop-ivy-myst,ut-ivy-myst-1br,7900000,KES,from_hero,,nre_realtors_hero,3,false,true,false,agent,Nairobi Realty / Realtors hero from 7.9M — aligns brochure; NV,2026-10-18
+price-ivy-myst-user-1br-88,prop-ivy-myst,ut-ivy-myst-1br,8800000,KES,from_hero,,user_lead,3,false,true,false,seed_csv,User from 8.8M — aligns Ivy Group 1BR floor,2026-10-18
+price-ivy-myst-user-2br-142,prop-ivy-myst,ut-ivy-myst-2br,14200000,KES,from_hero,,user_lead,3,false,true,false,seed_csv,User from 14.2M,2026-10-18
+price-ivy-myst-user-3br-196,prop-ivy-myst,ut-ivy-myst-3br-dsq,19600000,KES,from_hero,,user_lead,3,false,true,false,seed_csv,User from 19.6M — soft mismatch vs official 19.8M,2026-10-18
